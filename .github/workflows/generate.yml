@@ -44,7 +44,8 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ web/public/data/
-          # Only commit and push if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-generate weekly newsletter" && git push)
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f output/
+          git add -f web/public/data/
+          git commit -m "Auto-generate weekly newsletter [skip ci]" || exit 0
+          git push
