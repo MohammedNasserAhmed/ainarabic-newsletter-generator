@@ -34,7 +34,7 @@ The repository operates as a decoupled monolith, seamlessly blending a Python da
 
 ```mermaid
 graph TD
-    subgraph Data Pipeline [Python Generation Layer]
+    subgraph DataPipeline [Python Generation Layer]
         A[config.py] --> B[Exa Deep Search]
         B --> C{Deduplication Layer 1}
         C --> D[Groq LLM Summarization]
@@ -43,11 +43,11 @@ graph TD
     end
 
     subgraph Automation [GitHub Actions]
-        G[generate.yml Cron] -->|Executes| Data Pipeline
+        G[generate.yml Cron] -->|Executes| DataPipeline
         G -->|Syncs| H(React public/data)
     end
 
-    subgraph Web Application [Node.js + React]
+    subgraph WebApp [Node.js + React]
         I[Express Server] -->|Toggle / Trigger API| G
         I --> J[(PostgreSQL Subscribers)]
         H --> K[React Frontend SPA]
