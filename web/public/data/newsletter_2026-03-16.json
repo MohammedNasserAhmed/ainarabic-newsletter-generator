@@ -1,0 +1,149 @@
+[
+  {
+    "topic": "GLM-5",
+    "summary": "Zhipu AI releases GLM-5, a new open-source AI model with enhanced coding capabilities and long-running agent tasks",
+    "date": "2026-03-15",
+    "url": "https://www.aol.com/articles/chinas-ai-startup-zhipu-releases-132222546.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LangChain Deep Agents",
+    "summary": "LangChain releases Deep Agents, a structured runtime for planning, memory, and context isolation in multi-step AI agents",
+    "date": "2026-03-15",
+    "url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "OpenViking Context Database",
+    "summary": "OpenViking is an open-source context database for AI agents, providing filesystem-based memory and retrieval",
+    "date": "2026-03-15",
+    "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "SILMA TTS Model",
+    "summary": "SILMA AI releases SILMA TTS, a lightweight open bilingual text-to-speech model",
+    "date": "2026-03-15",
+    "url": "https://huggingface.co/blog/silma-ai/opensource-arabic-english-text-to-speech-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Tesla Terafab Project",
+    "summary": "Tesla to launch Terafab project for AI chip manufacturing within a week",
+    "date": "2026-03-15",
+    "url": "https://www.investors.com/news/elon-musk-tesla-terafab-project-ai-chips-to-launch-in-week/",
+    "category": "Product"
+  },
+  {
+    "topic": "InnovAit AI Services",
+    "summary": "InnovAit AI launches AEO and GEO services for AI search visibility",
+    "date": "2026-03-15",
+    "url": "https://www.usatoday.com/press-release/story/28343/innovait-ai-launches-done-for-you-aeo-geo-services-for-ai-search-visibility/",
+    "category": "Product"
+  },
+  {
+    "topic": "Injective AI Developer Toolkit",
+    "summary": "Injective launches an AI developer toolkit for autonomous trading agents, enabling AI agents to trade perpetual futures and deploy contracts",
+    "date": "2026-03-13",
+    "url": "https://www.mexc.co/news/922027",
+    "category": "Product"
+  },
+  {
+    "topic": "Memori OpenClaw Plugin",
+    "summary": "Memori Labs launches the Memori OpenClaw plugin, bringing persistent AI memory to multi-agent gateways",
+    "date": "2026-03-13",
+    "url": "https://www.prweb.com/releases/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-302713006.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Workable Agent",
+    "summary": "Workable launches Workable Agent, an AI recruiting agent that helps teams define the job, source candidates, engage talent, and deliver qualified candidates",
+    "date": "2026-03-13",
+    "url": "https://finance.yahoo.com/news/workable-launches-agentic-ai-hiring-121900517.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Genspark Claw",
+    "summary": "Genspark launches Genspark Claw, an AI employee that can execute multi-step work across real interfaces and return finished results",
+    "date": "2026-03-12",
+    "url": "https://finance.yahoo.com/news/genspark-claw-launches-genspark-first-160000169.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Instructure IgniteAI Agent",
+    "summary": "Instructure launches IgniteAI Agent, an agentic AI capability that automates complex workflows and provides a secure, transparent workflow capability",
+    "date": "2026-03-12",
+    "url": "https://www.prnewswire.com/news-releases/instructure-delivers-on-its-agentic-ai-promise-with-the-launch-of-igniteai-agent-302711937.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Microsoft Copilot Health",
+    "summary": "Microsoft launches Copilot Health for personalized health insights",
+    "date": "2026-03-12",
+    "url": "https://microsoft.ai/news/introducing-copilot-health/",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Super",
+    "summary": "NVIDIA releases Nemotron 3 Super, a 120B parameter open model for agentic AI systems, delivering 5x higher throughput",
+    "date": "2026-03-11",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Databricks Genie Code",
+    "summary": "Databricks launches Genie Code for autonomous data engineering and science",
+    "date": "2026-03-11",
+    "url": "https://www.prnewswire.com/news-releases/databricks-launches-genie-code-bringing-agentic-engineering-to-data-work-302711090.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Deepdub Phantom X 3.2",
+    "summary": "Deepdub launches Phantom X 3.2, a new voice AI model for studio-grade dubbing and ultra-low latency voice agents",
+    "date": "2026-03-10",
+    "url": "https://www.prnewswire.com/news-releases/deepdub-new-voice-ai-model-phantom-x-3-2-brings-studio-grade-dubbing-and-ultra-low-latency-voice-agents-to-global-enterprises-302709376.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, a multimodal embedding model supporting text, images, video, audio, and documents in a single space",
+    "date": "2026-03-10",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kustomer AI Platform",
+    "summary": "Kustomer launches standalone enterprise AI platform for modernizing helpdesks",
+    "date": "2026-03-10",
+    "url": "https://www.kustomer.com/resources/pr/ai-standalone/",
+    "category": "Product"
+  },
+  {
+    "topic": "Speakeasy MCP Platform",
+    "summary": "Speakeasy launches MCP platform for building, securing, and observing AI agents",
+    "date": "2026-03-10",
+    "url": "https://www.speakeasy.com/blog/release-speakeasy-mcp-platform",
+    "category": "Product"
+  },
+  {
+    "topic": "Amazon Health AI Agent",
+    "summary": "Amazon launches Health AI agent with free 24/7 virtual care for Prime members",
+    "date": "2026-03-10",
+    "url": "https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical",
+    "category": "Product"
+  },
+  {
+    "topic": "Nvidia Open-Source AI Platform",
+    "summary": "Nvidia plans to launch an open-source AI agent platform",
+    "date": "2026-03-10",
+    "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "One Intelligence AI Control Plane",
+    "summary": "One Intelligence launches AI control plane for building and operating production AI",
+    "date": "2026-03-09",
+    "url": "https://www.prnewswire.com/news-releases/one-intelligence-1-iai-launches-ai-control-plane-to-help-enterprises-build-and-operate-production-ai-302708572.html",
+    "category": "Product"
+  }
+]

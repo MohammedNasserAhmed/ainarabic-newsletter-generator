@@ -1,0 +1,184 @@
+[
+  {
+    "topic": "US AI Guidelines",
+    "summary": "US drafts strict AI guidelines amid Anthropic clash",
+    "date": "2026-03-07",
+    "url": "https://srnnews.com/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports/",
+    "category": "Policy"
+  },
+  {
+    "topic": "Claude Opus Reasoning Distilled",
+    "summary": "Community developer distills Claude Opus reasoning into open 27B model",
+    "date": "2026-03-07",
+    "url": "https://awesomeagents.ai/news/qwen-27b-claude-opus-reasoning-distilled/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Unleash Raises $35M",
+    "summary": "Unleash raises $35M to help enterprises govern AI-generated code",
+    "date": "2026-03-06",
+    "url": "https://thenextweb.com/news/oslos-unleash-raises-35m-to-govern-ai-generated-code-as-european-enterprise-bets-grow-bolder",
+    "category": "Funding"
+  },
+  {
+    "topic": "OpenAI Raises $110B",
+    "summary": "OpenAI raises $110B in new funding, a record-breaking private company funding round",
+    "date": "2026-03-06",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-openai-semiconductors-matx/",
+    "category": "Funding"
+  },
+  {
+    "topic": "DiligenceSquared Raises $5M",
+    "summary": "DiligenceSquared raises $5M to bring AI-driven commercial due diligence to private equity",
+    "date": "2026-03-06",
+    "url": "https://www.prnewswire.com/news-releases/diligencesquared-raises-5m-to-bring-ai-driven-commercial-due-diligence-to-private-equity-302706143.html",
+    "category": "Funding"
+  },
+  {
+    "topic": "US AI Chip Export Rules",
+    "summary": "US proposes stricter oversight of AI chip exports",
+    "date": "2026-03-06",
+    "url": "https://www.theregister.com/2026/03/06/us_ai_chips_restrictions/",
+    "category": "Policy"
+  },
+  {
+    "topic": "NIST AI Agent Standards",
+    "summary": "NIST launches AI Agent Standards Initiative",
+    "date": "2026-03-06",
+    "url": "https://www.mondaq.com/unitedstates/new-technology/1753442/nists-ai-agent-standards-initiative-why-autonomous-ai-just-became-washingtons-problem",
+    "category": "Policy"
+  },
+  {
+    "topic": "OpenAI GPT-5.4",
+    "summary": "OpenAI launches GPT-5.4, its most powerful model for enterprise work, combining advanced reasoning, coding, and autonomous computer operation",
+    "date": "2026-03-05",
+    "url": "https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Netflix Acquires AI Firm",
+    "summary": "Netflix acquires InterPositive, an AI filmmaking tech firm, to enhance movie production",
+    "date": "2026-03-05",
+    "url": "https://thenextweb.com/news/netflix-buys-ben-afflecks-ai-filmmaking-startup",
+    "category": "Acquisition"
+  },
+  {
+    "topic": "Spellbook Secures $40M",
+    "summary": "Spellbook secures $40M in debt financing to support strategic acquisitions in the legal AI market",
+    "date": "2026-03-05",
+    "url": "https://www.sfnet.com/home/industry-data-publications/the-secured-lender/tsl-express-daily-articles-news/tsl-express-daily-articles-news/2026/03/05/spellbook-secures-$40m-usd-debt-financing-from-rbcx-to-support-strategic-acquisitions-in-consolidating-legal-ai-market",
+    "category": "Funding"
+  },
+  {
+    "topic": "Google Gemini 3.1",
+    "summary": "Google launches Gemini 3.1 Flash-Lite, a cost-efficient AI model with improved performance and reduced latency",
+    "date": "2026-03-04",
+    "url": "https://siliconangle.com/2026/03/03/google-launches-speedy-gemini-3-1-flash-lite-model-preview/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Merlin Vision-Language Model",
+    "summary": "Researchers introduce Merlin, a 3D vision-language model for abdominal CT interpretation, trained on a large clinical dataset",
+    "date": "2026-03-04",
+    "url": "https://www.nature.com/articles/s41586-026-10181-8",
+    "category": "Research"
+  },
+  {
+    "topic": "Phi-4-Reasoning-Vision",
+    "summary": "Microsoft Research announces Phi-4-reasoning-vision, a compact and efficient multimodal reasoning model for vision-language tasks",
+    "date": "2026-03-04",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft Open-Sources Model",
+    "summary": "Microsoft releases open-source multimodal reasoning model with 15B parameters",
+    "date": "2026-03-04",
+    "url": "https://siliconangle.com/2026/03/04/microsoft-open-sources-multimodal-reasoning-model-15b-parameters/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Google Canvas AI Mode",
+    "summary": "Google rolls out Canvas in AI mode to all US users, enhancing search experience",
+    "date": "2026-03-04",
+    "url": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+    "category": "Product"
+  },
+  {
+    "topic": "Cien Agentic Launch",
+    "summary": "Cien.ai launches AI digital colleague to accelerate revenue growth",
+    "date": "2026-03-04",
+    "url": "https://www.prweb.com/releases/cienai-launches-cien-agentic-an-ai-digital-colleague-built-to-accelerate-revenue-growth-up-to-6x-faster-302703275.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini 3.1 Flash Lite",
+    "summary": "Google releases Gemini 3.1 Flash-Lite, a cost-effective AI model",
+    "date": "2026-03-03",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Rocketlane Nitro",
+    "summary": "Rocketlane launches Nitro, an agentic execution platform for professional services automation",
+    "date": "2026-03-03",
+    "url": "http://www.prnewswire.com/news-releases/rocketlane-launches-nitro-the-industrys-first-agentic-execution-platform-for-professional-services-302702084.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Syntrix Launch",
+    "summary": "Syntrix launches as the first AI agent evaluation and live agent training platform for enterprise CX",
+    "date": "2026-03-03",
+    "url": "https://www.prnewswire.com/news-releases/syntrix-launches-as-the-first-ai-agent-evaluation-and-live-agent-training-platform-for-enterprise-cx-302701938.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Personize AI Memory",
+    "summary": "Personize launches governed AI memory infrastructure to solve enterprise AI chaos",
+    "date": "2026-03-03",
+    "url": "https://www.prweb.com/releases/personize-solves-enterprise-ai-chaos-with-governed-ai-memory-infrastructure-302701826.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Addepar Addison",
+    "summary": "Addepar unveils Addison, a native AI experience for investment workflows",
+    "date": "2026-03-03",
+    "url": "https://www.prnewswire.com/news-releases/addepar-unveils-addison-a-native-ai-experience-built-to-deliver-actionable-intelligence-across-investment-workflows-302701941.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Pluralsight AI Academy",
+    "summary": "Pluralsight launches AI Academy to help enterprises measure and scale AI productivity",
+    "date": "2026-03-03",
+    "url": "https://www.prnewswire.com/news-releases/pluralsight-launches-ai-academy-to-help-enterprises-measure-and-scale-ai-productivity-302701997.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Alibaba Qwen3.5-9B Model",
+    "summary": "Alibaba's Qwen3.5-9B model outperforms OpenAI's gpt-oss-120B",
+    "date": "2026-03-02",
+    "url": "http://venturebeat.com/ai/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI Open Models",
+    "summary": "OpenAI releases open-weight reasoning models for customization",
+    "date": "2026-01-01",
+    "url": "https://openai.com/open-models/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Mistral AI Model Release",
+    "summary": "Mistral AI launches Mistral 3 family with advanced agentic workflows",
+    "date": "2025-01-01",
+    "url": "https://nhlocal.github.io/AiTimeline/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google AI Research",
+    "summary": "Google AI showcases recent research breakthroughs, including WeatherNext 2, SIMA 2, and Quantum Echoes algorithm",
+    "date": "",
+    "url": "https://ai.google/research/",
+    "category": "Research"
+  }
+]

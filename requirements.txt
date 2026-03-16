@@ -1,0 +1,3 @@
+exa-py>=1.0.0
+python-dotenv>=1.0.0
+groq>=0.13.0  # 0.30.0 installed

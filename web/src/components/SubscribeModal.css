@@ -1,0 +1,399 @@
+/* ============================
+   Subscribe Modal Styles
+   ============================ */
+
+/* Backdrop overlay */
+.subscribe-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  opacity: 0;
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.subscribe-modal-overlay.closing {
+  animation: fadeOut 0.25s ease forwards;
+}
+
+/* Modal container */
+.subscribe-modal {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 440px;
+  margin: 1rem;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  transform: translateY(20px) scale(0.97);
+  animation: slideUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.subscribe-modal-overlay.closing .subscribe-modal {
+  animation: slideDown 0.25s ease forwards;
+}
+
+/* Header with gradient */
+.modal-header {
+  background: linear-gradient(135deg, #F15A24, #e04810);
+  padding: 28px 24px;
+  text-align: center;
+  position: relative;
+}
+
+.modal-header h2 {
+  color: #ffffff;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.modal-header .modal-tagline {
+  color: rgba(255, 255, 255, 0.9);
+  margin: 6px 0 0;
+  font-size: 0.85rem;
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  transition: background 0.2s;
+}
+
+.modal-close-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Modal body */
+.modal-body {
+  padding: 28px 24px;
+}
+
+.modal-body .email-input {
+  width: 100%;
+  padding: 14px 16px;
+  border: 2px solid #eaebea;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-family: var(--font-sans, 'Inter', sans-serif);
+  color: #1a1a1b;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-sizing: border-box;
+}
+
+.modal-body .email-input:focus {
+  border-color: #F15A24;
+  box-shadow: 0 0 0 3px rgba(241, 90, 36, 0.1);
+}
+
+.modal-body .email-input::placeholder {
+  color: #aaa;
+}
+
+/* Language options */
+.language-options {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.language-option {
+  flex: 1;
+  position: relative;
+}
+
+.language-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.language-option label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 12px;
+  min-height: 56px;
+  border: 2px solid #eaebea;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #444;
+  transition: all 0.2s;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.language-option label .lang-flag {
+  font-size: 1.2rem;
+}
+
+.language-option input[type="radio"]:checked + label {
+  border-color: #F15A24;
+  background: #FFF5F0;
+  color: #F15A24;
+  font-weight: 600;
+}
+
+.language-option label:hover {
+  border-color: #F15A24;
+  background: #FFFAF7;
+}
+
+/* Submit button */
+.subscribe-submit-btn {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #F15A24, #e04810);
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.2s, opacity 0.2s;
+  font-family: var(--font-sans, 'Inter', sans-serif);
+}
+
+.subscribe-submit-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(241, 90, 36, 0.35);
+}
+
+.subscribe-submit-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.subscribe-submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Loading spinner */
+.btn-spinner {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Social proof */
+.social-proof {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 0.82rem;
+  color: #888;
+}
+
+.social-proof strong {
+  color: #F15A24;
+  font-weight: 600;
+}
+
+/* Error message */
+.modal-error {
+  background: #FFF0F0;
+  color: #CC3333;
+  border: 1px solid #FFD0D0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+/* ============================
+   Success State
+   ============================ */
+.subscribe-success-state {
+  padding: 40px 24px;
+  text-align: center;
+}
+
+.success-checkmark {
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 20px;
+  animation: popIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.success-checkmark svg {
+  width: 100%;
+  height: 100%;
+}
+
+.success-checkmark .check-circle {
+  stroke: #22C55E;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200;
+  animation: drawCircle 0.6s ease forwards 0.2s;
+}
+
+.success-checkmark .check-mark {
+  stroke: #22C55E;
+  stroke-dasharray: 50;
+  stroke-dashoffset: 50;
+  animation: drawCheck 0.4s ease forwards 0.6s;
+}
+
+.subscribe-success-state h3 {
+  color: #1a1a1b;
+  font-size: 1.25rem;
+  margin: 0 0 8px;
+}
+
+.subscribe-success-state p {
+  color: #666;
+  font-size: 0.95rem;
+  margin: 0 0 24px;
+  line-height: 1.5;
+}
+
+.go-to-inbox-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #F15A24, #e04810);
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+  text-decoration: none;
+  font-family: var(--font-sans, 'Inter', sans-serif);
+}
+
+.go-to-inbox-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(241, 90, 36, 0.35);
+}
+
+.go-to-inbox-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* ============================
+   Subscribed Button State
+   ============================ */
+.btn-subscribed {
+  background: transparent;
+  border: 1px solid #22C55E;
+  color: #22C55E;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: default;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--font-sans, 'Inter', sans-serif);
+}
+
+/* ============================
+   Animations
+   ============================ */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px) scale(0.97); opacity: 0; }
+  to { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+@keyframes slideDown {
+  from { transform: translateY(0) scale(1); opacity: 1; }
+  to { transform: translateY(20px) scale(0.97); opacity: 0; }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes popIn {
+  from { transform: scale(0); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+@keyframes drawCircle {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes drawCheck {
+  to { stroke-dashoffset: 0; }
+}
+
+/* ============================
+   Mobile Responsive
+   ============================ */
+@media (max-width: 480px) {
+  .subscribe-modal {
+    max-width: 100%;
+    margin: 0;
+    border-radius: 16px 16px 0 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    animation: slideUpMobile 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .subscribe-modal-overlay.closing .subscribe-modal {
+    animation: slideDownMobile 0.25s ease forwards;
+  }
+
+  @keyframes slideUpMobile {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+  }
+
+  @keyframes slideDownMobile {
+    from { transform: translateY(0); }
+    to { transform: translateY(100%); }
+  }
+
+  .language-options {
+    flex-direction: column;
+    gap: 8px;
+  }
+}

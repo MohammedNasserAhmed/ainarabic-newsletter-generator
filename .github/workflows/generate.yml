@@ -1,0 +1,50 @@
+name: Generate Newsletter
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs at 00:00 every Monday
+  workflow_dispatch: {} # Allows manual trigger from GitHub UI / API
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    env:
+      EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Needed to commit changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Newsletter JSON
+        run: python main.py --json --save
+
+      - name: Sync Newsletter to Web App
+        working-directory: ./web
+        run: node sync.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ web/public/data/
+          # Only commit and push if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-generate weekly newsletter" && git push)

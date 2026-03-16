@@ -1,0 +1,1 @@
+[      74ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/@microlink_react.js?v=edf792bd:0
