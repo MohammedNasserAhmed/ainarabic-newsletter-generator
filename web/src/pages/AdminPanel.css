@@ -100,7 +100,7 @@
   background-color: #dc3545;
 }
 
-.btn-primary { background-color: var(--primary); }
+.btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
 .btn-danger { background-color: #dc3545; }
 

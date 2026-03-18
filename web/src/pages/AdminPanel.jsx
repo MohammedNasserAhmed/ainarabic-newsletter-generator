@@ -156,7 +156,8 @@ export default function AdminPanel() {
           <button 
             className="admin-btn btn-primary mt-auto" 
             onClick={generateManually}
-            disabled={loading}
+            disabled={loading || !status?.automationEnabled}
+            title={!status?.automationEnabled ? "Must resume automation first to enable manual triggers" : ""}
           >
             {loading ? 'Working...' : 'Generate New Issue Now'}
           </button>
