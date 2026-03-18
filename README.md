@@ -162,21 +162,6 @@ cd web && npm run predev
 
 ---
 
-## 🎛️ The Admin Control Panel
-
-Manage your autonomous agent directly from the UI. 
-
-1. Navigate to `http://localhost:5173/admin`
-2. Authenticate using your `ADMIN_PASSWORD`.
-3. **Features Available:**
-   - **Status Monitoring**: See exactly when the next cron job is scheduled to run.
-   - **Pause / Resume Automation**: Send safe PUT requests to GitHub to disable or re-enable the Monday schedule.
-   - **Generate Now**: Trigger a `workflow_dispatch` event to bypass the schedule and immediately draft a new newsletter.
-
-><img src="https://via.placeholder.com/800x400/1a1a1a/F55036?text=Admin+Panel+Preview" width="100%" alt="Admin Panel UI" style="border-radius:8px"/>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions to push the boundaries of autonomous journalism! 
