@@ -1,14 +1,20 @@
 [
   {
-    "id": "2026-03-16",
-    "title": "aiNarabic Newsletter [March 09 - March 16, 2026]",
-    "file": "newsletter_2026-03-16.json",
-    "date": "2026-03-16"
+    "id": "2026-03-30",
+    "title": "aiNarabic Newsletter [March 23 - March 30, 2026]",
+    "file": "newsletter_2026-03-30.json",
+    "date": "2026-03-30"
   },
   {
-    "id": "2026-03-08",
-    "title": "aiNarabic Newsletter [March 01 - March 08, 2026]",
-    "file": "newsletter_2026-03-08.json",
-    "date": "2026-03-08"
+    "id": "2026-03-23",
+    "title": "aiNarabic Newsletter [March 16 - March 23, 2026]",
+    "file": "newsletter_2026-03-23.json",
+    "date": "2026-03-23"
+  },
+  {
+    "id": "2026-03-18",
+    "title": "aiNarabic Newsletter [March 11 - March 18, 2026]",
+    "file": "newsletter_2026-03-18.json",
+    "date": "2026-03-18"
   }
 ]

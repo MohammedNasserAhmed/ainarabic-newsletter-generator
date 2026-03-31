@@ -1,0 +1,191 @@
+[
+  {
+    "topic": "MiniMax M2.5",
+    "summary": "MiniMax releases M2.5, a model extensively trained with reinforcement learning for real-world productivity and agentic tasks",
+    "date": "2026-03-17",
+    "url": "https://minimax.io/news/minimax-m25",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nutanix Agentic AI Stack",
+    "summary": "Nutanix launches Agentic AI stack for enterprise AI factories, integrating with NVIDIA AI Enterprise",
+    "date": "2026-03-17",
+    "url": "https://techday.asia/story/nutanix-unveils-agentic-ai-stack-for-enterprise-ai-factories",
+    "category": "Product"
+  },
+  {
+    "topic": "Hexaware Agentverse",
+    "summary": "Hexaware launches Agentverse, an enterprise AI agent platform with 600+ ready-to-deploy agents",
+    "date": "2026-03-17",
+    "url": "https://www.prnewswire.com/in/news-releases/hexaware-launches-agentverse-an-enterprise-ai-agent-platform-with-600-ready-to-deploy-agents-302716116.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Alibaba Wukong AI Agent",
+    "summary": "Alibaba launches Wukong, an AI agent for businesses with Slack and Teams integration",
+    "date": "2026-03-17",
+    "url": "https://gciot.org/article/alibaba-launches-wukong-revolutionary-ai-agent-for-businesses-with-slack-teams-integration",
+    "category": "Product"
+  },
+  {
+    "topic": "Arango Contextual Data Platform 4.0",
+    "summary": "Arango launches Contextual Data Platform 4.0 for AI-agent-ready enterprise data",
+    "date": "2026-03-17",
+    "url": "https://www.appeal-democrat.marketminute.com/article/bizwire-2026-3-17-arango-launches-contextual-data-platform-40-for-ai-agent-ready-enterprise-data",
+    "category": "Product"
+  },
+  {
+    "topic": "Fractal LLM Studio",
+    "summary": "Fractal introduces LLM Studio for enterprise-grade GenAI customization with NVIDIA NeMo and NIM microservices",
+    "date": "2026-03-17",
+    "url": "https://www.prnewswire.com/news-releases/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices-302715700.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Varonis Atlas",
+    "summary": "Varonis launches Atlas to secure AI and the data that powers it",
+    "date": "2026-03-17",
+    "url": "https://www.varonis.com/blog/atlas-ai-security?hsLang=en",
+    "category": "Product"
+  },
+  {
+    "topic": "Mamba 3",
+    "summary": "Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling and reduced latency",
+    "date": "2026-03-17",
+    "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nvidia Space AI Chip",
+    "summary": "Nvidia launches AI chip for space, increasing AI processing capacity",
+    "date": "2026-03-17",
+    "url": "https://www.heygotrade.com/en/news/nvidia-space-ai-chip-launch",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Physicl Data Infrastructure",
+    "summary": "Physicl launches data infrastructure platform for Physical AI and robotics",
+    "date": "2026-03-17",
+    "url": "https://www.prnewswire.com/news-releases/physicl-launches-the-data-infrastructure-layer-for-physical-ai-at-nvidia-gtc-302715130.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Mistral Small 4",
+    "summary": "Mistral AI releases Mistral Small 4, a 119B-parameter MoE model for instruct, reasoning, and multimodal workloads",
+    "date": "2026-03-16",
+    "url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Space Computing",
+    "summary": "NVIDIA launches Space Computing, a platform for bringing AI compute to orbital data centers and space operations",
+    "date": "2026-03-16",
+    "url": "http://nvidianews.nvidia.com/news/space-computing",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Agent Toolkit",
+    "summary": "NVIDIA launches open-source Agent Toolkit for building autonomous AI agents",
+    "date": "2026-03-16",
+    "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
+    "category": "Product"
+  },
+  {
+    "topic": "NemoClaw",
+    "summary": "NVIDIA introduces NemoClaw, an open-source tool for enhancing AI agent safety and output quality",
+    "date": "2026-03-16",
+    "url": "https://siliconangle.com/2026/03/16/nvidia-launches-nemoclaw-agent-toolkit-enhance-ai-agents/",
+    "category": "Product"
+  },
+  {
+    "topic": "LangChain Enterprise Agentic AI",
+    "summary": "LangChain announces enterprise agentic AI platform built with NVIDIA for production-grade AI agents",
+    "date": "2026-03-16",
+    "url": "https://blog.langchain.com/nvidia-enterprise/",
+    "category": "Product"
+  },
+  {
+    "topic": "MiroThinker-1.7 & MiroThinker-H1",
+    "summary": "MiroMind team unveils MiroThinker-1.7 and MiroThinker-H1, a new era of verification-centric heavy-duty research agents",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/miromind-team-unveils-mirothinker-1-7--mirothinker-h1-a-new-era-of-verification-centric-heavy-duty-research-agents-302714500.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Vention Rapid Operator AI",
+    "summary": "Vention debuts Rapid Operator AI for autonomous bin picking",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/vention-debuts-rapid-operator-ai-at-nvidia-gtc-2026-delivering-a-productized-physical-ai-solution-for-autonomous-bin-picking-302715026.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Nvidia Physical AI Blueprint",
+    "summary": "Nvidia announces open Physical AI Data Factory Blueprint",
+    "date": "2026-03-16",
+    "url": "http://nvidianews.nvidia.com/news/nvidia-announces-open-physical-ai-data-factory-blueprint-to-accelerate-robotics-vision-ai-agents-and-autonomous-vehicle-development",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Dell AI Data Platform",
+    "summary": "Dell AI Data Platform with NVIDIA supercharges enterprise AI",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/dell-ai-data-platform-with-nvidia-supercharges-enterprise-ai-with-breakthrough-data-orchestration-and-storage-innovations-302715096.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Zhipu AI GLM-5",
+    "summary": "Zhipu AI releases GLM-5, a new flagship model with enhanced coding capabilities and long-running agent tasks",
+    "date": "2026-03-15",
+    "url": "https://www.aol.com/articles/chinas-ai-startup-zhipu-releases-132222546.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "SILMA TTS",
+    "summary": "SILMA AI releases SILMA TTS, a lightweight open bilingual text-to-speech model",
+    "date": "2026-03-15",
+    "url": "https://huggingface.co/blog/silma-ai/opensource-arabic-english-text-to-speech-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Tesla Terafab AI Chip",
+    "summary": "Tesla's AI chip facility to launch next week, improving AI needs",
+    "date": "2026-03-15",
+    "url": "https://www.firstpost.com/tech/musk-reveals-teslas-terafab-ai-chip-facility-to-launch-next-week-13989645.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Kairos 3.0-4B",
+    "summary": "ACE Robotics open-sources Kairos 3.0-4B, a real-time generative world model for embodied AI",
+    "date": "2026-03-13",
+    "url": "https://businessintelligence.mo/2026/03/13/ace-robotics-open-sources-real-time-generative-world-model-kairos-3-0-4b/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "AgentRx Framework",
+    "summary": "Microsoft Research introduces AgentRx, a framework for systematic debugging of AI agents",
+    "date": "2026-03-12",
+    "url": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework",
+    "category": "Research"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Super",
+    "summary": "NVIDIA releases Nemotron 3 Super, a 120B parameter open model for agentic AI systems, delivering 5x higher throughput",
+    "date": "2026-03-11",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nvidia Invests in Nebius",
+    "summary": "Nvidia invests $2 billion in AI cloud company Nebius",
+    "date": "2026-03-11",
+    "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
+    "category": "Funding"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, the first natively multimodal embedding model for text, images, video, audio, and documents",
+    "date": "2026-03-10",
+    "url": "https://ai.plainenglish.io/gemini-embedding-2-the-first-multimodel-embedding-d3339c478987",
+    "category": "Model Release"
+  }
+]

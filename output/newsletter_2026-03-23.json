@@ -1,0 +1,226 @@
+[
+  {
+    "topic": "Roche AI Factory",
+    "summary": "Roche launches large-scale AI factory with thousands of NVIDIA chips",
+    "date": "2026-03-22",
+    "url": "https://www.facebook.com/forbes/posts/pharmaceutical-giant-roche-announced-it-is-launching-a-new-large-scale-ai-factor/1311724164150904/",
+    "category": "Product"
+  },
+  {
+    "topic": "F2LLM-v2",
+    "summary": "F2LLM-v2 offers a new family of highly efficient, multilingual embedding models supporting over 200 languages",
+    "date": "2026-03-21",
+    "url": "https://www.startuphub.ai/news/f2llm-v2-multilingual-embeddings-unleashed",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Sprinto Autonomous Trust Platform",
+    "summary": "Sprinto launches platform for autonomous compliance and trust",
+    "date": "2026-03-21",
+    "url": "https://www.prnewswire.com/news-releases/sprinto-launches-autonomous-trust-platformmoving-compliance-from-automated-to-autonomous-302721364.html",
+    "category": "Product"
+  },
+  {
+    "topic": "EverMind's MSA Architecture",
+    "summary": "EverMind introduces novel memory architecture for efficient end-to-end long-term memory for LLMs",
+    "date": "2026-03-19",
+    "url": "https://www.prnewswire.com/news-releases/breaking-the-100m-token-limit-everminds-msa-architecture-achieves-efficient-end-to-end-long-term-memory-for-llms-302718382.html",
+    "category": "Research"
+  },
+  {
+    "topic": "TELUS SmartHome Assistant",
+    "summary": "TELUS unveils the world's first smart home AI assistant with Generative UI, unifying the entire connected home",
+    "date": "2026-03-19",
+    "url": "https://www.prnewswire.com/news-releases/telus-unveils-the-world-s-first-smart-home-ai-assistant-with-generative-ui-unifying-the-entire-connected-home-886174027.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Panther AI SOC Platform",
+    "summary": "Panther launches the Complete AI SOC Platform, closing the loop on security operations",
+    "date": "2026-03-19",
+    "url": "https://www.prnewswire.com/news-releases/panther-launches-the-complete-ai-soc-platform-closing-the-loop-on-security-operations-302718768.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Ironclad AI Assistant",
+    "summary": "Ironclad unveils new AI assistant and agents for contract intelligence",
+    "date": "2026-03-19",
+    "url": "https://www.prnewswire.com/news-releases/ironclad-unveils-new-ai-assistant-and-agents-to-bring-contract-intelligence-to-every-agreement-302717729.html",
+    "category": "Product"
+  },
+  {
+    "topic": "TwinThread Perfect Batch",
+    "summary": "TwinThread launches Perfect Batch, an AI-powered analytics solution to optimize batch production",
+    "date": "2026-03-18",
+    "url": "https://www.prnewswire.com/news-releases/twinthread-launches-perfect-batch-an-ai-powered-analytics-solution-to-optimize-batch-production-302717531.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Entropic Open Source",
+    "summary": "Entropic is now open source, providing a local OpenClaw workspace",
+    "date": "2026-03-18",
+    "url": "https://qu.ai/blog/entropic-is-now-open-source",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Salt Security Platform",
+    "summary": "Salt Security launches industry's first agentic security platform for AI stack",
+    "date": "2026-03-18",
+    "url": "https://www.prnewswire.com/news-releases/salt-security-launches-industrys-first-agentic-security-platform-for-the-ai-stack-across-llms-mcp-servers-and-apis-302716939.html",
+    "category": "Product"
+  },
+  {
+    "topic": "MuleRun Personal AI",
+    "summary": "MuleRun launches self-evolving personal AI to democratize digital workforce",
+    "date": "2026-03-18",
+    "url": "https://www.prnewswire.com/news-releases/mulerun-launches-self-evolving-personal-ai-to-democratize-the-digital-workforce-302717108.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Woodrow AI Agent",
+    "summary": "Woodrow launches AI agent for enterprise finance and operations teams",
+    "date": "2026-03-18",
+    "url": "https://www.prnewswire.com/news-releases/woodrow-launches-ai-agent-for-enterprise-finance-and-operations-teams-302717245.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Attune 1.0",
+    "summary": "Abnormal AI releases Attune 1.0, a behavioral foundation model for cybersecurity",
+    "date": "2026-03-17",
+    "url": "https://abnormal.ai/about/news/announcing-attune-1.0",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MiniMax-01",
+    "summary": "MiniMax releases MiniMax-01, an open-source model with a novel Lightning Attention mechanism",
+    "date": "2026-03-17",
+    "url": "https://minimaxi.com/en/news/minimax-01-series-2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Sana from Workday",
+    "summary": "Workday releases Sana, a superintelligence for work that finds answers and automates workflows",
+    "date": "2026-03-17",
+    "url": "https://www.prnewswire.com/news-releases/introducing-sana-from-workday-superintelligence-for-work-that-finds-answers-takes-action-and-automates-workflows-302715971.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Nemotron 3 Nano 4B",
+    "summary": "Nvidia releases compact hybrid model for efficient local AI",
+    "date": "2026-03-17",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nvidia Agent Toolkit",
+    "summary": "Nvidia launches open-source Agent Toolkit for building autonomous enterprise AI agents",
+    "date": "2026-03-17",
+    "url": "https://www.investing.com/news/company-news/nvidia-unveils-agent-toolkit-for-enterprise-ai-development-93CH-4564061",
+    "category": "Product"
+  },
+  {
+    "topic": "LangChain Deep Agents",
+    "summary": "LangChain releases open-source LLM agent framework for rapid application development",
+    "date": "2026-03-17",
+    "url": "https://ascii.co.uk/news/article/news-20260317-3e7156d1/langchain-releases-deep-agents-open-source-llm-agent-framewo",
+    "category": "Open Source"
+  },
+  {
+    "topic": "SailPoint Shadow AI Remediation",
+    "summary": "SailPoint launches solution for real-time visibility and control over AI usage",
+    "date": "2026-03-17",
+    "url": "https://www.sailpoint.com/press-releases/sailpoint-launches-shadow-ai-remediation",
+    "category": "Product"
+  },
+  {
+    "topic": "Asana AI Teammates",
+    "summary": "Asana launches AI Teammates, specialized agents designed to live inside workflows and coordinate work across teams",
+    "date": "2026-03-17",
+    "url": "http://www.asana.com/resources/ai-teammates-overview",
+    "category": "Product"
+  },
+  {
+    "topic": "Varonis Atlas",
+    "summary": "Varonis launches Atlas, an end-to-end AI Security Platform to secure AI and the data that powers it",
+    "date": "2026-03-17",
+    "url": "http://www.varonis.com/blog/atlas-ai-security",
+    "category": "Product"
+  },
+  {
+    "topic": "Mamba-3",
+    "summary": "Mamba-3, a new open-source AI model, rivals Transformers in efficiency and performance",
+    "date": "2026-03-17",
+    "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Rakuten AI 3.0",
+    "summary": "Rakuten releases Rakuten AI 3.0, Japan's largest open-source LLM",
+    "date": "2026-03-17",
+    "url": "https://www.archynewsy.com/rakuten-ai-3-0-japans-largest-open-source-llm-released/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Tesla Terafab Project",
+    "summary": "Elon Musk announces Tesla's Terafab Project for in-house AI chips to launch in a week",
+    "date": "2026-03-17",
+    "url": "https://www.investors.com/news/elon-musk-tesla-terafab-project-ai-chips-to-launch-in-week/",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Vera Rubin",
+    "summary": "NVIDIA launches Vera Rubin platform with 7 new chips for agentic AI",
+    "date": "2026-03-17",
+    "url": "http://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+    "category": "Product"
+  },
+  {
+    "topic": "Mistral Small 4 Model",
+    "summary": "Mistral AI releases Mistral Small 4, a 119B-parameter MoE model for instruct, reasoning, and multimodal workloads",
+    "date": "2026-03-16",
+    "url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, a multimodal AI model for enterprise search and retrieval",
+    "date": "2026-03-16",
+    "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/embedding-2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MiroThinker-1.7 & MiroThinker-H1",
+    "summary": "MiroMind releases MiroThinker-1.7 and MiroThinker-H1, a new era of verification-centric heavy-duty research agents",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/miromind-team-unveils-mirothinker-1-7--mirothinker-h1-a-new-era-of-verification-centric-heavy-duty-research-agents-302714500.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Doba Pilot",
+    "summary": "Doba launches beta of AI-powered dropshipping agent for ecommerce operations",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/doba-launches-beta-of-doba-pilot-the-industrys-first-ai-dropshipping-agent-302714638.html",
+    "category": "Product"
+  },
+  {
+    "topic": "DigitalOcean Gradient",
+    "summary": "DigitalOcean's Gradient Platform is now generally available, offering a fully managed way to build and deploy AI apps",
+    "date": "2026-03-16",
+    "url": "http://digitalocean.com/blog/gradientai-platform-generally-available",
+    "category": "Product"
+  },
+  {
+    "topic": "Kairos 3.0-4B",
+    "summary": "ACE Robotics releases open-source embodied AI model Kairos 3.0-4B",
+    "date": "2026-03-16",
+    "url": "https://www.opensourceforu.com/2026/03/ace-robotics-releases-open-source-embodied-ai-model-kairos-3-0-4b/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Dell AI Data Platform",
+    "summary": "Dell launches AI data platform with NVIDIA for enterprise AI",
+    "date": "2026-03-16",
+    "url": "https://www.prnewswire.com/news-releases/dell-ai-data-platform-with-nvidia-supercharges-enterprise-ai-with-breakthrough-data-orchestration-and-storage-innovations-302715096.html",
+    "category": "Product"
+  }
+]

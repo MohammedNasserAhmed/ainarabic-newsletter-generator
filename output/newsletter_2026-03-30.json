@@ -1,0 +1,177 @@
+[
+  {
+    "topic": "MiniMax-M1",
+    "summary": "World's first open-source, large-scale, hybrid-attention reasoning model",
+    "date": "2026-03-29",
+    "url": "https://www.minimax.io/news/minimaxm1",
+    "category": "Model Release"
+  },
+  {
+    "topic": "APEX Autonomous AI Agent",
+    "summary": "Dan Martell launches APEX, an autonomous AI agent platform",
+    "date": "2026-03-29",
+    "url": "https://www.digitaljournal.com/pr/news/24-7-press-release/dan-martell-launches-apex-autonomous-1233042509.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Chroma Context-1",
+    "summary": "Chroma releases Context-1, a 20B agentic search model",
+    "date": "2026-03-29",
+    "url": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA ProRL Agent",
+    "summary": "NVIDIA launches ProRL Agent for reinforcement learning of multi-turn LLM agents",
+    "date": "2026-03-28",
+    "url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Firma 12",
+    "summary": "Firma.dev launches Firma 12 with full AI integration, an e-signature platform operable through AI",
+    "date": "2026-03-28",
+    "url": "http://www.prweb.com/releases/firmadev-launches-firma-12-with-full-ai-integration-becoming-the-first-e-signature-platform-you-can-operate-entirely-through-ai-302726918.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Ripple AI Initiative",
+    "summary": "Ripple launches a major AI initiative to strengthen XRP Ledger security",
+    "date": "2026-03-28",
+    "url": "https://www.mexc.com/news/987648",
+    "category": "Product"
+  },
+  {
+    "topic": "Anthropic Mythos AI Model",
+    "summary": "Anthropic acknowledges testing new AI model representing 'step change' in capabilities",
+    "date": "2026-03-27",
+    "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Laravel AI SDK",
+    "summary": "Laravel releases official AI SDK for building AI applications",
+    "date": "2026-03-27",
+    "url": "https://laravel.com/ai",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Tezign GEA",
+    "summary": "Tezign launches GEA, a generative enterprise agent for real business workflows",
+    "date": "2026-03-27",
+    "url": "https://www.prnewswire.com/news-releases/tezign-launches-generative-enterprise-agent-gea-an-agentic-ai-architecture-for-real-business-workflows-302727153.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Google Gemini 3.1 Flash Live",
+    "summary": "Google releases new AI model for enhanced voice interactions with improved tonal understanding",
+    "date": "2026-03-26",
+    "url": "https://www.thurrott.com/a-i/google-gemini-a-i/334250/google-releases-gemini-3-1-flash-live-for-more-natural-language-interactions",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Oracle 26ai Database",
+    "summary": "Oracle releases 26ai database with integrated agentic reasoning engine",
+    "date": "2026-03-26",
+    "url": "https://techbytes.app/posts/oracle-26ai-database-agentic-reasoning/",
+    "category": "Product"
+  },
+  {
+    "topic": "Spring AI 2.0.0-M4",
+    "summary": "Spring AI releases new version with improvements and bug fixes",
+    "date": "2026-03-26",
+    "url": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Google Agent Development Kit",
+    "summary": "Google launches open-source Agent Development Kit for building AI agents",
+    "date": "2026-03-26",
+    "url": "https://www.facebook.com/groups/802532124993016/posts/1440058331240389/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Domo AI Agent Builder",
+    "summary": "Domo launches AI agent builder with enterprise data connectivity",
+    "date": "2026-03-26",
+    "url": "https://siliconangle.com/2026/03/25/domo-launches-ai-agent-builder-broad-enterprise-data-connectivity/",
+    "category": "Product"
+  },
+  {
+    "topic": "Mistral AI Voxtral TTS",
+    "summary": "Mistral AI releases Voxtral TTS, an open-source text-to-speech model",
+    "date": "2026-03-26",
+    "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "vLLM-Omni",
+    "summary": "vLLM-Omni, a production multimodal AI serving platform, goes open-source",
+    "date": "2026-03-26",
+    "url": "https://byteiota.com/vllm-omni-production-multimodal-ai-serving-goes-open-source/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "CrowdStrike AI AgentWorks",
+    "summary": "CrowdStrike launches AI AgentWorks, a no-code platform for building custom AI security agents",
+    "date": "2026-03-26",
+    "url": "https://www.investing.com/news/company-news/crowdstrike-launches-ai-agent-platform-with-major-partners-93CH-4580411",
+    "category": "Product"
+  },
+  {
+    "topic": "Salesforce AI Foundry",
+    "summary": "Salesforce launches AI Foundry, an initiative for developing transformative AI innovation",
+    "date": "2026-03-26",
+    "url": "https://www.salesforce.com/news/stories/ai-foundry-announcement/",
+    "category": "Product"
+  },
+  {
+    "topic": "TRM Labs Co-Case Agent",
+    "summary": "TRM Labs launches Co-Case Agent, an AI assistant for crypto investigations",
+    "date": "2026-03-25",
+    "url": "https://www.globenewswire.com/news-release/2026/03/25/3262134/0/en/TRM-Labs-Launches-Co-Case-Agent-An-AI-Assistant-for-Every-Crypto-Investigation.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google's first multimodal embedding model for text, images, video, and audio",
+    "date": "2026-03-24",
+    "url": "https://meetcody.ai/blog/gemini-embedding-2-googles-first-multimodal-embedding-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Agents",
+    "summary": "NVIDIA introduces new generation of Nemotron models for agentic AI tasks",
+    "date": "2026-03-24",
+    "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Oracle AI Agent Studio",
+    "summary": "Oracle expands AI Agent Studio with agentic applications builder and new workflow tools",
+    "date": "2026-03-24",
+    "url": "https://www.prnewswire.com/news-releases/oracle-expands-ai-agent-studio-for-fusion-applications-with-agentic-applications-builder-and-new-intelligent-workflow-tools-302722632.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Zeta Global Athena",
+    "summary": "Zeta Global launches Athena, a superintelligent marketing agent",
+    "date": "2026-03-24",
+    "url": "https://zetaglobal.com/news/zeta-globallaunchesathena-by-zetafor-general-availability-ushering-in-the-superintelligent-marketingera/",
+    "category": "Product"
+  },
+  {
+    "topic": "Immuta Data Provisioning",
+    "summary": "Immuta introduces a data provisioning platform for managing agentic data access",
+    "date": "2026-03-24",
+    "url": "https://www.prnewswire.com/news-releases/immuta-introduces-the-first-data-provisioning-platform-for-managing-agentic-data-access-302722767.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Wiz AI Application Protection",
+    "summary": "Wiz launches AI Application Protection Platform for securing AI applications",
+    "date": "2026-03-23",
+    "url": "http://www.wiz.io/blog/introducing-wiz-ai-app",
+    "category": "Product"
+  }
+]
