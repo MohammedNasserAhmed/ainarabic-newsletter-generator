@@ -3,7 +3,7 @@ Configuration for aiNarabic Newsletter Generator
 """
 
 # Number of days to look back for news
-LOOKBACK_DAYS = 7
+LOOKBACK_DAYS = 14
 
 # Number of search results per query
 NUM_RESULTS = 10
@@ -13,12 +13,12 @@ MAX_CHARACTERS = 3000
 
 # Search queries — focused on AI announcements, launches, and trending tools
 SEARCH_QUERIES = [
-    "new AI model released launched announced this week",
-    "new embedding model AI vector model released this week",
-    "new AI framework library toolkit launched this week",
-    "trending AI platform tool product launch this week",
-    "new open source AI model released this week",
-    "major AI company announcement launch this week",
+    "new AI model released launched announced in the last two weeks",
+    "new embedding model AI vector model released in the last two weeks",
+    "new AI framework library toolkit launched in the last two weeks",
+    "trending AI platform tool product launch in the last two weeks",
+    "new open source AI model released in the last two weeks",
+    "major AI company announcement launch in the last two weeks",
 ]
 
 # Exa search type — "auto" is fast and balanced; Groq handles the summarization
