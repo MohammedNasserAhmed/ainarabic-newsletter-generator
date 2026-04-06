@@ -1,0 +1,135 @@
+[
+  {
+    "topic": "Google Gemini Embedding2",
+    "summary": "Google unveiled Gemini Embedding2, a native multimodal model that unifies semantic spaces",
+    "date": "2026-04-05",
+    "url": "https://xix.ai/ainews/google-unveils-gemini-embedding2-native-multimodal-model-unifies-semantic-spaces.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google Gemma 4 Released",
+    "summary": "Google's Gemma 4 model is now available, featuring a Mixture-of-Experts architecture and 26B total parameters",
+    "date": "2026-04-04",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-04-04-gemma-4-26b-a4b-workers-ai/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft Agent Framework 1.0",
+    "summary": "Microsoft releases Agent Framework 1.0, a production-ready release for building AI agents",
+    "date": "2026-04-03",
+    "url": "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/",
+    "category": "Product"
+  },
+  {
+    "topic": "Genpire AI Design Platform",
+    "summary": "Genpire launches an AI-powered design and manufacturing platform for consumer goods brands",
+    "date": "2026-04-03",
+    "url": "https://www.metrowestdailynews.com/press-release/story/494248/genpire-launches-ai-powered-design-and-manufacturing-platform-in-the-united-states-for-consumer-goods-brands/",
+    "category": "Product"
+  },
+  {
+    "topic": "DataEntryOCR AI Tool",
+    "summary": "DataEntryOCR.com launches an AI-powered OCR platform to eliminate manual data entry from documents",
+    "date": "2026-04-03",
+    "url": "https://www.openpr.com/news/4454409/dataentryocr-com-launches-new-ai-tool-to-eliminate-manual-data",
+    "category": "Product"
+  },
+  {
+    "topic": "Arcee Releases Trinity-Large-Thinking",
+    "summary": "Arcee releases Trinity-Large-Thinking, a new open-source AI model",
+    "date": "2026-04-03",
+    "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft MAI Models Launched",
+    "summary": "Microsoft released three new MAI models: MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, for speech, voice, and image generation",
+    "date": "2026-04-02",
+    "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Vercel AI Toolkit Update",
+    "summary": "Vercel released an update to their AI toolkit, ai@6.0.143, with updated dependencies",
+    "date": "2026-04-02",
+    "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.143",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Agent Governance Toolkit",
+    "summary": "Microsoft introduces the Agent Governance Toolkit for open-source runtime security of AI agents",
+    "date": "2026-04-02",
+    "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "FexaAI Multi-Agent Platform",
+    "summary": "Fexa launches FexaAI, a multi-agent AI platform for facilities management",
+    "date": "2026-04-02",
+    "url": "https://www.prnewswire.com/news-releases/fexa-launches-fexaai-the-first-multi-agent-ai-platform-built-for-facilities-management-302728818.html",
+    "category": "Product"
+  },
+  {
+    "topic": "LocalAI Releases v4.1.0",
+    "summary": "LocalAI releases v4.1.0 with distributed mode and other features",
+    "date": "2026-04-02",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.1.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Microsoft Foundational AI",
+    "summary": "Microsoft launched 3 foundational AI models for voice transcription, audio generation, and image creation",
+    "date": "2026-04-02",
+    "url": "https://www.aibusinessreview.org/2026/04/02/microsoft-three-foundational-ai-models-launch/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Episolo AI App Builder",
+    "summary": "Episolo launches an AI app builder for revenue-ready web apps with built-in payments and auth",
+    "date": "2026-04-01",
+    "url": "https://www.rgj.com/press-release/story/152110/episolo-launches-ai-app-builder-for-revenue-ready-web-apps/",
+    "category": "Product"
+  },
+  {
+    "topic": "Upstage AI Launches Agentic Workflow",
+    "summary": "Upstage AI launches AI-powered agentic workflow solution for document-heavy processes",
+    "date": "2026-04-01",
+    "url": "https://www.prnewswire.com/news-releases/upstage-ai-launches-ai-powered-agentic-workflow-solution-for-document-heavy-processes-302730567.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Doba Unified AI Platform",
+    "summary": "Doba launches a unified AI platform to consolidate every dropshipping automation tool in one place",
+    "date": "2026-03-31",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/doba-launches-unified-ai-platform-050100896.html",
+    "category": "Product"
+  },
+  {
+    "topic": "PixVerse V6 AI Video Generation",
+    "summary": "PixVerse launches V6, advancing AI video generation across creative and agentic workflows",
+    "date": "2026-03-30",
+    "url": "https://www.prnewswire.com/news-releases/pixverse-launches-v6-advancing-ai-video-generation-across-creative-and-agentic-workflows-302728386.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Anthropic Mythos AI Model",
+    "summary": "Anthropic is testing a new AI model called Mythos, representing a significant step change in capabilities",
+    "date": "2026-03-26",
+    "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LM Studio Text Embedding",
+    "summary": "LM Studio allows running text embedding models locally for private and efficient document vectorization",
+    "date": "2026-03-26",
+    "url": "http://www.hakunamatatatech.com/our-resources/blog/lm-studio-text-embedding",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AgentScope Open Source AI Framework",
+    "summary": "China releases AgentScope, an open-source AI agent framework with visual design and MCP tools",
+    "date": "2026-03-25",
+    "url": "https://www.linkedin.com/posts/jafarnajafov_breaking-china-just-released-a-python-activity-7442573780545290240-Rce_",
+    "category": "Open Source"
+  }
+]
