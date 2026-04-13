@@ -1,0 +1,191 @@
+[
+  {
+    "topic": "Iris AI",
+    "summary": "Khoros launches Iris AI, an AI-native social media management and brand care platform",
+    "date": "2026-04-10",
+    "url": "https://www.prnewswire.co.uk/news-releases/khoros-launches-iris-ai-your-messenger-across-every-brand-channel-302739658.html",
+    "category": "Product"
+  },
+  {
+    "topic": "MiniMax-M1 Model",
+    "summary": "MiniMax launches MiniMax-M1, the world's first open-source, large-scale, hybrid-attention reasoning model",
+    "date": "2026-04-10",
+    "url": "http://minimax.io/news/minimaxm1",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Harrier Models",
+    "summary": "Microsoft releases Harrier family of embedding models, outperforming Google's Gemini Embedding 2",
+    "date": "2026-04-09",
+    "url": "https://www.neowin.net/news/microsofts-new-harrier-models-top-benchmarks-outperforming-googles-gemini-embedding-2/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Mallory AI-Native Threat Intelligence",
+    "summary": "Mallory launches an AI-native threat intelligence platform for exposure investigation and modern intel workflows",
+    "date": "2026-04-09",
+    "url": "https://www.mallory.ai/blog/launching-mallory",
+    "category": "Product"
+  },
+  {
+    "topic": "Muse Spark AI Model",
+    "summary": "Meta debuts new AI model Muse Spark, aiming to catch up with Google and OpenAI",
+    "date": "2026-04-09",
+    "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "C3 AI C3 Code",
+    "summary": "C3 AI launches C3 Code, an enterprise AI development platform turning natural language into production-grade applications",
+    "date": "2026-04-08",
+    "url": "https://www.businesswire.com/news/home/20260408810023/en/C3-AI-Announces-C3-Code-The-Enterprise-AI-Development-Platform-That-Turns-Natural-Language-Into-Production-Grade-Applications",
+    "category": "Product"
+  },
+  {
+    "topic": "Enki 4 Release",
+    "summary": "Variational AI releases Enki 4, a major update to its foundation model for small-molecule drug discovery",
+    "date": "2026-04-07",
+    "url": "https://variational.ai/featured/variational-ai-releases-enki-4/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "CrewAI 1.14.0 Release",
+    "summary": "CrewAI releases version 1.14.0, featuring new checkpointing capabilities, bug fixes, and documentation updates",
+    "date": "2026-04-07",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Wildix Revenue Intelligence",
+    "summary": "Wildix launches Revenue Intelligence, an AI-powered platform for revenue operations with full visibility",
+    "date": "2026-04-07",
+    "url": "https://www.wildix.com/wildix-launches-revenue-intelligence-ai-revenue-operations/",
+    "category": "Product"
+  },
+  {
+    "topic": "ServiceChannel ServiceChannel AI",
+    "summary": "ServiceChannel launches ServiceChannel AI, an AI operating system for facilities management",
+    "date": "2026-04-07",
+    "url": "https://servicechannel.com/press/servicechannel-launches-servicechannel-ai-for-facilities-management/",
+    "category": "Product"
+  },
+  {
+    "topic": "Lucid Claude Connector",
+    "summary": "Lucid Software launches Lucid Claude Connector, bringing visual intelligence into AI workflows",
+    "date": "2026-04-07",
+    "url": "https://www.prnewswire.com/news-releases/lucid-software-launches-lucid-claude-connector-bringing-visual-intelligence-into-ai-workflows-302735875.html",
+    "category": "Product"
+  },
+  {
+    "topic": "CriticalRiver Anthropic Partnership",
+    "summary": "CriticalRiver partners with Anthropic to deliver responsible AI at enterprise scale",
+    "date": "2026-04-06",
+    "url": "https://www.prweb.com/releases/criticalriver-and-anthropic-announce-partnership-to-deliver-responsible-ai-at-enterprise-scale-302734356.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Ludwig 0.12.0",
+    "summary": "Ludwig 0.12.0 is released, a low-code framework for building custom LLMs and neural networks",
+    "date": "2026-04-04",
+    "url": "https://github.com/ludwig-ai/ludwig/releases/tag/v0.12.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "OpenCode 1.3.14",
+    "summary": "OpenCode releases version 1.3.14 with new features and bug fixes",
+    "date": "2026-04-04",
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v1.3.14",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Microsoft Agent Governance Toolkit",
+    "summary": "Microsoft releases open-source Agent Governance Toolkit for autonomous AI agent security",
+    "date": "2026-04-03",
+    "url": "https://aiforautomation.io/news/2026-04-03-microsoft-agent-governance-toolkit-open-source-ai-agents-security-eu-ai-act",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Microsoft Agent Framework 1.0",
+    "summary": "Microsoft Agent Framework reaches version 1.0, a production-ready release for enterprise-grade multi-agent orchestration",
+    "date": "2026-04-03",
+    "url": "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/",
+    "category": "Product"
+  },
+  {
+    "topic": "DataEntryOCR AI Tool",
+    "summary": "DataEntryOCR.com launches a new AI tool to eliminate manual data entry from documents",
+    "date": "2026-04-03",
+    "url": "https://www.openpr.com/news/4454409/dataentryocr-com-launches-new-ai-tool-to-eliminate-manual-data",
+    "category": "Product"
+  },
+  {
+    "topic": "MAI Models Release",
+    "summary": "Microsoft releases three new world-class MAI models, including MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2",
+    "date": "2026-04-02",
+    "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 Release",
+    "summary": "Google DeepMind's Gemma 4 model family is now available under a full Apache 2.0 license",
+    "date": "2026-04-02",
+    "url": "https://getaibook.com/news/google-deepmind-launches-gemma-4-under-apache-20-license",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Giskard v3",
+    "summary": "Giskard v3 is released, a complete evolution of the library for Large Language Models and AI agents",
+    "date": "2026-04-02",
+    "url": "https://huggingface.co/blog/davidberenstein1957/announcing-giskard-open-source-v3",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Fexa FexaAI",
+    "summary": "Fexa launches FexaAI, a multi-agent AI platform for facilities management",
+    "date": "2026-04-02",
+    "url": "https://www.prnewswire.com/news-releases/fexa-launches-fexaai-the-first-multi-agent-ai-platform-built-for-facilities-management-302728818.html",
+    "category": "Product"
+  },
+  {
+    "topic": "SymphonyAI Apex Aspen",
+    "summary": "SymphonyAI launches Apex Aspen, an AI-native IT platform for growth enterprises",
+    "date": "2026-04-02",
+    "url": "https://www.symphonyai.com/news/itsm/apex-aspen-ai-it-platform-growth-enterprises/",
+    "category": "Product"
+  },
+  {
+    "topic": "LocalAI 4.1.0",
+    "summary": "LocalAI releases version 4.1.0 with distributed mode, user management, and quota system",
+    "date": "2026-04-02",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.1.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "OpenHands SDK Update",
+    "summary": "OpenHands/software-agent-sdk v1.16.1 released with new features and security fixes",
+    "date": "2026-04-02",
+    "url": "https://github.com/OpenHands/software-agent-sdk/releases/tag/v1.16.1",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Gemini Embedding 2 Release",
+    "summary": "Google releases Gemini Embedding 2, the first native multimodal embedding model, achieving the #1 ranking on the MTEB benchmark",
+    "date": "2026-04-01",
+    "url": "https://evoart.ai/blog/google-gemini-embedding-2-preview-multimodal-breakthrough",
+    "category": "Model Release"
+  },
+  {
+    "topic": "TRL v1.0",
+    "summary": "Hugging Face releases TRL v1.0, a unified post-training stack for SFT, reward modeling, and alignment",
+    "date": "2026-04-01",
+    "url": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/?amp=",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Upstage AI Upstage Studio",
+    "summary": "Upstage AI launches Upstage Studio, an AI-powered agentic workflow solution for document-heavy processes",
+    "date": "2026-04-01",
+    "url": "https://www.prnewswire.com/news-releases/upstage-ai-launches-ai-powered-agentic-workflow-solution-for-document-heavy-processes-302730567.html",
+    "category": "Product"
+  }
+]
