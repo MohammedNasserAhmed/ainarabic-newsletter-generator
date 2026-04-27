@@ -1,0 +1,205 @@
+[
+  {
+    "topic": "GPT-5.5 Release",
+    "summary": "OpenAI releases GPT-5.5 with autonomous tool use and self-correction",
+    "date": "2026-04-26",
+    "url": "https://contentbuffer.com/news/openai-releases-gpt-55-with-autonomous-tool-use-and-self-correction",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DeepSeek V4 Model",
+    "summary": "DeepSeek releases V4 model with 1M context window and open-sourced weights",
+    "date": "2026-04-26",
+    "url": "https://harrisonaix.com/blog/deepseek-v4-model-release/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "onyx v3.2.5",
+    "summary": "onyx v3.2.5 is a release of the onyx framework, with various updates and improvements, including configurable file upload size and token limits",
+    "date": "2026-04-24",
+    "url": "https://github.com/onyx-dot-app/onyx/releases/tag/v3.2.5",
+    "category": "Open Source"
+  },
+  {
+    "topic": "KaLM-Embedding-V2",
+    "summary": "KaLM releases Embedding-V2 with superior training techniques and data",
+    "date": "2026-04-23",
+    "url": "https://liner.com/review/kalmembeddingv2-superior-training-techniques-and-data-inspire-a-versatile-embedding",
+    "category": "Model Release"
+  },
+  {
+    "topic": "SynapseKit Framework",
+    "summary": "SynapseKit is an open-source Python framework for building LLM applications, designed for speed, simplicity, and scale",
+    "date": "2026-04-23",
+    "url": "https://dev.to/amito_843a9904d48/synapsekit-a-production-grade-llm-framework-built-for-speed-simplicity-and-scale-1ag0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "ChapsAgents Platform",
+    "summary": "ChapsAgents is an enterprise platform for trustworthy agentic AI, enabling full-scale deployments",
+    "date": "2026-04-22",
+    "url": "https://www.prnewswire.com/news-releases/chapsvision-unveils-chapsagents-enterprise-platform-for-trustworthy-agentic-ai-302739017.html",
+    "category": "Product"
+  },
+  {
+    "topic": "PolyAI Agent Development Kit",
+    "summary": "PolyAI Agent Development Kit brings AI-native development to enterprise customer experience, enabling teams to build and improve AI agents",
+    "date": "2026-04-22",
+    "url": "https://www.prnewswire.com/news-releases/polyai-launches-agent-development-kit-to-bring-ai-native-development-to-enterprise-cx-302749465.html",
+    "category": "Product"
+  },
+  {
+    "topic": "SAP Google Cloud Partnership",
+    "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI, enabling personalized marketing campaigns",
+    "date": "2026-04-22",
+    "url": "https://news.sap.com/2026/04/sap-google-cloud-expand-partnership-deploy-multi-agent-ai/",
+    "category": "Product"
+  },
+  {
+    "topic": "Google TPU 8t and 8i",
+    "summary": "Google launches eighth-generation TPUs, featuring TPU 8t and TPU 8i, for efficient AI model training and inference",
+    "date": "2026-04-22",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "category": "Product"
+  },
+  {
+    "topic": "Google Cloud Agentic AI Fund",
+    "summary": "Google Cloud commits $750 million to accelerate partners' agentic AI development and adoption",
+    "date": "2026-04-22",
+    "url": "https://www.prnewswire.com/news-releases/google-cloud-commits-750-million-to-accelerate-partners-agentic-ai-development-302749239.html",
+    "category": "Funding"
+  },
+  {
+    "topic": "Anthropic Opus 4.7",
+    "summary": "Anthropic releases Opus 4.7 with improved coding and visual tasks capabilities",
+    "date": "2026-04-21",
+    "url": "https://campustechnology.com/articles/2026/04/21/anthropic-launches-opus-4-7-ai-model-focusing-on-coding-visual-tasks-and-cybersecurity-guardrails.aspx",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DenseOn and LateOn",
+    "summary": "Release of DenseOn and LateOn, open state-of-the-art single and multi-vector models",
+    "date": "2026-04-21",
+    "url": "https://huggingface.co/blog/lightonai/denseon-lateon",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Q-Prime Quantum Embedding",
+    "summary": "Quantum General Intelligence Inc. releases Q-Prime, the world's first commercial quantum embedding model on HuggingFace",
+    "date": "2026-04-21",
+    "url": "https://finance.einnews.com/pr_news/907153019/quantum-general-intelligence-inc-unveils-q-prime-the-world-s-first-commercial-quantum-embedding-model-on-huggingface",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft Agent Framework",
+    "summary": "Microsoft releases python-1.1.0 of its Agent Framework, adding new features and improvements for building and deploying AI agents",
+    "date": "2026-04-21",
+    "url": "https://github.com/microsoft/agent-framework/releases/tag/python-1.1.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Osirus AI Platform",
+    "summary": "Osirus AI launches a unified platform for building, deploying, and managing enterprise AI agents, featuring a free tier",
+    "date": "2026-04-21",
+    "url": "https://www.globenewswire.com/news-release/2026/04/21/3277622/0/en/Introducing-Osirus-AI-the-Unified-Platform-for-Building-Deploying-and-Managing-Enterprise-AI-Agents.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Agiloft Astra",
+    "summary": "Agiloft launches Astra, a contracts AI platform with a free tier, for democratizing access to enterprise-grade contract analytics",
+    "date": "2026-04-21",
+    "url": "https://www.prnewswire.com/news-releases/agiloft-launches-astra-to-democratize-ai-enterprise-grade-contract-ai-now-accessible-to-everyone-via-new-free-tier-302748341.html",
+    "category": "Product"
+  },
+  {
+    "topic": "PBD TokenRouter",
+    "summary": "PBD TokenRouter is a unified platform for accessing AI models, making it easier for organizations to manage AI resources",
+    "date": "2026-04-21",
+    "url": "https://www.prnewswire.com/news-releases/palebluedot-ai-launches-pbd-tokenrouter-a-unified-platform-for-accessing-ai-models-302749017.html",
+    "category": "Product"
+  },
+  {
+    "topic": "DSPy 3.2.0",
+    "summary": "DSPy 3.2.0 is a release of the DSPy framework, with various updates and improvements, including better support for chaining optimizers",
+    "date": "2026-04-21",
+    "url": "https://github.com/stanfordnlp/dspy/releases/tag/3.2.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Spice Cloud v2.0-rc.2",
+    "summary": "Spice AI releases Spice Cloud v2.0-rc.2 with improved data and AI infrastructure",
+    "date": "2026-04-20",
+    "url": "https://spice.ai/blog/spice-cloud-v2-0-rc-2",
+    "category": "Product"
+  },
+  {
+    "topic": "DR-Venus Model",
+    "summary": "DR-Venus is a 4B-parameter deep research agent trained on open data, achieving a new small-model frontier on multiple benchmarks",
+    "date": "2026-04-20",
+    "url": "https://github.com/inclusionAI/DR-Venus",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI Agents SDK",
+    "summary": "OpenAI releases its internal Agents SDK as an open-source project, featuring a minimalist framework for multi-agent development",
+    "date": "2026-04-18",
+    "url": "https://gentic.news/article/openai-open-sources-agents-sdk",
+    "category": "Open Source"
+  },
+  {
+    "topic": "NVIDIA Isaac GR00T n1.7-release",
+    "summary": "NVIDIA Isaac GR00T n1.7-release is a release of the Isaac-GR00T framework, with various updates and improvements",
+    "date": "2026-04-18",
+    "url": "https://github.com/NVIDIA/Isaac-GR00T/releases/tag/n1.7-release",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Voyage AI Provider",
+    "summary": "Vercel adds voyage AI provider with embedding and reranking support",
+    "date": "2026-04-17",
+    "url": "https://github.com/vercel/ai/commit/4963f11b75ab4332b98d3faf3418e3f3bdc70351",
+    "category": "Product"
+  },
+  {
+    "topic": "Claude Design",
+    "summary": "Claude Design is a tool for creating prototypes, slides, and visual assets with AI, available as a research preview for subscribers",
+    "date": "2026-04-17",
+    "url": "https://aistify.com/anthropic-claude-design-visual-tool/",
+    "category": "Product"
+  },
+  {
+    "topic": "Qwen3.6-35B-A3B Model",
+    "summary": "Qwen3.6-35B-A3B is a sparse MoE vision-language model with 3B active parameters and agentic coding capabilities, open-sourced by the Qwen team",
+    "date": "2026-04-17",
+    "url": "https://www.marktechpost.com/2026/04/16/qwen-team-open-sources-qwen3-6-35b-a3b-a-sparse-moe-vision-language-model-with-3b-active-parameters-and-agentic-coding-capabilities/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Firecrawl Web-Agent",
+    "summary": "Firecrawl releases an open-source web-agent framework for building and deploying web research agents",
+    "date": "2026-04-16",
+    "url": "https://www.firecrawl.dev/blog/firecrawl-agent-open-source",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Mem0 Python SDK",
+    "summary": "Mem0 releases v2.0.0 of its Python SDK, featuring a ground-up redesign of its memory layer for AI agents",
+    "date": "2026-04-16",
+    "url": "https://github.com/mem0ai/mem0/releases/tag/v2.0.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "ask-dig AI Search Platform",
+    "summary": "ask-dig is a video-centric AI social search platform, delivering evidence-backed answers sourced from social media",
+    "date": "2026-04-16",
+    "url": "https://www.prnewswire.com/news-releases/dig-launches-ask-dig-the-first-video-centric-ai-social-search-platform-302744538.html",
+    "category": "Product"
+  },
+  {
+    "topic": "MAI-Image-2-Efficient",
+    "summary": "Microsoft releases MAI-Image-2-Efficient with 41% lower cost and improved performance",
+    "date": "2026-04-14",
+    "url": "https://microsoft.ai/news/mai-image-2-efficient/",
+    "category": "Model Release"
+  }
+]
