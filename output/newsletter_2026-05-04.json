@@ -1,0 +1,198 @@
+[
+  {
+    "topic": "OpenAI Agents Python v0.15.1",
+    "summary": "OpenAI releases OpenAI Agents Python v0.15.1 with new features and bug fixes",
+    "date": "2026-05-02",
+    "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.15.1",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Grok 4.3",
+    "summary": "xAI launches Grok 4.3, a new large language model with improved performance and a lower price point",
+    "date": "2026-05-01",
+    "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Stelia AI OS",
+    "summary": "Stelia introduces AI OS for enterprise AI",
+    "date": "2026-04-30",
+    "url": "https://newsroom.stelia.ai/introducing-stelia-ai-os-the-full-stack-operating-system-for-enterprise-ai/",
+    "category": "Product"
+  },
+  {
+    "topic": "Harness Cursor Plugin",
+    "summary": "Harness launches Cursor plugin for AI-powered software delivery",
+    "date": "2026-04-30",
+    "url": "https://www.prnewswire.com/news-releases/harness-launches-cursor-plugin-to-bring-the-full-power-of-software-delivery-into-the-developer-workflow-302759045.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Agentforce Operations",
+    "summary": "Salesforce launches Agentforce Operations, automating back-office processes with specialized agents",
+    "date": "2026-04-29",
+    "url": "https://www.salesforce.com/news/stories/agentforce-operations-announcement/",
+    "category": "Product"
+  },
+  {
+    "topic": "Stripe Economic Infrastructure",
+    "summary": "Stripe announces 288 new products and features, including wallets for agents and support for AI-native business models",
+    "date": "2026-04-29",
+    "url": "https://stripe.com/newsroom/news/sessions-2026",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Nano Omni",
+    "summary": "NVIDIA launches Nemotron 3 Nano Omni, a multimodal AI model unifying vision, audio, and language for more efficient AI agents",
+    "date": "2026-04-28",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 AI Models",
+    "summary": "Google DeepMind releases Gemma 4, a new family of open-source AI models with advanced architectures and multimodal capabilities",
+    "date": "2026-04-28",
+    "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/google-deepmind-unveils-gemma-4-ai-models",
+    "category": "Model Release"
+  },
+  {
+    "topic": "@ai-sdk/google-vertex@5.0.0-beta.60",
+    "summary": "Vercel releases @ai-sdk/google-vertex@5.0.0-beta.60 with updated dependencies",
+    "date": "2026-04-28",
+    "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/google-vertex%405.0.0-beta.60",
+    "category": "Open Source"
+  },
+  {
+    "topic": "IBM Bob",
+    "summary": "IBM introduces IBM Bob, an AI development partner for enterprise teams",
+    "date": "2026-04-28",
+    "url": "https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software",
+    "category": "Product"
+  },
+  {
+    "topic": "Amazon Quick",
+    "summary": "Amazon launches AI-powered desktop app for work automation",
+    "date": "2026-04-28",
+    "url": "https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant",
+    "category": "Product"
+  },
+  {
+    "topic": "Transformers v5.7.0",
+    "summary": "Hugging Face releases Transformers v5.7.0 with new model additions",
+    "date": "2026-04-28",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "OpenAI on Amazon Bedrock",
+    "summary": "AWS and OpenAI partner to bring OpenAI models to Amazon Bedrock, including Codex and Managed Agents",
+    "date": "2026-04-28",
+    "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+    "category": "Product"
+  },
+  {
+    "topic": "Logic AI Platform",
+    "summary": "Logic launches spec-driven platform for fully managed AI agents",
+    "date": "2026-04-27",
+    "url": "https://www.prnewswire.com/news-releases/logic-launches-spec-driven-platform-for-fully-managed-ai-agents-302754664.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Firefly AI Assistant",
+    "summary": "Adobe's Firefly AI Assistant is now in public beta, enabling users to create content with multi-step workflows across Creative Cloud apps",
+    "date": "2026-04-27",
+    "url": "https://blog.adobe.com/en/publish/2026/04/27/firefly-ai-assistant-public-beta",
+    "category": "Product"
+  },
+  {
+    "topic": "DeepSeek-V4",
+    "summary": "DeepSeek releases V4, a model with a 1M-token context window designed for efficient large context length support and agentic tasks",
+    "date": "2026-04-24",
+    "url": "https://huggingface.co/blog/deepseekv4",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-5.5 Model Release",
+    "summary": "OpenAI releases GPT-5.5, a smarter and more intuitive model for complex tasks like coding and research",
+    "date": "2026-04-23",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Cohere Embed v4",
+    "summary": "Cohere launches Embed v4, the first production multimodal embedding model capable of vectorizing text, images, and documents",
+    "date": "2026-04-23",
+    "url": "https://app.ailog.fr/en/blog/news/cohere-embed-v4-multimodal",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI's GPT-5.5 in Microsoft Foundry",
+    "summary": "OpenAI's GPT-5.5 is now available in Microsoft Foundry for enterprise teams",
+    "date": "2026-04-23",
+    "url": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, a natively multimodal embedding model that unifies text, images, video, audio, and PDFs into a single vector space",
+    "date": "2026-04-22",
+    "url": "https://evermx.com/case/gemini-embedding-2-general-availability",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Infinitus Studio",
+    "summary": "Infinitus introduces no-code AI agent builder for healthcare",
+    "date": "2026-04-22",
+    "url": "https://www.infinitus.ai/blog/introducing-infinitus-studio-healthcares-no-code-ai-agent-builder/",
+    "category": "Product"
+  },
+  {
+    "topic": "HY-Embodied-0.5-X",
+    "summary": "Tencent releases embodied foundation model for real-world agents",
+    "date": "2026-04-22",
+    "url": "https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Qwen3.6-27B",
+    "summary": "Alibaba Qwen Team releases Qwen3.6-27B, a dense open-weight model",
+    "date": "2026-04-22",
+    "url": "https://www.marktechpost.com/2026/04/22/alibaba-qwen-team-releases-qwen3-6-27b-a-dense-open-weight-model-outperforming-397b-moe-on-agentic-coding-benchmarks/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DenseOn and LateOn",
+    "summary": "Release of DenseOn and LateOn, open state-of-the-art single and multi-vector models for retrieval tasks",
+    "date": "2026-04-21",
+    "url": "https://huggingface.co/blog/lightonai/denseon-lateon",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Deep Research and Deep Research Max",
+    "summary": "Google releases Deep Research and Deep Research Max, autonomous research agents for advanced data analysis and knowledge work",
+    "date": "2026-04-21",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+    "category": "Product"
+  },
+  {
+    "topic": "Osirus AI Platform",
+    "summary": "Osirus introduces unified platform for building, deploying, and managing enterprise AI agents",
+    "date": "2026-04-21",
+    "url": "https://www.globenewswire.com/news-release/2026/04/21/3277622/0/en/Introducing-Osirus-AI-the-Unified-Platform-for-Building-Deploying-and-Managing-Enterprise-AI-Agents.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Belmont v0.9.6",
+    "summary": "Belmont releases v0.9.6 with improvements to planning modes and other features",
+    "date": "2026-04-20",
+    "url": "https://github.com/blake-simpson/belmont/commit/0b9d97257de1fd433b245c0708ffd825514ebc2c",
+    "category": "Open Source"
+  },
+  {
+    "topic": "DR-Venus",
+    "summary": "InclusionAI releases DR-Venus, a 4B-parameter deep research agent",
+    "date": "2026-04-20",
+    "url": "https://github.com/inclusionAI/DR-Venus",
+    "category": "Model Release"
+  }
+]
