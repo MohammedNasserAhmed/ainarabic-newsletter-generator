@@ -1,0 +1,226 @@
+[
+  {
+    "topic": "Microsoft Agent Framework",
+    "summary": "Microsoft launches Agent Framework, a framework for building, orchestrating, and deploying AI agents and multi-agent workflows",
+    "date": "2026-05-10",
+    "url": "https://github.com/microsoft/agent-framework",
+    "category": "Open Source"
+  },
+  {
+    "topic": "ERNIE 5.1 Released",
+    "summary": "Baidu releases ERNIE 5.1, a new AI model with improved performance and reduced pre-training cost",
+    "date": "2026-05-09",
+    "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Azure SQL Embeddings Function",
+    "summary": "Azure SQL releases Generate Embeddings function and external model object support",
+    "date": "2026-05-08",
+    "url": "https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/",
+    "category": "Product"
+  },
+  {
+    "topic": "EMO Model Released",
+    "summary": "Allen Institute releases EMO, a mixture-of-experts model for emergent modularity",
+    "date": "2026-05-08",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LexisNexis Launches Protégé",
+    "summary": "LexisNexis launches next evolution of Lexis+ with Protégé, a legal AI platform",
+    "date": "2026-05-07",
+    "url": "https://www.globenewswire.com/news-release/2026/05/07/3289932/0/en/LexisNexis-Launches-Next-Evolution-of-Lexis-with-Prot%C3%A9g%C3%A9-the-Legal-AI-Platform-Built-on-the-Authority-Legal-Work-Demands.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Marqo Sibbi",
+    "summary": "Marqo introduces Commerce Superintelligence with the launch of Sibbi, an AI platform for product discovery and customer support",
+    "date": "2026-05-07",
+    "url": "https://www.prnewswire.com/news-releases/marqo-introduces-commerce-superintelligence-with-the-launch-of-sibbi-the-intelligence-layer-for-the-next-era-of-product-discovery-302765850.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Memori Labs Agent-Native Memory",
+    "summary": "Memori Labs releases new agent-native memory infrastructure, enabling agents to create structured memory from agent trace",
+    "date": "2026-05-07",
+    "url": "https://www.prweb.com/releases/memori-labs-releases-new-agent-native-memory-infrastructure-automatically-creating-structured-memory-from-agent-trace-302765715.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Sendbird Agent Steward",
+    "summary": "Sendbird launches Agent Steward for autonomous AI customer experiences with Trust OS 2.0 and Voice 2.0",
+    "date": "2026-05-07",
+    "url": "https://www.prnewswire.com/news-releases/sendbird-launches-agent-steward-to-bring-full-autonomy-and-ownership-to-ai-customer-experiences-302765006.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Cognizant Secure AI Services",
+    "summary": "Cognizant launches Secure AI Services for enterprises to safely scale agentic systems with AI-powered defense",
+    "date": "2026-05-07",
+    "url": "https://www.prnewswire.com/news-releases/cognizant-launches-secure-ai-services-to-help-enterprises-safely-scale-agentic-systems-302765310.html",
+    "category": "Product"
+  },
+  {
+    "topic": "GPT-5.5 Instant Released",
+    "summary": "OpenAI releases GPT-5.5 Instant, an updated model with improved accuracy and conversational tone",
+    "date": "2026-05-06",
+    "url": "https://openai.com/index/gpt-5-5-instant/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ZAYA1-8B Released",
+    "summary": "Zyphra releases ZAYA1-8B, a reasoning model with high intelligence density per parameter",
+    "date": "2026-05-06",
+    "url": "https://www.2news.com/online_features/press_releases/zyphra-releases-zaya1-8b-a-reasoning-model-trained-on-amd-and-optimized-for-maximum-intelligence/article_2417f906-1175-577b-8f7c-13e2a434f680.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI Agents Python 0.15.2",
+    "summary": "OpenAI releases OpenAI Agents Python 0.15.2 with new features, bug fixes, and improvements",
+    "date": "2026-05-06",
+    "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.15.2",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Ludwig AI 0.16.0",
+    "summary": "Ludwig AI releases version 0.16.0 with new features, including timeseries forecasting and advanced PEFT adapters",
+    "date": "2026-05-06",
+    "url": "https://github.com/ludwig-ai/ludwig/releases/tag/v0.16.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Workato Otto",
+    "summary": "Workato launches Otto, a trusted AI teammate that executes work across systems, coordinates teams, and completes complex business processes",
+    "date": "2026-05-06",
+    "url": "https://www.businesswire.com/news/home/20260505979973/en/Workato-Launches-Otto-the-Trusted-AI-Teammate-that-Gets-Work-Done",
+    "category": "Product"
+  },
+  {
+    "topic": "Collibra AI Command Center",
+    "summary": "Collibra launches AI Command Center, a solution for real-time automated control over agentic AI",
+    "date": "2026-05-06",
+    "url": "https://www.prnewswire.com/news-releases/collibra-launches-ai-command-center-to-scale-agentic-ai-with-real-time-oversight-and-continuous-control-302763105.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Twilio Conversation Layer",
+    "summary": "Twilio introduces new conversation layer with Twilio Conversation Orchestrator, Memory, and Intelligence",
+    "date": "2026-05-06",
+    "url": "https://www.twilio.com/en-us/blog/products/signal-2026-product-announcements",
+    "category": "Product"
+  },
+  {
+    "topic": "Twilio Agent Connect",
+    "summary": "Twilio launches Agent Connect, a model-agnostic bridge between AI agents and real customers",
+    "date": "2026-05-06",
+    "url": "https://www.twilio.com/en-us/blog/products/launches/agent-connect",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini API File Search Update",
+    "summary": "Google updates Gemini API File Search with multimodal support",
+    "date": "2026-05-05",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "category": "Product"
+  },
+  {
+    "topic": "Tableau Agentic Analytics Platform",
+    "summary": "Tableau unveils the Agentic Analytics Platform for trusted and accurate AI-driven decision-making",
+    "date": "2026-05-05",
+    "url": "https://www.salesforce.com/news/stories/tableau-agentic-analytics-platform-announcement/",
+    "category": "Product"
+  },
+  {
+    "topic": "IBM AI Operating Model",
+    "summary": "IBM delivers blueprint for AI operating model with next-gen agent orchestration and AI-ready data foundation",
+    "date": "2026-05-05",
+    "url": "https://newsroom.ibm.com/2026-05-05-think-2026-ibm-delivers-the-blueprint-for-the-ai-operating-model-as-the-ai-divide-widens",
+    "category": "Product"
+  },
+  {
+    "topic": "Google Gemini Enterprise Agent",
+    "summary": "Google announces new Gemini Enterprise Agent Platform for building and managing enterprise AI agents",
+    "date": "2026-05-04",
+    "url": "https://thejournal.com/articles/2026/05/04/google-announces-new-gemini-enterprise-agent-platform.aspx",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google launches Gemini Embedding 2, a full-multimodal model for text, images, video, audio, and documents",
+    "date": "2026-05-01",
+    "url": "https://aipressa.com/ai-generative/gemini-embedding-2-launches-with-multimodal-capabilities-enhancing-ai-retrieval-accuracy-by-40/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Agent Toolkit for AWS",
+    "summary": "AWS launches Agent Toolkit for AWS, a production-ready suite of tools and guidance for AI coding agents",
+    "date": "2026-05-01",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/",
+    "category": "Product"
+  },
+  {
+    "topic": "Amazon SageMaker AI",
+    "summary": "Amazon SageMaker AI launches AI agent experience for model customization",
+    "date": "2026-05-01",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/",
+    "category": "Product"
+  },
+  {
+    "topic": "Llamafile v0.10.1",
+    "summary": "Llamafile releases v0.10.1, a tool for distributing and running LLMs with a single file",
+    "date": "2026-05-01",
+    "url": "https://github.com/mozilla-ai/llamafile/releases/tag/0.10.1",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Mistral AI Model",
+    "summary": "Mistral AI releases new open-source model, Mistral Medium 3.5, with agentic features and remote coding agents",
+    "date": "2026-04-30",
+    "url": "https://tech.yahoo.com/ai/articles/mistral-ai-drops-open-source-213103938.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "IBM Granite 4.1",
+    "summary": "IBM releases Granite 4.1, a family of AI models for language, vision, speech, embedding, and guardian models",
+    "date": "2026-04-29",
+    "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nemotron 3 Nano Omni Released",
+    "summary": "NVIDIA launches Nemotron 3 Nano Omni, a multimodal model for efficient AI agents",
+    "date": "2026-04-28",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DeepSeek V4",
+    "summary": "DeepSeek releases V4, an open-source model for practical AI tasks with near top-tier performance and lower cost",
+    "date": "2026-04-28",
+    "url": "https://www.linkedin.com/posts/alexwang2911_%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A4just-released-its-latest-activity-7454887318177464320-xWc6",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Multiverse LittleLamb",
+    "summary": "Multiverse Computing launches LittleLamb model family, ultra-compact models for edge, on-device, and agentic use cases",
+    "date": "2026-04-28",
+    "url": "https://www.advfn.com/stock-market/stock-news/98375140/multiverse-computing-launches-littlelamb-model-fam",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kimi K2.6 and MiMo V2.5 Pro",
+    "summary": "Kimi K2.6 and MiMo V2.5 Pro, two open-source models, beat Claude, GPT, and Gemini on coding benchmarks",
+    "date": "2026-04-28",
+    "url": "https://medium.com/the-ai-studio/the-2-open-source-ai-models-that-just-beat-claude-gpt-and-gemini-cef2376ce15b",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenMOSS MOSS-Audio",
+    "summary": "OpenMOSS releases MOSS-Audio, an open-source foundation model for speech, sound, music, and time-aware audio reasoning",
+    "date": "2026-04-27",
+    "url": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
+    "category": "Model Release"
+  }
+]
