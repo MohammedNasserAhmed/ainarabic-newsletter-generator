@@ -1,0 +1,226 @@
+[
+  {
+    "topic": "Daimon Java SDK",
+    "summary": "Daimon releases Java SDK for unified HTTP API",
+    "date": "2026-05-17",
+    "url": "https://dev.to/sonicboom15/the-daimon-java-sdk-chat-stream-and-query-memory-from-3-lines-of-java-567f",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA SANA-WM",
+    "summary": "NVIDIA introduces SANA-WM, a 2.6B-parameter open-source world model for generating minute-scale 720p video",
+    "date": "2026-05-16",
+    "url": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 Release",
+    "summary": "Google DeepMind releases Gemma 4, a new family of open-source AI models for advanced reasoning",
+    "date": "2026-05-15",
+    "url": "https://smbtech.au/news/google-deepmind-releases-gemma-4-its-most-capable-open-source-ai-models/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ant Group F2LLM-v2",
+    "summary": "Ant Group releases F2LLM-v2, a multilingual full-scale embedding model",
+    "date": "2026-05-14",
+    "url": "https://xix.ai/ainews/ant-group-unveils-f2llmv2-a-multilingual-fullscale-embedding-model.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Milvus v2.6.16",
+    "summary": "Milvus releases v2.6.16 with stability and performance improvements",
+    "date": "2026-05-14",
+    "url": "https://github.com/milvus-io/milvus/releases/tag/v2.6.16",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Genkit Middleware",
+    "summary": "Google announces Genkit Middleware for building agentic apps",
+    "date": "2026-05-14",
+    "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+    "category": "Product"
+  },
+  {
+    "topic": "Pipecat v1.2.0",
+    "summary": "Pipecat releases v1.2.0 with new features and improvements",
+    "date": "2026-05-14",
+    "url": "https://github.com/pipecat-ai/pipecat/releases/tag/v1.2.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Notion AI Workflows",
+    "summary": "Notion launches developer platform for AI workflows and agents, enabling custom multistep automations",
+    "date": "2026-05-14",
+    "url": "https://dataconomy.com/2026/05/14/notion-launches-developer-platform-for-ai-workflows-and-agents/",
+    "category": "Product"
+  },
+  {
+    "topic": "BasedAI Hirebase",
+    "summary": "BasedAI launches Hirebase, an instant AI workforce platform",
+    "date": "2026-05-13",
+    "url": "https://www.prnewswire.com/news-releases/basedai-emerges-from-stealth-to-launch-hirebase-the-instant-ai-workforce-platform-for-businesses-302770823.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Perceptron AI Model",
+    "summary": "Perceptron AI launches a physical AI model that matches frontier labs at a fraction of the cost",
+    "date": "2026-05-12",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/perceptron-ai-launches-physical-ai-153000413.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Elastic Jina v5 Omni",
+    "summary": "Elastic launches Jina v5 Omni, a multimodal embedding model family",
+    "date": "2026-05-12",
+    "url": "https://ittech-news.com/elastic-launches-jina-v5-omni-family-for-multimodal-search/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Vercel AI v5.0.188",
+    "summary": "Vercel releases AI v5.0.188 with patch changes",
+    "date": "2026-05-12",
+    "url": "https://github.com/vercel/ai/releases/tag/ai%405.0.188",
+    "category": "Product"
+  },
+  {
+    "topic": "Coupa Compose",
+    "summary": "Coupa launches Compose and Catalyst for agentic AI value",
+    "date": "2026-05-12",
+    "url": "https://www.prnewswire.com/news-releases/coupa-launches-coupa-compose-and-catalyst-to-accelerate-agentic-ai-value-and-delivery-at-inspire-2026-302769893.html",
+    "category": "Product"
+  },
+  {
+    "topic": "ZeroPath AI Security",
+    "summary": "ZeroPath launches Zero, the first AI built to run an entire application security program",
+    "date": "2026-05-12",
+    "url": "https://www.businesswire.com/news/home/20260512091423/en/ZeroPath-Launches-Zero-the-First-AI-Built-to-Run-an-Entire-Application-Security-Program",
+    "category": "Product"
+  },
+  {
+    "topic": "Veeam DataAI Command",
+    "summary": "Veeam launches DataAI Command Platform, a unified data and AI trust infrastructure for the agentic era",
+    "date": "2026-05-12",
+    "url": "https://www.businesswire.com/news/home/20260512305482/en/Veeam-Launches-DataAI-Command-Platform-the-Industrys-First-Unified-Data-and-AI-Trust-Infrastructure-for-the-Agentic-Era",
+    "category": "Product"
+  },
+  {
+    "topic": "SAP Autonomous Enterprise",
+    "summary": "SAP unveils the Autonomous Enterprise, introducing a unified SAP Business AI Platform",
+    "date": "2026-05-12",
+    "url": "https://www.prnewswire.com/news-releases/sap-unveils-the-autonomous-enterprise-302769516.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Honeycomb Agent Observability",
+    "summary": "Honeycomb launches Agent Observability, bringing full visibility to agentic workflows in production",
+    "date": "2026-05-12",
+    "url": "https://www.prnewswire.com/news-releases/honeycomb-launches-agent-observability-bringing-full-visibility-to-agentic-workflows-in-production-302769398.html",
+    "category": "Product"
+  },
+  {
+    "topic": "jina-embeddings-v5-omni Release",
+    "summary": "Elasticsearch Labs releases jina-embeddings-v5-omni, a new embedding model for text, images, video, and audio",
+    "date": "2026-05-11",
+    "url": "https://www.elastic.co/search-labs/blog/jina-embeddings-v5-omni-all-media-one-index",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MongoDB Automated Embedding",
+    "summary": "MongoDB announces automated embedding in MongoDB Atlas for AI search",
+    "date": "2026-05-11",
+    "url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-search-for-agents-announcing-automated-embedding-atlas",
+    "category": "Product"
+  },
+  {
+    "topic": "Screendragon AI Hub",
+    "summary": "Screendragon launches AI Hub, enabling marketing teams to build and run AI agents inside real workflows",
+    "date": "2026-05-11",
+    "url": "https://www.prnewswire.com/news-releases/screendragon-launches-ai-hub-enabling-marketing-teams-and-agencies-to-build-and-run-ai-agents-inside-real-workflows-302767350.html",
+    "category": "Product"
+  },
+  {
+    "topic": "ERNIE 5.1 Release",
+    "summary": "Baidu releases ERNIE 5.1, a new flagship model with improved performance and efficiency",
+    "date": "2026-05-09",
+    "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-5.5 Instant Launch",
+    "summary": "OpenAI launches GPT-5.5 Instant, a new default model for ChatGPT with improved performance",
+    "date": "2026-05-09",
+    "url": "https://tomorrowaccess.com/en/news/18772",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Azure SQL Embeddings",
+    "summary": "Microsoft announces general availability of AI_GENERATE_EMBEDDINGS and CREATE EXTERNAL MODEL in Azure SQL",
+    "date": "2026-05-08",
+    "url": "https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/",
+    "category": "Product"
+  },
+  {
+    "topic": "HiDream-O1-Image",
+    "summary": "HiDream-ai releases HiDream-O1-Image, a natively unified image generative foundation model",
+    "date": "2026-05-08",
+    "url": "https://github.com/HiDream-ai/HiDream-O1-Image",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Rnj-1 Ramanujan",
+    "summary": "Essential AI releases Rnj-1, an 8-billion-parameter open-weights language model for code generation and STEM reasoning",
+    "date": "2026-05-08",
+    "url": "https://nextomoro.com/ramanujan/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, the first full-multimodal model",
+    "date": "2026-05-07",
+    "url": "https://xix.ai/ainews/google-gemini-embedding-2-debuts-as-first-fullmultimodal-model.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ZAYA1-8B Model Release",
+    "summary": "Zyphra releases ZAYA1-8B, a reasoning model trained on AMD with high intelligence density",
+    "date": "2026-05-06",
+    "url": "https://www.2news.com/online_features/press_releases/zyphra-releases-zaya1-8b-a-reasoning-model-trained-on-amd-and-optimized-for-maximum-intelligence/article_2417f906-1175-577b-8f7c-13e2a434f680.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "IBM Granite Embedding 311M",
+    "summary": "IBM releases Granite Embedding 311M, a new multilingual embedding model with 32K context length",
+    "date": "2026-05-06",
+    "url": "https://tpsreport.news/news/ibm-granite-embedding-311m-multilingual-r2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Twilio Agent Connect",
+    "summary": "Twilio launches Agent Connect, a model-agnostic bridge between AI agents and real customers",
+    "date": "2026-05-06",
+    "url": "https://www.twilio.com/en-us/blog/products/launches/agent-connect",
+    "category": "Product"
+  },
+  {
+    "topic": "Gemini API Update",
+    "summary": "Google updates Gemini API with multimodal support and custom metadata",
+    "date": "2026-05-05",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "category": "Product"
+  },
+  {
+    "topic": "inclusionAI Ling 2.6 1T",
+    "summary": "inclusionAI releases Ling 2.6 1T, a trillion parameter open source language model for coding and complex workflows",
+    "date": "2026-05-04",
+    "url": "https://dailyaibrief.com/news/inclusionai-ling-2-6-1t-trillion-parameter-open-source-model-WKLTKAF8",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Hugging Face nanowhale",
+    "summary": "Hugging Face releases nanowhale, a 110M parameter language model trained from scratch using the DeepSeek-V4 architecture",
+    "date": "2026-05-04",
+    "url": "https://github.com/huggingface/nanowhale",
+    "category": "Model Release"
+  }
+]
