@@ -1,0 +1,247 @@
+[
+  {
+    "topic": "Nemotron-Labs DLM Released",
+    "summary": "NVIDIA open-sources Nemotron-Labs DLM, a family of diffusion language models for faster inference.",
+    "date": "2026-05-24",
+    "url": "https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "TencentDB Agent Memory",
+    "summary": "Tencent open-sources TencentDB Agent Memory, a 4-tier local memory pipeline for AI agents",
+    "date": "2026-05-24",
+    "url": "https://mgrowtech.com/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "OpenClaw 2026.5.22",
+    "summary": "OpenClaw releases version 2026.5.22, with performance improvements and new features for the AI assistant",
+    "date": "2026-05-24",
+    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Google AI Studio",
+    "summary": "Google AI Studio now allows anyone to build Android apps with AI, generating native apps from simple prompts",
+    "date": "2026-05-24",
+    "url": "https://memeburn.com/google-ai-studio-lets-anyone-build-android-apps-with-ai/",
+    "category": "Product"
+  },
+  {
+    "topic": "xAI Grok Build",
+    "summary": "xAI launches Grok Build, a new AI coding tool to compete with Claude Code and Codex",
+    "date": "2026-05-24",
+    "url": "https://memeburn.com/xai-launches-grok-build-what-developers-and-crypto-builders-need-to-know/",
+    "category": "Product"
+  },
+  {
+    "topic": "gpt-oss-safeguard",
+    "summary": "OpenAI releases gpt-oss-safeguard, a set of open-weight reasoning models for custom AI safety rules",
+    "date": "2026-05-24",
+    "url": "https://enmnews.com/2026/05/24/openai-releases-tool-developers-build-custom-ai-safety-rules",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Spark AI Agent",
+    "summary": "Google launches Gemini Spark, a 24/7 AI agent that assists with tasks across Gmail, Docs, and third-party apps",
+    "date": "2026-05-24",
+    "url": "https://memeburn.com/new-googles-gemini-spark-the-ai-agent-could-assist-you-24-7/",
+    "category": "Product"
+  },
+  {
+    "topic": "Meta Forum App",
+    "summary": "Meta launches Forum, a Reddit-style app that blends Facebook Groups with AI-powered discussions",
+    "date": "2026-05-24",
+    "url": "https://www.ibtimes.sg/meta-launches-reddit-rival-forum-zuckerberg-revives-familiar-playbook-challenge-social-giants-86860",
+    "category": "Product"
+  },
+  {
+    "topic": "Qwen3.7-Max Released",
+    "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a new AI model for autonomous tasks, available through an API.",
+    "date": "2026-05-23",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Command A+ Released",
+    "summary": "Cohere open-sources Command A+, a 218B MoE model for enterprise agents.",
+    "date": "2026-05-23",
+    "url": "https://botbeat.news/news/cohere-open-sources-command-a-a-218b-moe-model-for-enterprise-agents-6945",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Pydantic AI V2 Beta 3",
+    "summary": "Pydantic AI V2 Beta 3 is released, adding new features and improvements to the AI agent framework",
+    "date": "2026-05-23",
+    "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.0.0b3",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Google Gemini Omni",
+    "summary": "Google launches Gemini Omni, a create-anything AI model for generating and editing clips from mixed inputs",
+    "date": "2026-05-23",
+    "url": "https://www.ibtimes.sg/google-launches-gemini-omni-fill-gap-left-by-openais-sora-expands-ai-creation-tools-86829",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Apertus Language Model",
+    "summary": "Apertus is a fully open, transparent, multilingual language model available for developers and organizations",
+    "date": "2026-05-23",
+    "url": "https://www.europesays.com/ch/70932/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft Fara1.5",
+    "summary": "Microsoft releases Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes",
+    "date": "2026-05-23",
+    "url": "https://www.atomni.in/article/microsoft-releases-fara15-a-family-of-browser-computer-use-agents-4b9b27b",
+    "category": "Model Release"
+  },
+  {
+    "topic": "TML-Interaction-Small Released",
+    "summary": "Thinking Machines reveals TML-Interaction-Small, a new multimodal AI model for concurrent audio, video, and text input and output.",
+    "date": "2026-05-22",
+    "url": "https://charonhub.deeplearning.ai/built-in-conversational-interactivity/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Composer 2.5 Released",
+    "summary": "Cursor releases Composer 2.5, a new coding agent model that scores 63 on the Coding Agent Index.",
+    "date": "2026-05-22",
+    "url": "https://officechai.com/ai/cursors-composer-2-5-places-3rd-in-artificial-analysis-coding-agent-index-is-10-60x-cheaper-than-variants-above-it/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Oracle AI Database 26ai",
+    "summary": "Oracle AI Database 26ai is now generally available, introducing native vector search and AI-driven query optimization",
+    "date": "2026-05-22",
+    "url": "https://tech-champion.com/database/oracle/oracle-ai-database-26ai-reaches-general-availability-a-strategic-evolution/",
+    "category": "Product"
+  },
+  {
+    "topic": "@ai-sdk/google-vertex@4.0.136",
+    "summary": "Vercel AI releases @ai-sdk/google-vertex@4.0.136, with updated dependencies and improvements",
+    "date": "2026-05-22",
+    "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/google-vertex%404.0.136",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenMythos",
+    "summary": "OpenMythos is an open-source reconstruction of Claude Mythos, challenging the assumption that more parameters produce more capable models",
+    "date": "2026-05-22",
+    "url": "https://medium.com/ai-mindset/openmythos-the-open-source-reconstruction-of-claude-mythos-that-reframes-what-ai-scaling-actually-32297d4be231",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MiniMax Speech 02 Released",
+    "summary": "MiniMax introduces MiniMax Speech 02, a new TTS system for voice personalization and multilingual support.",
+    "date": "2026-05-21",
+    "url": "https://www.minimax.io/news/minimax-speech-02",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Centaur Open Source",
+    "summary": "Paradigm open-sources Centaur, a self-hosted runtime for multiplayer, secure AI agents",
+    "date": "2026-05-21",
+    "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Koog 1.0.0",
+    "summary": "JetBrains releases Koog 1.0.0, a JVM framework for building predictable, fault-tolerant, and enterprise-ready AI agents",
+    "date": "2026-05-21",
+    "url": "https://github.com/JetBrains/koog/releases/tag/1.0.0",
+    "category": "Product"
+  },
+  {
+    "topic": "Turbovec Release",
+    "summary": "Turbovec is a new open-source library for vector search, reducing memory consumption by 87%",
+    "date": "2026-05-20",
+    "url": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "ActiveGraph Runtime",
+    "summary": "Yohei Nakajima open-sources ActiveGraph Runtime, a reactive graph runtime for long-running AI agents",
+    "date": "2026-05-20",
+    "url": "https://digg.com/ai/7syy5vv9",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Figma Design Agent",
+    "summary": "Figma releases a design agent built for Figma, allowing users to work with an agent directly on the canvas",
+    "date": "2026-05-20",
+    "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
+    "category": "Product"
+  },
+  {
+    "topic": "GKE Agent Sandbox",
+    "summary": "Google Cloud releases GKE Agent Sandbox, a secure compute environment for autonomous agents",
+    "date": "2026-05-20",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/bringing-you-agent-sandbox-on-gke-and-agent-substrate",
+    "category": "Product"
+  },
+  {
+    "topic": "DeepSeek-V3",
+    "summary": "DeepSeek-V3 is a 671B parameter Mixture-of-Experts language model that can be run locally",
+    "date": "2026-05-20",
+    "url": "https://dev.to/rams901/deepseek-v3-the-671b-moe-model-you-can-run-locally-in-2026-30o4",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Cohere Command A+",
+    "summary": "Cohere releases Command A+, a 218B sparse Mixture-of-Experts language model, as open-source software",
+    "date": "2026-05-20",
+    "url": "https://digg.com/ai/tvrhpn35",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini 3.5 Released",
+    "summary": "Google introduces Gemini 3.5, a new family of models combining frontier intelligence with action, available to billions globally.",
+    "date": "2026-05-19",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini API Managed Agents",
+    "summary": "Google introduces Managed Agents in the Gemini API, allowing for easy deployment of AI agents in a secure cloud sandbox",
+    "date": "2026-05-19",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
+    "category": "Product"
+  },
+  {
+    "topic": "Gordon AI Agent",
+    "summary": "Docker releases Gordon, an AI agent for container workflows, to help with debugging and troubleshooting",
+    "date": "2026-05-19",
+    "url": "https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenJarvis v1.0.0",
+    "summary": "OpenJarvis v1.0.0 is released, a personal AI framework with efficiency and on-device learning capabilities",
+    "date": "2026-05-16",
+    "url": "https://github.com/open-jarvis/OpenJarvis/releases/tag/v1.0.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Granite Embedding Multilingual R2 Released",
+    "summary": "IBM releases Granite Embedding Multilingual R2, a new multilingual embedding model with 32K context and a compact 97M retrieval model.",
+    "date": "2026-05-14",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "SSE Retrieval MRL v2 Released",
+    "summary": "A new version of SSE Retrieval MRL is released, with improved performance and regularization of representation space.",
+    "date": "2026-05-13",
+    "url": "https://huggingface.co/blog/RikkaBotan/stable-static-embedding-v2-technical-report",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Elastic Multimodal AI Embedding Model",
+    "summary": "Elastic launches a new multimodal AI embedding model family, jina-embeddings-v5-omni, for text, images, video, and audio",
+    "date": "2026-05-11",
+    "url": "https://www.investing.com/news/company-news/elastic-launches-multimodal-ai-embedding-model-family-93CH-4676596",
+    "category": "Model Release"
+  }
+]
