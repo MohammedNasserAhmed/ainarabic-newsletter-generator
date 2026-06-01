@@ -1,0 +1,240 @@
+[
+  {
+    "topic": "Liquid AI 8B-A1B Model",
+    "summary": "Liquid AI releases 8B-A1B, a sparse Mixture-of-Experts model with 8 billion parameters and improved coding capabilities",
+    "date": "2026-05-31",
+    "url": "https://keepingupwith.ai/articles/liquid-ai-releases-8b-a1b-mixture-of-experts-model-trained-on-38-trillion-tokens/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI Codex Windows",
+    "summary": "OpenAI Codex now controls Windows PCs autonomously for testing and bug hunting",
+    "date": "2026-05-31",
+    "url": "https://opentools.ai/news/openai-codex-windows-11-computer-use-autonomous-2026",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Anthropic AI Vulnerability Scanner",
+    "summary": "Anthropic AI vulnerability scanner in enterprise beta, IBM joins Glasswing",
+    "date": "2026-05-31",
+    "url": "https://www.techtimes.com/articles/317464/20260531/anthropic-ai-vulnerability-scanner-enterprise-beta-ibm-joins-glasswing-after-10000-flaws-found.htm",
+    "category": "Product"
+  },
+  {
+    "topic": "Robinhood Agentic Trading",
+    "summary": "Robinhood launches AI agentic trading, allowing AI agents to trade stocks and make purchases",
+    "date": "2026-05-31",
+    "url": "https://memeburn.com/robinhood-now-lets-ai-agents-trade-stocks-and-shop-for-you-in-2026/",
+    "category": "Product"
+  },
+  {
+    "topic": "GitHub Copilot Project Polaris",
+    "summary": "GitHub Copilot gets its own AI model, Project Polaris, a homegrown AI coding model",
+    "date": "2026-05-31",
+    "url": "https://byteiota.com/github-copilot-project-polaris/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Rosalind Biodefense Launch",
+    "summary": "OpenAI opens Rosalind Biodefense to vetted US developers for biodefense applications",
+    "date": "2026-05-31",
+    "url": "https://www.siliconreport.com/openai-opens-rosalind-biodefense-to-vetted-u-s-developers-4aeaba66",
+    "category": "Product"
+  },
+  {
+    "topic": "SoftBank AI Data Centers",
+    "summary": "SoftBank invests €75 billion in AI data centers in France, expanding European AI infrastructure",
+    "date": "2026-05-31",
+    "url": "https://group.softbank/en/news/press/20260531_0",
+    "category": "Product"
+  },
+  {
+    "topic": "Claude Opus 4.8 Release",
+    "summary": "Claude Opus 4.8 orchestrates hundreds of parallel subagents, achieving 84% on browser-agent benchmark",
+    "date": "2026-05-30",
+    "url": "https://uncensoredhub.ai/news/2026-05-29-claude-opus-4-8-orchestrates-hundreds-of-parallel-subagents-hits-84-on-browser-a",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Step 3.7 Flash Release",
+    "summary": "StepFun releases Step 3.7 Flash, a 198B MoE vision-language model for coding agents and search workflows",
+    "date": "2026-05-30",
+    "url": "https://ai-trends.today/stepfun-releases-step-3-7-flash-a-198b-moe-vision-language-model-for-coding-agents-and-search-workflows/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google's Gemini Embedding 2",
+    "summary": "Google launched Gemini Embedding 2, a natively multimodal AI model that processes text, images, video, audio, and PDFs into a single semantic space.",
+    "date": "2026-05-30",
+    "url": "https://www.kavout.com/market-lens/what-is-google-s-gemini-embedding-2-and-why-does-it-matter",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google Gemini Spark",
+    "summary": "Google released Gemini Spark, an agentic AI tool that can work on tasks in the background on Google Cloud.",
+    "date": "2026-05-30",
+    "url": "https://ca.pcmag.com/ai/15947/googles-agentic-ai-tool-gemini-spark-is-now-available",
+    "category": "Product"
+  },
+  {
+    "topic": "Perplexity Commerce API",
+    "summary": "Perplexity Commerce launches AI shopping agent that threatens Google's product search moat",
+    "date": "2026-05-30",
+    "url": "https://ecommerce-times.com/perplexity-commerce-launches-ai-shopping-agent-that-threatens-googles-30b-product-search-moat/",
+    "category": "Product"
+  },
+  {
+    "topic": "Shopify AI-Native Storefront",
+    "summary": "Shopify rolls out AI-native storefront engine at Unite 2026",
+    "date": "2026-05-30",
+    "url": "https://ecommerce-times.com/shopify-rolls-out-ai-native-storefront-engine-at-unite-2026/",
+    "category": "Product"
+  },
+  {
+    "topic": "Epicure AI Model",
+    "summary": "KAIKAKU.AI published Epicure, a family of three ingredient AI models trained on 4.14 million multilingual recipes.",
+    "date": "2026-05-29",
+    "url": "https://maxbit.cc/this-ai-compressed-all-human-cooking-into-2-megabytes-decrypt/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LocalAI v4.3.5",
+    "summary": "Mudler released LocalAI v4.3.5, an open-source AI engine with bug fixes and new features.",
+    "date": "2026-05-29",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.3.5",
+    "category": "Open Source"
+  },
+  {
+    "topic": "DSPy 3.3.0b1",
+    "summary": "StanfordNLP released DSPy 3.3.0b1, a framework for programming language models, with new features and improvements.",
+    "date": "2026-05-28",
+    "url": "https://github.com/stanfordnlp/dspy/releases/tag/3.3.0b1",
+    "category": "Open Source"
+  },
+  {
+    "topic": "SIA: Self-Improving AI",
+    "summary": "Hexo Labs released SIA, an open-source self-improving AI agent that accelerates superintelligence by 350X.",
+    "date": "2026-05-28",
+    "url": "https://www.morningstar.com/news/business-wire/20260528449793/ai-entrepreneurs-at-hexo-labs-release-sia-an-open-source-self-improving-ai-that-accelerates-superintelligence",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Anthropic Opus 4.8",
+    "summary": "Anthropic released Opus 4.8, a new version of its most advanced publicly available model, with improved performance and features.",
+    "date": "2026-05-28",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Sesame Conversational AI",
+    "summary": "Sesame launches its iOS app with conversational AI startup from Oculus founders",
+    "date": "2026-05-28",
+    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "category": "Product"
+  },
+  {
+    "topic": "Mistral Large 3 Release",
+    "summary": "Mistral AI releases Mistral Large 3, a 675B parameter MoE model, open source under Apache 2.0",
+    "date": "2026-05-28",
+    "url": "https://tpsreport.news/news/mistral-large-3-675b-parameters-ministral-3-apache-license",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MONET Dataset Release",
+    "summary": "Jasper research releases MONET, the largest open image-text dataset for world-class image generation research",
+    "date": "2026-05-28",
+    "url": "https://huggingface.co/blog/jasperai/monet",
+    "category": "Research"
+  },
+  {
+    "topic": "Nano Banana 2 Release",
+    "summary": "Google Cloud releases Nano Banana 2 and Nano Banana Pro, AI models for image generation and editing",
+    "date": "2026-05-28",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ESMFold2 Release",
+    "summary": "Biohub releases ESMFold2, a protein-folding AI model that predicts structures with state-of-the-art accuracy and speed",
+    "date": "2026-05-27",
+    "url": "https://www.prnewswire.com/news-releases/biohub-releases-a-world-model-of-protein-biology-302782681.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DeepSeek V4 Release",
+    "summary": "DeepSeek V4 launches with a 1M context window and full compatibility with Huawei Ascend and Cambricon chips",
+    "date": "2026-05-27",
+    "url": "https://www.gate.com/news/detail/deepseek-v4-launches-with-1m-context-window-huawei-ascend-and-cambricon-20565412",
+    "category": "Model Release"
+  },
+  {
+    "topic": "EAGLE 3.1 Release",
+    "summary": "EAGLE 3.1 released, advancing speculative decoding through collaboration between EAGLE team, vLLM, and TorchSpec",
+    "date": "2026-05-26",
+    "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AVTR-1 Open-Weights AI Avatar",
+    "summary": "Avaturn releases AVTR-1, the first open-weights AI avatar duplex model",
+    "date": "2026-05-26",
+    "url": "https://www.einpresswire.com/article/914997722/avaturn-releases-avtr-1-first-open-weights-ai-avatar-duplex-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Agent Toolkit for AWS",
+    "summary": "AWS announced the Agent Toolkit for AWS, an open-source project that helps AI coding agents work with AWS more reliably.",
+    "date": "2026-05-25",
+    "url": "https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Jina v5 Omni Release",
+    "summary": "Elastic releases Jina v5 Omni, a multimodal embedding family with drop-in compatibility and improved performance",
+    "date": "2026-05-22",
+    "url": "https://aihola.com/article/jina-v5-omni-multimodal-embeddings",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Oracle AI Database 26ai",
+    "summary": "Oracle AI Database 26ai reaches general availability, introducing native vector search and AI-driven query optimization",
+    "date": "2026-05-22",
+    "url": "https://tech-champion.com/database/oracle/oracle-ai-database-26ai-reaches-general-availability-a-strategic-evolution/",
+    "category": "Product"
+  },
+  {
+    "topic": "Cohere Command A+ Release",
+    "summary": "Cohere releases its most powerful AI model, Command A+, as open source",
+    "date": "2026-05-22",
+    "url": "https://betakit.com/cohere-releases-its-most-powerful-ai-model-as-open-source/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA NeMo Agent Toolkit v1.7.0",
+    "summary": "NVIDIA released NeMo Agent Toolkit v1.7.0, an open-source library for efficiently connecting and optimizing teams of AI agents.",
+    "date": "2026-05-21",
+    "url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit/releases/tag/v1.7.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Agent Memory v0.4.0",
+    "summary": "Neo4j Labs released Agent Memory v0.4.0, a graph-native memory system for AI agents and context graphs.",
+    "date": "2026-05-21",
+    "url": "https://github.com/neo4j-labs/agent-memory/releases/tag/v0.4.0",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Turbovec Release",
+    "summary": "Turbovec, a Rust vector index with Python bindings, is built on Google's TurboQuant algorithm for efficient vector search",
+    "date": "2026-05-20",
+    "url": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Agent Governance Toolkit v3.7.0",
+    "summary": "Microsoft released Agent Governance Toolkit v3.7.0, a toolkit for policy enforcement, zero-trust identity, and reliability engineering for autonomous AI agents.",
+    "date": "2026-05-18",
+    "url": "https://github.com/microsoft/agent-governance-toolkit/releases/tag/v3.7.0",
+    "category": "Open Source"
+  }
+]
