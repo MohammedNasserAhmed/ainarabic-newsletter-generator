@@ -1,0 +1,331 @@
+[
+  {
+    "topic": "OpenAI Partner Network",
+    "summary": "OpenAI announces the OpenAI Partner Network to help organizations adopt AI solutions",
+    "date": "2026-06-15",
+    "url": "https://openai.com/index/introducing-openai-partner-network/",
+    "category": "Other"
+  },
+  {
+    "topic": "GLM 5.2",
+    "summary": "GLM 5.2 is a fully open-source frontier model with 744B parameters",
+    "date": "2026-06-14",
+    "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/glm-52-chinas-open-frontier-model-dropped-the-day-anthropic-got-banned-2026-496c",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Omnigent Meta-Harness",
+    "summary": "Databricks introduces Omnigent, a meta-harness for combining and controlling AI agents",
+    "date": "2026-06-13",
+    "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+    "category": "Product"
+  },
+  {
+    "topic": "Rio 3.5 Open",
+    "summary": "Rio 3.5 Open is an open-weights LLM that beats Qwen 3.7 Plus on Terminal 2.1",
+    "date": "2026-06-13",
+    "url": "https://digg.com/tech/dw9lu6zi",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Zamba2-VL",
+    "summary": "Zyphra releases Zamba2-VL, a family of open vision-language models that cut time-to-first-token by about an order of magnitude.",
+    "date": "2026-06-12",
+    "url": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NodeFox",
+    "summary": "NodeFox introduces a browser-based runtime for building local AI workflows as executable graphs",
+    "date": "2026-06-12",
+    "url": "https://dev.to/james_nodefox/nodefox-is-live-building-local-ai-workflows-as-executable-graphs-2olo",
+    "category": "Product"
+  },
+  {
+    "topic": "Browserless Agent",
+    "summary": "Browserless Agent is a fast MCP browser agent for AI clients",
+    "date": "2026-06-12",
+    "url": "https://www.browserless.io/blog/introducing-browserless-agent",
+    "category": "Product"
+  },
+  {
+    "topic": "The Sandbox AI Game Engine",
+    "summary": "The Sandbox launches an AI game engine for creating live multiplayer games",
+    "date": "2026-06-12",
+    "url": "https://playtoearn.com/news/the-sandbox-launches-ai-game-engine-that-turns-an-idea-into-a-live-multiplayer-game-in-under-two-hours",
+    "category": "Product"
+  },
+  {
+    "topic": "WhatsApp Workflows",
+    "summary": "WhatsApp Workflows is a visual builder for chatbots and AI agents",
+    "date": "2026-06-12",
+    "url": "https://zernio.com/blog/whatsapp-workflows",
+    "category": "Product"
+  },
+  {
+    "topic": "Moonshot AI Kimi Work",
+    "summary": "Moonshot AI launches Kimi Work, a local desktop agent for knowledge workers",
+    "date": "2026-06-12",
+    "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "category": "Product"
+  },
+  {
+    "topic": "Atropos Health Evidence Agent",
+    "summary": "Atropos Health launches Evidence Agent MCP on Databricks for real-world evidence",
+    "date": "2026-06-12",
+    "url": "https://aitech365.com/healthcare/healthcare-management/atropos-health-launches-evidence-agent-mcp-on-databricks/",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenRL API",
+    "summary": "Google introduces OpenRL, a self-hosted post-training API for fine-tuning LLMs",
+    "date": "2026-06-11",
+    "url": "https://opensource.googleblog.com/2026/06/introducing-openrl-a-self-hosted-post-training-api-for-fine-tuning-llms.html",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Eidentic SDK",
+    "summary": "Eidentic introduces an open-source TypeScript SDK for building AI agents",
+    "date": "2026-06-11",
+    "url": "https://dev.to/eidentic/introducing-eidentic-51jl",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Genblaze SDK",
+    "summary": "Backblaze introduces Genblaze, an open-source Python SDK for generative media pipelines",
+    "date": "2026-06-11",
+    "url": "https://www.backblaze.com/blog/introducing-genblaze-a-python-sdk-for-generative-media-pipelines/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Cresta Conductor",
+    "summary": "Cresta Conductor is a developer-first agentic engine for building AI agents",
+    "date": "2026-06-11",
+    "url": "https://www.prnewswire.com/news-releases/cresta-launches-conductor-the-agent-for-ai-agent-development-302798058.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Sensi.AI Unified Agentic OS",
+    "summary": "Sensi.AI launches a unified agentic operating system for home care",
+    "date": "2026-06-11",
+    "url": "https://www.prnewswire.com/news-releases/sensiai-launches-unified-agentic-operating-system-fueled-by-care-intelligence-to-help-home-care-thrive-302797465.html",
+    "category": "Product"
+  },
+  {
+    "topic": "GitHub Agentic Workflows",
+    "summary": "GitHub introduces Agentic Workflows, a tool for automating reasoning-based tasks",
+    "date": "2026-06-11",
+    "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview/",
+    "category": "Other"
+  },
+  {
+    "topic": "Claude Fable 5",
+    "summary": "Anthropic launches Claude Fable 5, a state-of-the-art model for general use with exceptional performance in various areas.",
+    "date": "2026-06-10",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DiffusionGemma",
+    "summary": "Google introduces DiffusionGemma, an experimental open model for fast text generation, delivering up to 4x faster inference on dedicated GPUs.",
+    "date": "2026-06-10",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Chatterbox Multilingual v3",
+    "summary": "Resemble.ai releases Chatterbox Multilingual v3, a TTS model with embedded watermarking for 21 languages and 4 dialects.",
+    "date": "2026-06-10",
+    "url": "https://www.resemble.ai/resources/chatterbox-multilingual-v3-tts-with-embedded-watermarking-for-25-languages",
+    "category": "Model Release"
+  },
+  {
+    "topic": "V-RMBG 3.0",
+    "summary": "Bria launches V-RMBG 3.0, a state-of-the-art video background removal model with improved temporal consistency and smarter foreground detection.",
+    "date": "2026-06-10",
+    "url": "https://www.prnewswire.com/il/news-releases/bria-launches-v-rmbg-3-0-state-of-the-art-video-background-removal-model-302796516.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Fused Triton Kernels",
+    "summary": "Fused Triton kernels released for MaxSim late interaction scoring",
+    "date": "2026-06-10",
+    "url": "https://digg.com/tech/zjlil6yy",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LocalAI v4.4.0",
+    "summary": "LocalAI releases version 4.4.0 with new audio backends and features",
+    "date": "2026-06-10",
+    "url": "https://newreleases.io/project/github/mudler/LocalAI/release/v4.4.0",
+    "category": "Product"
+  },
+  {
+    "topic": "Stack Overflow for Agents",
+    "summary": "Stack Overflow launches a platform for AI agents and developers",
+    "date": "2026-06-10",
+    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+    "category": "Product"
+  },
+  {
+    "topic": "GitLab New Capabilities",
+    "summary": "GitLab announces new capabilities for enterprises to give speed and control at agentic scale",
+    "date": "2026-06-10",
+    "url": "https://about.gitlab.com/press/releases/2026-06-10-gitlab-announces-new-capabilities-to-give-enterprises-speed-control-at-agentic-scale/",
+    "category": "Product"
+  },
+  {
+    "topic": "North Mini Code",
+    "summary": "Cohere releases North Mini Code, a 30B-parameter Mixture-of-Experts model for agentic software engineering tasks, available on Hugging Face.",
+    "date": "2026-06-09",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Loon Storage Engine",
+    "summary": "Zilliz introduces Loon, a new storage engine for vector data",
+    "date": "2026-06-09",
+    "url": "https://medium.com/@zilliz_learn/introducing-loon-a-new-storage-engine-for-vector-data-that-never-stops-changing-a7f7fc763ab4",
+    "category": "Product"
+  },
+  {
+    "topic": "pi-taskflow 0.0.16",
+    "summary": "pi-taskflow releases version 0.0.16 with new features and improvements",
+    "date": "2026-06-09",
+    "url": "https://github.com/heggria/pi-taskflow/releases/tag/v0.0.16",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Harness-1 Model Release",
+    "summary": "Researchers release Harness-1, a 20-billion parameter open-source search agent outperforming GPT-5.4",
+    "date": "2026-06-09",
+    "url": "https://vff.ai/article/2026/06/09/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gp",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Siri AI Introduction",
+    "summary": "Apple introduces Siri AI, a more capable and personal assistant powered by Apple Intelligence",
+    "date": "2026-06-09",
+    "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "category": "Product"
+  },
+  {
+    "topic": "BGE Embeddings 2026",
+    "summary": "TokenMix introduces BGE Embeddings 2026, a 569M-parameter model supporting dense, sparse, and multi-vector retrieval, and over 100 working languages.",
+    "date": "2026-06-08",
+    "url": "https://tokenmix.ai/blog/bge-embeddings-2026-m3-dimensions-rag-guide",
+    "category": "Model Release"
+  },
+  {
+    "topic": "TurboQuant",
+    "summary": "Google Research introduces TurboQuant, a vector-quantization method for compressing KV caches and embeddings, reducing memory by 6x.",
+    "date": "2026-06-08",
+    "url": "https://oracore.dev/en/news/turboquant-cuts-kv-cache-memory-6x-google-tests-en",
+    "category": "Research"
+  },
+  {
+    "topic": "MiniMax M3",
+    "summary": "MiniMax M3 is an open-weight model with 1M context and sparse attention",
+    "date": "2026-06-08",
+    "url": "https://aiclaudius.com/article/minimax-m3-open-weight-frontier-model-jun-2026",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 with QAT",
+    "summary": "Google releases Gemma 4 with quantization-aware training, optimizing model compression for mobile and laptop efficiency.",
+    "date": "2026-06-05",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Ultra",
+    "summary": "NVIDIA releases Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model for orchestrating complex, long-running agent workflows.",
+    "date": "2026-06-04",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Jina Embeddings v5 Omni",
+    "summary": "Jina introduces Jina Embeddings v5 Omni, a multimodal embedding approach extending Jina Embeddings v5 Text to encode text, image, audio, and video.",
+    "date": "2026-06-04",
+    "url": "https://ritvik19.medium.com/papers-explained-574-jina-embeddings-v5-omni-1a08a156e52e",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 12B Released",
+    "summary": "Google releases Gemma 4 12B, a dense multimodal model with a unified architecture",
+    "date": "2026-06-03",
+    "url": "https://developers.googleblog.com/en/gemma-4-12b-the-developer-guide/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nex-N2",
+    "summary": "Nex-N2 is an agentic model with Agentic Thinking for real-world productivity scenarios",
+    "date": "2026-06-03",
+    "url": "https://github.com/nex-agi/Nex-N2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Meta Business Agent Launch",
+    "summary": "Meta introduces Business Agent, an AI-powered tool for businesses to deliver personalized experiences",
+    "date": "2026-06-03",
+    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "category": "Product"
+  },
+  {
+    "topic": "MAI-Thinking-1",
+    "summary": "Microsoft introduces MAI-Thinking-1, a medium-sized reasoning model that matches leading models on key software engineering benchmarks.",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MAI-Transcribe-1.5",
+    "summary": "Microsoft introduces MAI-Transcribe-1.5, a multilingual speech-to-text model with best-in-class Word-Error-Rate across 43 languages.",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Integrated Embeddings in Azure Cosmos DB",
+    "summary": "Microsoft announces the public preview of Integrated Embeddings in Azure Cosmos DB, automatically generating and maintaining embeddings for AI applications.",
+    "date": "2026-06-02",
+    "url": "https://devblogs.microsoft.com/cosmosdb/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-embeddings-that-stay-in-sync/",
+    "category": "Product"
+  },
+  {
+    "topic": "OmniVec",
+    "summary": "Microsoft introduces OmniVec, an open-source embedding platform for building and operating embedding pipelines on Azure.",
+    "date": "2026-06-02",
+    "url": "https://devblogs.microsoft.com/cosmosdb/introducing-omnivec-an-open-source-embedding-platform-for-ai-apps-on-azure/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "MAI Models Launch",
+    "summary": "Microsoft AI launches seven new MAI models, including MAI-Thinking-1, for various tasks",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MAI-Code-1-Flash",
+    "summary": "Microsoft AI introduces MAI-Code-1-Flash, a new coding model for fast and efficient assistance",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Chalk Compute",
+    "summary": "Chalk introduces Chalk Compute, a time-traveling agent sandbox for cloud environments",
+    "date": "2026-06-01",
+    "url": "https://chalk.ai/blog/chalk-compute",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Cosmos 3",
+    "summary": "NVIDIA introduces Cosmos 3, a world foundation model for physical AI systems",
+    "date": "2026-06-01",
+    "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+    "category": "Model Release"
+  }
+]
