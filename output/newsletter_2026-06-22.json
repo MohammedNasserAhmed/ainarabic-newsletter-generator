@@ -1,0 +1,205 @@
+[
+  {
+    "topic": "AWS Context Service",
+    "summary": "AWS unveils AWS Context, a service to enhance trust in enterprise AI agents by providing reliable data context",
+    "date": "2026-06-22",
+    "url": "https://www.ajupress.com/view/20260622100870028",
+    "category": "Product"
+  },
+  {
+    "topic": "MiniMax M2.1 Model",
+    "summary": "MiniMax releases M2.1, a significantly enhanced multi-language programming model for real-world complex tasks",
+    "date": "2026-06-22",
+    "url": "https://www.minimax.io/news/minimax-m21",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kimi K2.6",
+    "summary": "Cerebras unveils Kimi K2.6, the fastest 1 trillion parameter model for agentic coding",
+    "date": "2026-06-22",
+    "url": "https://amalgame.org/article/cerebras-unveils-kimi-k2-6-fastest-1-trillion-parameter-model-for-agentic-coding",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI ChatGPT Enterprise",
+    "summary": "OpenAI signs ChatGPT Enterprise deal with Samsung in 'world's largest' rollout",
+    "date": "2026-06-22",
+    "url": "https://en.sedaily.com/society/2026/06/22/openai-signs-chatgpt-enterprise-deal-with-samsung-in-worlds",
+    "category": "Product"
+  },
+  {
+    "topic": "Claude Sonnet 4.5",
+    "summary": "Anthropic launches Claude Sonnet 4.5, its most capable and aligned model yet for complex reasoning and coding tasks",
+    "date": "2026-06-21",
+    "url": "https://creati.ai/ai-news/2026-06-21/anthropic-launches-claude-sonnet-4-5/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GLM-5.2",
+    "summary": "Z.ai releases GLM-5.2, a 744-billion-parameter open-weights coding model under MIT license",
+    "date": "2026-06-21",
+    "url": "https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemma 4 12B",
+    "summary": "GADGETARQ introduces Gemma 4 12B, a unified, encoder-free multimodal model",
+    "date": "2026-06-21",
+    "url": "https://gadgetarq.com/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AstraBrain-WBC 0.5",
+    "summary": "China Galaxy General-Purpose Robot releases AstraBrain-WBC 0.5, a humanoid robot motion control model",
+    "date": "2026-06-21",
+    "url": "https://en.wedoany.com/shortnews/281999.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Codebase-Memory-MCP Server",
+    "summary": "Codebase-Memory-MCP is a high-performance Model Context Protocol server for AI code intelligence",
+    "date": "2026-06-21",
+    "url": "https://aitoolly.com/ai-news/article/2026-06-21-codebase-memory-mcp-revolutionizing-ai-code-intelligence-with-high-performance-knowledge-graphs",
+    "category": "Product"
+  },
+  {
+    "topic": "Argybargy Decentralized Agent Protocol",
+    "summary": "Argybargy is a decentralized peer-to-peer bridge protocol for AI agents to discover and negotiate with each other",
+    "date": "2026-06-21",
+    "url": "https://ainews.cool/article/20260621-argybargy-decentralized-agent-protocol",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Solana Agent Skills Toolkit",
+    "summary": "Solana Foundation launches Agent Skills, a toolkit to connect AI tools with on-chain operations",
+    "date": "2026-06-21",
+    "url": "https://bitrss.com/solana-foundation-launches-agent-skills-to-connect-ai-tools-with-on-chain-operations-198623",
+    "category": "Product"
+  },
+  {
+    "topic": "GPT-5.6",
+    "summary": "OpenAI's GPT-5.6 launch window starts, featuring alignment fix and 1.5M token context",
+    "date": "2026-06-21",
+    "url": "https://www.techtimes.com/articles/318799/20260621/gpt-56-launch-window-starts-monday-alignment-fix-15m-token-context-inside.htm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Autonomy AI Framework",
+    "summary": "Autonomy is an open-source framework that lets AI agents write their own toolchains at runtime",
+    "date": "2026-06-20",
+    "url": "https://ainews.cool/article/20260620-autonomy-ai-agent-toolchain",
+    "category": "Open Source"
+  },
+  {
+    "topic": "NVIDIA SpatialClaw Agent",
+    "summary": "NVIDIA introduces SpatialClaw, a training-free agent for spatial reasoning that treats code as the action interface",
+    "date": "2026-06-20",
+    "url": "https://ai-trends.today/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MojiMoshi AI Agents",
+    "summary": "MojiMoshi embeds AI agents inside Telegram and Line, no app needed",
+    "date": "2026-06-20",
+    "url": "https://ainews.cool/article/20260620-mojimoshi-ai-agent-telegram-line",
+    "category": "Product"
+  },
+  {
+    "topic": "Genesis AI Eno",
+    "summary": "Genesis AI unveils Eno, a non-humanoid robot with human-level dexterity",
+    "date": "2026-06-20",
+    "url": "https://insideai.news/news/agentic-ai/genesis-ai-unveils-eno-a-non-humanoid-robot-with-human-level-dexterity/1813/",
+    "category": "Product"
+  },
+  {
+    "topic": "RuVector",
+    "summary": "RuVector releases a 5MB Rust binary that fuses GNN self-learning with post-quantum crypto",
+    "date": "2026-06-19",
+    "url": "https://aidaily.phd/briefing/e42b1/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Middleware OpsAI",
+    "summary": "Middleware introduces OpsAI, an AI SRE agent for resolving production issues",
+    "date": "2026-06-19",
+    "url": "https://middleware.io/blog/ops-ai-sre-agent/",
+    "category": "Product"
+  },
+  {
+    "topic": "Midjourney Medical",
+    "summary": "Midjourney launches Midjourney Medical, a full-body AI scanner wrapped inside a San Francisco spa",
+    "date": "2026-06-19",
+    "url": "https://www.inbenta.com/ai-this-week/midjourney-launches-midjourney-medical-a-full-body-ai-scanner-wrapped-inside-a-san-francisco-spa",
+    "category": "Product"
+  },
+  {
+    "topic": "REVELIO V Plus and REVELIO Face II",
+    "summary": "identifAI launches two new models for deepfake detection, REVELIO V Plus and REVELIO Face II",
+    "date": "2026-06-18",
+    "url": "https://identifai.net/identifai-launches-revelio-v-plus-revelio-face-ii/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M",
+    "summary": "Liquid AI releases two new retrieval models, LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M, for fast multilingual search",
+    "date": "2026-06-18",
+    "url": "https://www.liquid.ai/blog/lfm2-5-retrievers",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AdGPT Go Live",
+    "summary": "AdGPT launches Go Live, an AI platform for creating marketing campaigns in minutes",
+    "date": "2026-06-18",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260618ln87282/adgpt-launches-go-live-turning-marketing-campaigns-from-weeks-of-work-into-minutes",
+    "category": "Product"
+  },
+  {
+    "topic": "TurboVec Vector Index",
+    "summary": "TurboVec is an open-source vector index that cuts memory usage by 16x with no training step",
+    "date": "2026-06-17",
+    "url": "https://toknow.ai/posts/turbovec-vector-index-16x-compression-no-training/index.html",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Databricks Genie",
+    "summary": "Databricks introduces Genie One, Genie Agents, and Genie Ontology for data-smart AI coworker",
+    "date": "2026-06-16",
+    "url": "https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents",
+    "category": "Product"
+  },
+  {
+    "topic": "Qwen-RobotManip",
+    "summary": "Alibaba releases Qwen-RobotManip, a vision-language-action model for robotic arm manipulation",
+    "date": "2026-06-16",
+    "url": "https://awesomeagents.ai/models/qwen-robotmanip/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AWS Deep Agents Framework",
+    "summary": "AWS launches Deep Agents framework with Bedrock AgentCore for isolated multi-agent workflows",
+    "date": "2026-06-15",
+    "url": "https://tpsreport.news/news/aws-deep-agents-bedrock-agentcore-launch",
+    "category": "Product"
+  },
+  {
+    "topic": "MiniMax M3",
+    "summary": "MiniMax releases M3, a large language model with 428 billion parameters and sparse attention",
+    "date": "2026-06-12",
+    "url": "https://fenado.ai/articles/minimax-m3-featuring-428-billion-parameters-and-sparse-attention-released-as-open-weight-on-hugging-face",
+    "category": "Model Release"
+  },
+  {
+    "topic": "RLDX-1",
+    "summary": "RLDX-1, a vision-language-action model for human-like dexterous manipulation, is released",
+    "date": "2026-06-11",
+    "url": "https://github.com/curieuxjy/RLDX-1",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Embedding 2",
+    "summary": "Google releases Gemini Embedding 2, its first multimodal embedding model",
+    "date": "2026-03-24",
+    "url": "https://meetcody.ai/blog/gemini-embedding-2-googles-first-multimodal-embedding-model/",
+    "category": "Model Release"
+  }
+]
