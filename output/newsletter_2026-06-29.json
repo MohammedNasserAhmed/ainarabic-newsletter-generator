@@ -1,0 +1,226 @@
+[
+  {
+    "topic": "Shopify Semantic Search API",
+    "summary": "Shopify releases Semantic Search API for storefront discovery",
+    "date": "2026-06-27",
+    "url": "https://ecommerce-times.com/shopifys-new-semantic-search-api-is-rewriting-storefront-discovery-2/",
+    "category": "Product"
+  },
+  {
+    "topic": "Computer for Counsel",
+    "summary": "Perplexity launches Computer for Counsel legal AI platform",
+    "date": "2026-06-27",
+    "url": "https://www.techtimes.com/articles/319208/20260627/perplexity-launches-legal-ai-platform-20-model-agent-targets-law-firm-workflows-above-westlaw.htm",
+    "category": "Product"
+  },
+  {
+    "topic": "Basedash for Excel",
+    "summary": "Basedash launches an Excel integration, allowing users to turn spreadsheets into live dashboards",
+    "date": "2026-06-27",
+    "url": "https://www.basedash.com/blog/introducing-basedash-for-excel",
+    "category": "Product"
+  },
+  {
+    "topic": "Mythos 5 Model Release",
+    "summary": "Anthropic granted permission to release Mythos 5 model to select companies and agencies",
+    "date": "2026-06-27",
+    "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ornith-1.0 Model Released",
+    "summary": "DeepReinforce releases Ornith-1.0, a coding model that writes its own RL scaffolds",
+    "date": "2026-06-26",
+    "url": "https://aiinsiders.net/article/deepreinforce-ships-ornith-10-a-coding-model-that-writes",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Matryoshka Vector Embeddings Released",
+    "summary": "Vast AI releases Matryoshka Vector Embeddings for cost-efficient AI systems",
+    "date": "2026-06-26",
+    "url": "https://vast.ai/article/matryoshka-vector-embeddings",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kaarvi Living Data Platform",
+    "summary": "Kaarvi debuts its Living Data Platform for governed agentic AI, helping organizations manage data",
+    "date": "2026-06-26",
+    "url": "https://www.dbta.com/Editorial/News-Flashes/Kaarvi-Debuts-Living-Data-Platform-for-Governed-Agentic-AI-175485.aspx",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenAI GPT-5.6",
+    "summary": "OpenAI releases GPT-5.6, a new AI model suite with three models: Sol, Terra, and Luna",
+    "date": "2026-06-26",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DeepReinforce Ornith-1.0",
+    "summary": "DeepReinforce open-sources Ornith-1.0, a family of agentic coding models",
+    "date": "2026-06-26",
+    "url": "https://www.opensourceforu.com/2026/06/deepreinforce-open-sources-ornith-1-0-coding-models/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ling and Ring 2.6 Models Released",
+    "summary": "Inclusion AI releases Ling and Ring 2.6 models for scalable agentic intelligence",
+    "date": "2026-06-25",
+    "url": "https://www.thenextgentechinsider.com/pulse/inclusion-ai-launches-ling-and-ring-26-for-scalable-agentic-intelligence",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Runway Agent 2.0",
+    "summary": "Runway introduces Agent 2.0, an AI tool for marketers to create and improve ads and campaigns",
+    "date": "2026-06-25",
+    "url": "https://runwayml.com/news/introducing-agent-2",
+    "category": "Product"
+  },
+  {
+    "topic": "Un-0",
+    "summary": "Unconventional AI introduces Un-0, an image generator powered by coupled oscillators",
+    "date": "2026-06-25",
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "CUGA Framework",
+    "summary": "IBM and HuggingFace launch CUGA framework for agentic AI development",
+    "date": "2026-06-24",
+    "url": "https://artificialintelligenceherald.com/ai/huggingface-ibm-cuga-lightweight-agentic-ai-framework-2026",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Recursion Platform",
+    "summary": "Labelbox introduces Recursion platform for specialist AI models",
+    "date": "2026-06-24",
+    "url": "https://labelbox.com/blog/introducing-recursion-enterprise-agent-rl-platform/",
+    "category": "Product"
+  },
+  {
+    "topic": "Wisdom AI Agent",
+    "summary": "Hootsuite introduces Wisdom AI agent for social-first intelligence",
+    "date": "2026-06-24",
+    "url": "https://www.hootsuite.com/newsroom/press-releases/hootsuite-rebuilds-for-ai-era-introducing-wisdom",
+    "category": "Product"
+  },
+  {
+    "topic": "KREA 2",
+    "summary": "KREA 2, an open-source text-to-image model, is released with two variants: Raw and Turbo",
+    "date": "2026-06-24",
+    "url": "https://roboticcontent.com/krea-2-open-source-release/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Meituan LongCat-Next",
+    "summary": "Meituan open-sources LongCat-Next, a native multimodal model for real-world AI perception and interaction",
+    "date": "2026-06-24",
+    "url": "https://aitoolly.com/ai-news/article/2026-06-24-meituan-open-sources-longcat-next-a-native-multimodal-model-for-real-world-ai-perception-and-interac",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenThinkerAgent-32B",
+    "summary": "OpenThoughts releases OpenThinkerAgent-32B, an open terminal and coding agent model",
+    "date": "2026-06-24",
+    "url": "https://digg.com/tech/hyr0sbxi",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Qwen AgentWorld",
+    "summary": "Qwen releases AgentWorld, a language model that simulates environments for AI agents",
+    "date": "2026-06-24",
+    "url": "https://agent22.app/copperriver/blog/qwen-agentworld-language-world-models-ai-agents",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini 3.5 Flash Update",
+    "summary": "Gemini 3.5 Flash now includes built-in computer use tool for agent development",
+    "date": "2026-06-24",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "category": "Product"
+  },
+  {
+    "topic": "Pulsar 16B Model Released",
+    "summary": "Multiverse Computing releases Pulsar 16B, an open reasoning model with 16B parameters",
+    "date": "2026-06-23",
+    "url": "https://www.hpcwire.com/aiwire/2026/06/23/multiverse-computing-launches-pulsar-16b-in-collaboration-with-nvidia/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Azure Cosmos DB Embeddings",
+    "summary": "Azure Cosmos DB introduces Integrated Embeddings for AI apps",
+    "date": "2026-06-23",
+    "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+    "category": "Product"
+  },
+  {
+    "topic": "Pydantic AI V2",
+    "summary": "Pydantic AI V2 released with new capabilities and leaner core",
+    "date": "2026-06-23",
+    "url": "https://pydantic.dev/articles/pydantic-ai-v2",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Modelplane",
+    "summary": "Modelplane control plane for AI inference released",
+    "date": "2026-06-23",
+    "url": "https://modelplane.ai/blog/open-control-plane-for-inference",
+    "category": "Open Source"
+  },
+  {
+    "topic": "SuperQode 0.2.0",
+    "summary": "SuperQode 0.2.0 harness engineering framework for coding agents released",
+    "date": "2026-06-23",
+    "url": "https://medium.com/superagentic-ai/superqode-0-2-0-a-harness-engineering-framework-for-coding-agents-830806b07c90",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Datalab lift",
+    "summary": "Datalab releases lift, a 9B open-weights vision model for extracting structured JSON from PDFs",
+    "date": "2026-06-23",
+    "url": "https://mgrowtech.com/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Baidu Unlimited-OCR",
+    "summary": "Baidu releases Unlimited-OCR, a one-shot long-horizon document parsing model",
+    "date": "2026-06-23",
+    "url": "https://explainx.ai/blog/baidu-unlimited-ocr-one-shot-long-horizon-parsing-2026",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA BioNeMo Agent Toolkit",
+    "summary": "NVIDIA announces BioNeMo Agent Toolkit for accelerated life sciences workflows",
+    "date": "2026-06-23",
+    "url": "https://www.globenewswire.com/news-release/2026/06/23/3316023/0/en/NVIDIA-Announces-BioNeMo-Agent-Toolkit-Tools-for-Agents-to-Accelerate-Scientific-Discovery.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Productboard Spark",
+    "summary": "Productboard launches Spark, an AI tool for product teams to manage and develop products",
+    "date": "2026-06-22",
+    "url": "https://www.productboard.com/blog/introducing-spark-agentic-product-system/",
+    "category": "Product"
+  },
+  {
+    "topic": "Google Interactions API",
+    "summary": "Google launches the Interactions API for Gemini models and agents, a unified endpoint for developers",
+    "date": "2026-06-22",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+    "category": "Product"
+  },
+  {
+    "topic": "LFM2.5 Retrievers Released",
+    "summary": "Liquid AI releases LFM2.5-ColBERT-350M and LFM2.5-Embedding-350M for fast multilingual search",
+    "date": "2026-06-18",
+    "url": "https://www.liquid.ai/blog/lfm2-5-retrievers",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Eve Framework",
+    "summary": "Vercel introduces Eve framework for building AI agents",
+    "date": "2026-06-01",
+    "url": "https://www.infoq.com/news/2026/06/vercel-eve-agents/",
+    "category": "Open Source"
+  }
+]
