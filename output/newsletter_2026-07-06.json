@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "Claude Science Beta",
+    "summary": "Anthropic launches Claude Science beta for reproducible scientific research pipelines",
+    "date": "2026-07-05",
+    "url": "https://completeaitraining.com/news/anthropic-launches-claude-science-beta-for-reproducible/",
+    "category": "Product"
+  },
+  {
+    "topic": "LongCat-2.0",
+    "summary": "Meituan releases LongCat-2.0, an open-source model with 1M context window and 1.6 trillion parameters",
+    "date": "2026-07-05",
+    "url": "https://pulseaugur.com/cluster/126357-meituan-releases-open-source-longcat-2-0-with-1m-context-window",
+    "category": "Model Release"
+  },
+  {
+    "topic": "HaloGuard Safety Classifier",
+    "summary": "Researchers release HaloGuard, an open-weight safety classifier for multilingual LLM safety",
+    "date": "2026-07-05",
+    "url": "https://letsdatascience.com/news/researchers-release-haloguard-open-weight-safety-classifier-a18fa9a2",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-5.6 Access",
+    "summary": "OpenAI expands GPT-5.6 access to more developers and enterprise partners",
+    "date": "2026-07-05",
+    "url": "https://www.twokq.com/post/openai-expands-gpt-5-6-early-access/",
+    "category": "Product"
+  },
+  {
+    "topic": "Mistral Leanstral 1.5",
+    "summary": "Mistral AI releases Leanstral 1.5, an open-source model for formal proof engineering and automated theorem proving, solving 587 of 672 problems in PutnamBench.",
+    "date": "2026-07-04",
+    "url": "https://creati.ai/ai-news/2026-07-04/mistral-ai-unveils-leanstral-1-5-an-open-lean-4-theorem-proving-model-aimed-at-formal-math-workf/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ASPIRE Robotics Framework",
+    "summary": "NVIDIA AI introduces ASPIRE, a self-improving robotics framework for zero-shot learning",
+    "date": "2026-07-04",
+    "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ctx Open-Source Command-Line Tool",
+    "summary": "Ctx.rs releases an open-source command-line tool to index months of history for coding agents",
+    "date": "2026-07-04",
+    "url": "https://www.techtimes.com/articles/319681/20260704/agent-context-amnesia-has-fix-ctx-indexes-months-history-one-command.htm",
+    "category": "Open Source"
+  },
+  {
+    "topic": "LOOM Language",
+    "summary": "LOOM is introduced as a language that proves what AI-written code is allowed to do",
+    "date": "2026-07-04",
+    "url": "https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i",
+    "category": "Other"
+  },
+  {
+    "topic": "Microsoft MAI-Thinking-1",
+    "summary": "Microsoft introduces MAI-Thinking-1, a reasoning language model developed from scratch, comparable to Claude Sonnet 4.6 in size and performance.",
+    "date": "2026-07-03",
+    "url": "https://www.deeplearning.ai/the-batch/microsoft-strikes-out-on-its-own",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ornith-1.0 Open Model",
+    "summary": "DeepReinforce releases Ornith-1.0, an open-source coding model family that learns to build its own agent scaffold, outperforming Claude Opus 4.7 on agentic coding benchmarks.",
+    "date": "2026-07-03",
+    "url": "https://emergent.sh/news/ornith-1-0",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Diffusion-Gemma-ASR-Small",
+    "summary": "Interfaze releases diffusion-gemma-asr-small, an open-source diffusion ASR model",
+    "date": "2026-07-03",
+    "url": "https://thenews92.com/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Pinecone Nexus Knowledge Engine",
+    "summary": "Pinecone launches Nexus, a knowledge engine for AI agents, into public preview, compiling an organization's documents into a structured knowledge layer for efficient querying.",
+    "date": "2026-07-02",
+    "url": "https://letsdatascience.com/news/pinecone-launches-nexus-knowledge-engine-into-preview-97b6594c",
+    "category": "Product"
+  },
+  {
+    "topic": "ZCode Agentic Development Environment",
+    "summary": "Z.ai launches ZCode, an agentic development environment for AI-powered coding",
+    "date": "2026-07-02",
+    "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+    "category": "Product"
+  },
+  {
+    "topic": "Grok Voice Agent Builder",
+    "summary": "xAI launches Grok, a no-code voice agent builder",
+    "date": "2026-07-02",
+    "url": "https://justainews.com/companies/xai/xai-launches-grok-voice-agent-builder-for-no-code-voice-agents/",
+    "category": "Product"
+  },
+  {
+    "topic": "EdgeBench Agent Benchmark",
+    "summary": "ByteDance Seed releases EdgeBench, a benchmark for measuring autonomous agents' learning from environment feedback",
+    "date": "2026-07-02",
+    "url": "https://letsdatascience.com/news/bytedance-seed-releases-edgebench-agent-benchmark-20139cf5",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Amália AI Model",
+    "summary": "Portugal releases Amália, a €5.5M open-source AI model for public-sector and enterprise applications",
+    "date": "2026-07-02",
+    "url": "https://getaibrief.com/story/portugal-amalia-ai-open-source-supercomputers",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Microsoft Frontier Company",
+    "summary": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "date": "2026-07-02",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenWiki Open-Source Agent",
+    "summary": "Langchain releases OpenWiki, an open-source agent for generating and maintaining codebase documentation",
+    "date": "2026-07-01",
+    "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Nemotron-Labs-TwoTower",
+    "summary": "NVIDIA releases Nemotron-Labs-TwoTower, an open-weight diffusion language model",
+    "date": "2026-07-01",
+    "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Claude Sonnet 5 Released",
+    "summary": "Anthropic introduces Claude Sonnet 5, an AI model with improved agentic capabilities, comparable to Opus 4.8 but at lower prices.",
+    "date": "2026-06-30",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MongoDB Accurate AI Retrieval",
+    "summary": "MongoDB delivers accurate AI retrieval capabilities, addressing enterprise AI project challenges with new Voyage AI models and search features for on-premises and private cloud.",
+    "date": "2026-06-30",
+    "url": "https://www.prnewswire.com/news-releases/mongodb-delivers-accurate-ai-retrieval-wherever-enterprise-data-lives-302813983.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Zilliz Loon Storage Engine",
+    "summary": "Zilliz announces Loon, a storage engine supporting online search, offline analysis, and batch analytics from a single copy of vector data on low-cost object storage.",
+    "date": "2026-06-30",
+    "url": "https://www.blocksandfiles.com/ai-ml/2026/06/30/zilliz-has-a-loonatic-storage-engine/5264392",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA BioNeMo Agent Toolkit",
+    "summary": "NVIDIA releases BioNeMo Agent Toolkit for life sciences researchers, integrating with Claude Science",
+    "date": "2026-06-30",
+    "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+    "category": "Product"
+  },
+  {
+    "topic": "Cloudflare AI Agent Toolkit",
+    "summary": "Cloudflare introduces an open-source AI agent toolkit for SASE migrations",
+    "date": "2026-06-30",
+    "url": "https://www.opensourceforu.com/2026/06/cloudflare-introduces-open-source-ai-agent/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Un-0 Image Generator",
+    "summary": "Unconventional AI releases Un-0, an image generator using Kuramoto oscillators",
+    "date": "2026-06-30",
+    "url": "https://lilting.ch/en/articles/un-0-kuramoto-oscillator-image-generation",
+    "category": "Model Release"
+  },
+  {
+    "topic": "VectorLens Release",
+    "summary": "IronCore Labs releases VectorLens, a local CLI tool to scan vectors in databases for PII",
+    "date": "2026-06-29",
+    "url": "https://ironcorelabs.com/blog/2026/announcing-vectorlens/",
+    "category": "Product"
+  },
+  {
+    "topic": "Vast.ai Matryoshka Embeddings",
+    "summary": "Vast.ai promotes Matryoshka embeddings, a technique allowing a single embedding model to produce variable-dimension vectors without retraining, for runtime cost-quality tradeoffs.",
+    "date": "2026-06-27",
+    "url": "https://theagenttimes.com/articles/vast-ai-promotes-matryoshka-embeddings-for-runtime-cost-qual-84cabb95",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OpenAI GPT-5.6 Models",
+    "summary": "OpenAI announces three new AI models: GPT-5.6 Sol, Terra, and Luna, initially limited to trusted partners due to US government request.",
+    "date": "2026-06-26",
+    "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Manticore ONNX Path",
+    "summary": "Manticore Search releases a new ONNX Runtime backend, making auto-embeddings approximately 14× faster than the previous path on the same hardware and model.",
+    "date": "2026-06-25",
+    "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "CIRCUIT Open-Source AI Framework",
+    "summary": "Jumpmind launches CIRCUIT, an open-source framework for AI interpretability risk management",
+    "date": "2026-06-15",
+    "url": "https://www.opensourceforu.com/2026/07/jumpmind-launches-circuit-open-source-ai-framework/",
+    "category": "Open Source"
+  }
+]
