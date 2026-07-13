@@ -1,0 +1,198 @@
+[
+  {
+    "topic": "GO-2 Embodied Model Release",
+    "summary": "Zhiyuan releases GO-2, an embodied model with action thought chain for physical AI",
+    "date": "2026-07-12",
+    "url": "https://xix.ai/ainews/zhiyuan-unveils-go2-embodied-model-with-action-thought-chain-setting-new-industry-sota.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Embedding2 Release",
+    "summary": "Google releases Gemini Embedding2, a native multimodal model that unifies semantic spaces",
+    "date": "2026-07-12",
+    "url": "https://xix.ai/ainews/google-unveils-gemini-embedding2-native-multimodal-model-unifies-semantic-spaces.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ForgeStack Release Wave",
+    "summary": "ForgeStack releases four new libraries for real-time AI-powered apps",
+    "date": "2026-07-12",
+    "url": "https://dev.to/john_yaghobieh_8f294091f6/the-forgestack-release-wave-four-new-libraries-and-the-missing-pieces-for-real-time-ai-powered-1dph",
+    "category": "Product"
+  },
+  {
+    "topic": "Claude Code Browser",
+    "summary": "Claude Code now has a built-in browser for AI to read, click, and type on external websites",
+    "date": "2026-07-12",
+    "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+    "category": "Product"
+  },
+  {
+    "topic": "LongCat-2.0",
+    "summary": "Meituan open-sources LongCat-2.0, a trillion-parameter model trained end-to-end on Chinese chips",
+    "date": "2026-07-12",
+    "url": "https://dev.to/breachprotocol/meituan-open-sources-longcat-20-a-trillion-parameter-model-it-says-was-trained-end-to-end-on-63o",
+    "category": "Open Source"
+  },
+  {
+    "topic": "M3 Large Model",
+    "summary": "MiniMax open-sources M3 Large Model with MSA architecture, rivaling overseas flagships",
+    "date": "2026-07-12",
+    "url": "https://xix.ai/ainews/minimax-opensources-m3-large-model-with-msa-architecture-1m-context-rivaling-overseas-flagships.html",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Orca World Model Release",
+    "summary": "BAAI releases Orca, a world foundation model that matches specialized robotics systems without action labels",
+    "date": "2026-07-11",
+    "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LingBot-VA 2.0 Release",
+    "summary": "Robbyant releases LingBot-VA 2.0, a causal video-action model for embodied intelligence",
+    "date": "2026-07-11",
+    "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "ARDY Release",
+    "summary": "NVIDIA releases ARDY, an autoregressive diffusion model for real-time text-to-motion generation",
+    "date": "2026-07-11",
+    "url": "https://studio.aifilms.ai/blog/ardy-nvidia-real-time-motion-generation",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Mesh LLM",
+    "summary": "Mesh LLM pools GPUs from multiple machines into a single distributed AI computing mesh",
+    "date": "2026-07-11",
+    "url": "https://topaiproduct.com/2026/07/11/mesh-llm-pools-every-gpu-in-your-house-into-one-local-ai-cluster-in-an-18mb-binary/",
+    "category": "Product"
+  },
+  {
+    "topic": "ChatGPT Work",
+    "summary": "OpenAI launches ChatGPT Work, an autonomous AI agent for executing complex business tasks, powered by GPT-5.6",
+    "date": "2026-07-11",
+    "url": "https://infotechlead.com/artificial-intelligence/openai-launches-chatgpt-work-and-gpt-5-6-ai-models-to-automate-enterprise-workflows-97072",
+    "category": "Product"
+  },
+  {
+    "topic": "Microsoft Agent Framework",
+    "summary": "Microsoft Agent Framework provides a set of capabilities for building interactive AI applications",
+    "date": "2026-07-10",
+    "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+    "category": "Product"
+  },
+  {
+    "topic": "LingBot-World-Infinity",
+    "summary": "Robbyant releases LingBot-World-Infinity, an open causal world model with an agentic harness",
+    "date": "2026-07-10",
+    "url": "https://thenews92.com/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-5.6",
+    "summary": "OpenAI launches GPT-5.6, a new family of models with improvements in cybersecurity capabilities and multi-domain optimization",
+    "date": "2026-07-10",
+    "url": "https://vff.ai/article/2026/07/10/openai-launches-its-new-family-of-models-with-gpt-5-6",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Muse Spark 1.1",
+    "summary": "Meta launches Muse Spark 1.1, a multimodal AI model for agentic coding, competing with OpenAI and Anthropic",
+    "date": "2026-07-09",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Co-LMLM Release",
+    "summary": "Co-LMLM replaces fixed KB queries with continuous vector queries and improves factual precision without baking facts into weights",
+    "date": "2026-07-09",
+    "url": "https://oracore.dev/en/news/co-lmlm-continuous-query-limited-memory-models-en",
+    "category": "Research"
+  },
+  {
+    "topic": "AlphaEvolve",
+    "summary": "AlphaEvolve is a code optimization and discovery agent available on Google Cloud",
+    "date": "2026-07-09",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone",
+    "category": "Product"
+  },
+  {
+    "topic": "GLM 5.2",
+    "summary": "Z.ai releases GLM 5.2, a new rise of open-weight agentic models",
+    "date": "2026-07-09",
+    "url": "https://lambda.ai/blog/glm-5.2-a-new-rise-to-open-weight-agentic-models",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-Live Release",
+    "summary": "OpenAI releases GPT-Live, a new generation of voice models for natural human-AI interaction",
+    "date": "2026-07-08",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "category": "Product"
+  },
+  {
+    "topic": "LingBot-Vision",
+    "summary": "Ant Group's Robbyant open-sources LingBot-Vision, a 1B boundary-centric vision foundation model",
+    "date": "2026-07-08",
+    "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "CLRK Cognitive Loop Runtime",
+    "summary": "CLRK is an open-source cognitive loop runtime for Kubernetes",
+    "date": "2026-07-07",
+    "url": "https://apoxy.dev/blog/enter-clrk",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Muse Image and Video",
+    "summary": "Meta introduces Muse Image and Muse Video, AI models for image and video generation",
+    "date": "2026-07-07",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Manticore ONNX Path",
+    "summary": "Manticore rebuilds its ONNX integration, resulting in a 14x increase in embedding generation speed",
+    "date": "2026-07-03",
+    "url": "https://cybermediacreations.com/14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nexus Knowledge Engine Release",
+    "summary": "Pinecone releases Nexus, a knowledge engine for AI agents that compiles an organization's documents into a structured knowledge layer",
+    "date": "2026-07-02",
+    "url": "https://letsdatascience.com/news/pinecone-launches-nexus-knowledge-engine-into-preview-97b6594c",
+    "category": "Product"
+  },
+  {
+    "topic": "Microsoft Frontier Company",
+    "summary": "Microsoft launches Microsoft Frontier Company, a new operating business for enterprise AI deployments, with a $2.5 billion commitment",
+    "date": "2026-07-02",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "category": "Product"
+  },
+  {
+    "topic": "Cognee AI Memory Platform",
+    "summary": "Cognee is an open-source AI memory platform that provides persistent long-term memory for agents",
+    "date": "2026-07-01",
+    "url": "https://andrew.ooo/posts/cognee-open-source-ai-memory-platform-agents-review/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "NVIDIA BioNeMo Agent Toolkit",
+    "summary": "NVIDIA BioNeMo Agent Toolkit brings accelerated AI to life sciences researchers",
+    "date": "2026-06-30",
+    "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+    "category": "Product"
+  },
+  {
+    "topic": "Bedrock Titan Multimodal",
+    "summary": "Bedrock Titan multimodal model integrates photos and words into one vector space on Aurora",
+    "date": "2026-06-29",
+    "url": "https://dev.to/jareddlewis/one-vector-space-for-photos-and-words-bedrock-titan-multimodal-on-aurora-236c",
+    "category": "Model Release"
+  }
+]
