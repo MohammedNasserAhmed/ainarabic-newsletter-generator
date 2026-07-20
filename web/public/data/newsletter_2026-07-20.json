@@ -1,0 +1,184 @@
+[
+  {
+    "topic": "Alibaba Qwen 3.8",
+    "summary": "Alibaba announces Qwen 3.8, a 2.4 trillion-parameter open-weight model, second only to Fable 5",
+    "date": "2026-07-19",
+    "url": "https://officechai.com/ai/alibaba-qwen-3-8/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Thinking Machines Lab Inkling",
+    "summary": "Thinking Machines Lab launches Inkling, a 975B parameter open-weight AI model with DeepSeek-inspired design",
+    "date": "2026-07-19",
+    "url": "https://winbuzzer.com/2026/07/19/thinking-machines-lab-launches-deepseek-inspired-inkling-xcxwbn/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Palistor MVVM Framework",
+    "summary": "Palistor releases an experimental AI-friendly MVVM framework for React, enabling client-side rendering and semantic search",
+    "date": "2026-07-19",
+    "url": "https://dev.to/yuri_palienko/palistor-is-here-the-ai-friendly-mvvm-framework-for-react-experimental-5162",
+    "category": "Other"
+  },
+  {
+    "topic": "T-Tech T-Search",
+    "summary": "T-Tech open-sources T-Search, a high-performance agentic retriever for multi-step search tasks, running on a single GPU",
+    "date": "2026-07-19",
+    "url": "https://quasa.io/media/t-tech-open-sources-t-search-high-performance-agentic-retriever-for-multi-step-search-that-runs-on-a-single-gpu",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Perplexity AI WANDR Benchmark",
+    "summary": "Perplexity AI releases WANDR, an open benchmark for evaluating research agents that must search wide and deep",
+    "date": "2026-07-19",
+    "url": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
+    "category": "Research"
+  },
+  {
+    "topic": "Aether-7B-5Attn Model",
+    "summary": "Aether-7B-5Attn, a 100% open-source sovereign foundation model, is released",
+    "date": "2026-07-19",
+    "url": "https://huggingface.co/blog/FINAL-Bench/opensource-llm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "VideoChat3 Model",
+    "summary": "VideoChat3, a 4-billion-parameter video understanding model, is released",
+    "date": "2026-07-19",
+    "url": "https://www.techtimes.com/articles/320953/20260719/videochat3-beats-gpt-5-on-video-grounding-open-source-full-training-stack-released.htm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Qwen3.8 Max Model",
+    "summary": "Alibaba debuts Qwen3.8 Max, a 2.4 trillion-parameter AI model with upcoming open-weight release for developers",
+    "date": "2026-07-19",
+    "url": "https://yellow.com/news/qwen-3-8-max-2-4-trillion-parameters",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Alibaba's SAIL Stack",
+    "summary": "Alibaba open-sources SAIL stack, a software architecture for its Zhenwu AI processors, as an alternative to NVIDIA's CUDA",
+    "date": "2026-07-18",
+    "url": "https://aiweekly.co/alerts/alibabas-t-head-open-sources-sail-stack-to-chip-at-nvidias-cuda-moat",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Composio Integrations",
+    "summary": "Composio releases integrations for Hermes and Claude Cowork agent frameworks, enabling local LLM runner and Hugging Face model support",
+    "date": "2026-07-18",
+    "url": "https://newclawtimes.com/articles/composio-ollama-hermes-hugging-face-claude-cowork-agent-framework-integrations/",
+    "category": "Product"
+  },
+  {
+    "topic": "Moonshot Kimi K3",
+    "summary": "Moonshot AI releases Kimi K3, the world's largest open AI model with 2.8 trillion parameters",
+    "date": "2026-07-17",
+    "url": "https://thenextweb.com/news/moonshot-kimi-k3-largest-open-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Google Gemini 3.5 Pro",
+    "summary": "Google DeepMind releases Gemini 3.5 Pro with 2-million-token context window and new Deep Think reasoning mode",
+    "date": "2026-07-17",
+    "url": "https://davidandgoliath.ai/daily-ai-briefing/google-gemini-3-5-pro-2m-context-window-launch",
+    "category": "Product"
+  },
+  {
+    "topic": "Grok 4.5",
+    "summary": "SpaceXAI launches Grok 4.5 with aggressive API pricing and immediate availability",
+    "date": "2026-07-17",
+    "url": "https://choosely.ai/ai-radar/grok-4-5-ai-tool-changes-july-2026",
+    "category": "Product"
+  },
+  {
+    "topic": "Ledger AI Toolkit",
+    "summary": "Ledger releases an open-source AI toolkit with hardware-enforced approval for crypto transactions, enabling secure AI agent management",
+    "date": "2026-07-17",
+    "url": "https://cryptonews.com.au/news/ledger-launches-open-source-ai-toolkit-with-hardware-enforced-approval-for-crypto-transactions-134323/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3 Embed",
+    "summary": "NVIDIA releases Nemotron 3 Embed, an open embedding model collection with 8B and 1B variants for retrieval and agentic workflows",
+    "date": "2026-07-16",
+    "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/?amp=",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA BioNeMo Agent Toolkit",
+    "summary": "NVIDIA releases BioNeMo Agent Toolkit, accelerating AI for life sciences researchers with Claude Science integration",
+    "date": "2026-07-16",
+    "url": "https://hitechub.com/nvidia-bionemo-agent-toolkit-accelerating-ai-for-life-sciences-researchers-with-claude-science/",
+    "category": "Product"
+  },
+  {
+    "topic": "Roblox Build",
+    "summary": "Roblox launches Build, a mobile-first creation tab with AI-powered tools",
+    "date": "2026-07-16",
+    "url": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+    "category": "Product"
+  },
+  {
+    "topic": "Horizon Platform",
+    "summary": "Sierra announces Horizon, a platform for agents to pursue long-horizon goals",
+    "date": "2026-07-16",
+    "url": "https://sierra.ai/blog/horizon",
+    "category": "Product"
+  },
+  {
+    "topic": "Functionize Studio",
+    "summary": "Functionize launches Studio, a quality platform with adversarial agents",
+    "date": "2026-07-16",
+    "url": "https://www.prnewswire.com/news-releases/functionize-launches-studio-a-quality-platform-whose-adversarial-agents-prove-software-works-as-intended-302827226.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Inkling AI Model",
+    "summary": "Thinking Machines Lab releases Inkling, a 975 billion-parameter open-weights multimodal AI model for customizable AI development",
+    "date": "2026-07-16",
+    "url": "https://www.unite.ai/thinking-machines-lab-unveils-inkling-its-first-open-weights-multimodal-ai-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Claude Design Launch",
+    "summary": "Anthropic Labs launches Claude Design, a visual collaboration tool",
+    "date": "2026-07-14",
+    "url": "https://uncensoredhub.ai/news/2026-07-13-claude-design-launches-as-anthropic-labs-visual-collaboration-tool",
+    "category": "Product"
+  },
+  {
+    "topic": "Oracle AI-Native Builder",
+    "summary": "Oracle introduces AI-native builder experience for Oracle Fusion Applications",
+    "date": "2026-07-14",
+    "url": "https://www.prnewswire.com/news-releases/oracle-introduces-ai-native-builder-experience-to-create-and-run-agentic-applications-in-oracle-fusion-applications-302824977.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Meta's FastText-lmo-vectors",
+    "summary": "Meta releases FastText-lmo-vectors, efficient and lightweight word embeddings for natural language processing",
+    "date": "2026-07-13",
+    "url": "https://aichina.news/blog/meta-s-fasttext-lmo-vectors-efficient-lightweight-embeddings-now-6jq49r/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Agent Service Toolkit",
+    "summary": "JoshuaC215 releases an open-source agent service toolkit for running AI agent services with LangGraph, FastAPI, and Streamlit",
+    "date": "2026-07-12",
+    "url": "https://github.com/JoshuaC215/agent-service-toolkit",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Kastor Infrastructure-as-Code",
+    "summary": "Kastor releases a tool for defining AI agents in HCL, enabling infrastructure-as-code habits for AI agent development",
+    "date": "2026-07-08",
+    "url": "https://news.lavx.hu/article/kastor-brings-infrastructure-as-code-habits-to-ai-agents",
+    "category": "Other"
+  },
+  {
+    "topic": "Ternlight Embedding Model",
+    "summary": "Ternlight releases a 7MB embedding model that runs entirely in the browser, enabling client-side semantic search",
+    "date": "2026-07-07",
+    "url": "https://www.developersdigest.tech/blog/ternlight-browser-embedding-model-wasm",
+    "category": "Model Release"
+  }
+]
