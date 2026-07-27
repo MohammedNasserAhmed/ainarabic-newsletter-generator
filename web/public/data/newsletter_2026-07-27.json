@@ -1,0 +1,191 @@
+[
+  {
+    "topic": "Inkling AI Model",
+    "summary": "Thinking Machines Lab releases Inkling, a 975-billion-parameter open-source AI model with impressive performance on autonomous tool execution and workflow handling",
+    "date": "2026-07-26",
+    "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
+    "category": "Model Release"
+  },
+  {
+    "topic": "FLUX 3 Multimodal Model",
+    "summary": "Black Forest Labs releases FLUX 3, a multimodal flow model for image, video, audio, and robot action prediction, built on the Self-Flow method",
+    "date": "2026-07-26",
+    "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Agent Toolkit",
+    "summary": "NVIDIA expands Agent Toolkit with PhysicsNeMo and CUDA-X libraries",
+    "date": "2026-07-26",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds",
+    "category": "Product"
+  },
+  {
+    "topic": "MobileGraph AI Framework",
+    "summary": "MobileGraph introduces open-source AI framework for Kotlin Multiplatform",
+    "date": "2026-07-26",
+    "url": "https://noah-news.com/mobilegraph-introduces-comprehensive-open-source-ai-framework-for-kotlin-multipl/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Solana Agent Skills",
+    "summary": "Solana Foundation launches Agent Skills for connecting AI tools with on-chain operations",
+    "date": "2026-07-26",
+    "url": "https://bitrss.com/solana-foundation-launches-agent-skills-to-connect-ai-tools-with-on-chain-operations-198623",
+    "category": "Product"
+  },
+  {
+    "topic": "Meituan LongCat-2.0",
+    "summary": "Meituan releases LongCat-2.0, a 1.6T parameter model for agentic coding",
+    "date": "2026-07-26",
+    "url": "https://aitoolly.com/ai-news/article/2026-07-26-meituan-open-sources-longcat-20-a-16t-parameter-model-optimized-for-agentic-coding-and-domestic-gpu",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Inflect-Micro-v2",
+    "summary": "Owen Song releases Inflect-Micro-v2, a 9.36M parameter text-to-speech model",
+    "date": "2026-07-26",
+    "url": "https://runtimewire.com/article/owen-song-inflect-micro-v2-local-speech-9m-parameters",
+    "category": "Model Release"
+  },
+  {
+    "topic": "KAT-Coder-V2.5",
+    "summary": "KwaiKAT Team releases KAT-Coder-V2.5, an agentic coding model",
+    "date": "2026-07-26",
+    "url": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Claude Opus 5",
+    "summary": "Anthropic debuts Claude Opus 5, a model for everyday work at half the cost of Fable 5",
+    "date": "2026-07-26",
+    "url": "https://entrelligence.com/anthropic-debuts-claude-opus-5-half-cost-fable-5/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Anthropic Opus 5",
+    "summary": "Anthropic releases Opus 5, a new AI model with Fable 5-like capabilities, improved cybersecurity, and cost-effectiveness",
+    "date": "2026-07-24",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kimi K3 Open Weights",
+    "summary": "Moonshot AI announces the release of Kimi K3's open weights, a 2.8-trillion-parameter model, with a scheduled publication date of July 27",
+    "date": "2026-07-24",
+    "url": "https://www.techi.com/kimi-k3-open-weights-inference-economics/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "PyRIT for Agents",
+    "summary": "Microsoft releases PyRIT for Agents, an open-source red teaming toolkit",
+    "date": "2026-07-24",
+    "url": "https://www.aibreakingwire.com/news/security-news-microsoft-releases-pyrit-for-agents-an-open-source-red-teaming-too",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Guardian Framework",
+    "summary": "Adept AI Labs releases Guardian, an open-source framework for continuous red teaming of large language models",
+    "date": "2026-07-24",
+    "url": "https://www.aibreakingwire.com/news/security-news-adept-ai-labs-releases-guardian-an-open-source-framework-for-real-",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Apertus 1.5",
+    "summary": "Apertus 1.5 released, a fully open language model",
+    "date": "2026-07-24",
+    "url": "https://www.cscs.ch/science/computer-science-hpc/2026/apertus-15-building-the-next-generation-of-open-ai-infrastructure",
+    "category": "Model Release"
+  },
+  {
+    "topic": "AMD Instella-MoE",
+    "summary": "AMD releases Instella-MoE, a fully open mixture-of-experts language model",
+    "date": "2026-07-24",
+    "url": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Agent Hub and Builder",
+    "summary": "HubSpot launches Agent Hub and Agent Builder for managing AI agents",
+    "date": "2026-07-23",
+    "url": "https://www.hubspot.com/company-news/meet-agent-hub-and-agent-builder",
+    "category": "Product"
+  },
+  {
+    "topic": "ChatGPT Health",
+    "summary": "OpenAI makes ChatGPT Health available to all US users",
+    "date": "2026-07-23",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "category": "Product"
+  },
+  {
+    "topic": "Health in ChatGPT",
+    "summary": "OpenAI launches Health in ChatGPT, a feature to connect medical records and Apple Health data",
+    "date": "2026-07-23",
+    "url": "https://siliconangle.com/2026/07/23/openai-launches-health-chatgpt-day-lawsuit-seeks-block/",
+    "category": "Product"
+  },
+  {
+    "topic": "GPT-Live",
+    "summary": "OpenAI introduces GPT-Live, a full-duplex voice control for Codex and ChatGPT on desktop",
+    "date": "2026-07-23",
+    "url": "https://hitechub.com/openai-introduces-gpt-live-full-duplex-voice-control-for-codex-and-chatgpt-on-desktop-for-hands-free-coding/",
+    "category": "Product"
+  },
+  {
+    "topic": "Microsoft Agent Framework",
+    "summary": "Microsoft releases Agent Framework Harness for building agentic workflows",
+    "date": "2026-07-22",
+    "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenAI Presence",
+    "summary": "OpenAI launches Presence, a platform for enterprises to deploy and manage AI agents",
+    "date": "2026-07-22",
+    "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+    "category": "Product"
+  },
+  {
+    "topic": "Applied Intuition Dana",
+    "summary": "Applied Intuition launches Dana, an agentic platform for physical AI",
+    "date": "2026-07-22",
+    "url": "https://www.prnewswire.com/apac/news-releases/applied-intuition-launches-dana-the-agentic-platform-for-physical-ai-302831516.html",
+    "category": "Product"
+  },
+  {
+    "topic": "TinyFish Mako",
+    "summary": "TinyFish launches Mako, a web-native AI model",
+    "date": "2026-07-22",
+    "url": "https://www.globenewswire.com/news-release/2026/07/22/3331662/0/en/TinyFish-Launches-Mako-A-Web-Native-AI-Model-Built-to-Operate-the-Live-Web.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Langy AI Engineer",
+    "summary": "LangWatch launches Langy, an automated AI engineer",
+    "date": "2026-07-22",
+    "url": "https://langwatch.ai/blog/introducing-langy-your-automated-ai-engineer",
+    "category": "Product"
+  },
+  {
+    "topic": "ChatGPT for Small Business",
+    "summary": "OpenAI introduces ChatGPT for small business program with virtual training and AI academies",
+    "date": "2026-07-22",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program/",
+    "category": "Product"
+  },
+  {
+    "topic": "Harness Agent DLC",
+    "summary": "Harness introduces Agent DLC for AI agent development lifecycle",
+    "date": "2026-07-21",
+    "url": "https://www.prnewswire.com/news-releases/introducing-harness-agent-dlc-new-capabilities-for-the-ai-agent-development-lifecycle-302830967.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Nemotron 3 Embed",
+    "summary": "NVIDIA releases Nemotron 3 Embed, a family of open embedding models, including an 8B model that ranks #1 on the RTEB benchmark",
+    "date": "2026-07-16",
+    "url": "https://ai-tldr.dev/releases/nvidia-nemotron-3-embed-jul16/",
+    "category": "Model Release"
+  }
+]
