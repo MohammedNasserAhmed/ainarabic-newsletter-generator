@@ -1,0 +1,163 @@
+[
+  {
+    "topic": "AnyMind Group AnyAI Agent",
+    "summary": "AnyMind Group launches AnyAI Agent to help enterprises transform marketing and e-commerce operations with autonomous AI",
+    "date": "2026-08-03",
+    "url": "https://anymindgroup.com/news/press-release/anyai-agent-launch-0826",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenAI Astra Model",
+    "summary": "OpenAI's Astra model solves 10 long-open math problems",
+    "date": "2026-08-02",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Inkling-Small Model",
+    "summary": "Thinking Machines Lab releases Inkling-Small, a 276B multimodal MoE model",
+    "date": "2026-08-02",
+    "url": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Buzz AI Platform",
+    "summary": "Jack Dorsey launches Buzz, a free multi-agent AI platform for team collaboration",
+    "date": "2026-08-02",
+    "url": "https://www.geeky-gadgets.com/jack-dorsey-buzz-ai-chat/",
+    "category": "Product"
+  },
+  {
+    "topic": "AuraStack AI Super Agent",
+    "summary": "Cadence introduces AuraStack AI Super Agent for PCB and advanced packaging design",
+    "date": "2026-08-02",
+    "url": "https://digitalreg.net/enterprise/cadence-introduces-aurastack-ai-super-agent/",
+    "category": "Product"
+  },
+  {
+    "topic": "Wilder AI",
+    "summary": "Wilder Intelligence launches Wilder AI, a high-stakes research platform",
+    "date": "2026-08-02",
+    "url": "https://digitalmarketreports.com/news/88377/wilder-intelligence-inc-launches-wilder-ai-the-high-stakes-research-platform-where-accuracy-is-the-baseline-not-the-upgrade/",
+    "category": "Product"
+  },
+  {
+    "topic": "Astra Solves Math Problems",
+    "summary": "OpenAI's Astra model solves ten decade-old math problems with machine-checkable Lean proofs",
+    "date": "2026-08-02",
+    "url": "https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Claude Design",
+    "summary": "Anthropic's Claude Design scans websites, rebuilds design systems from scratch",
+    "date": "2026-08-01",
+    "url": "https://cryptobriefing.com/claude-design-scans-websites-rebuilds-design-systems/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MiniMax H3",
+    "summary": "MiniMax releases MiniMax H3, an omni-modal video model",
+    "date": "2026-08-01",
+    "url": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Instella-MoE-16B-A3B",
+    "summary": "AMD releases Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model",
+    "date": "2026-08-01",
+    "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "K-EXAONE 2.0 Model",
+    "summary": "LG AI Research releases K-EXAONE 2.0, Korea's largest 750B AI foundation model",
+    "date": "2026-07-31",
+    "url": "https://www.lgresearch.ai/news/view?seq=678",
+    "category": "Model Release"
+  },
+  {
+    "topic": "DeepSeek-V4-Flash-0731",
+    "summary": "DeepSeek releases V4-Flash-0731 with major agentic and coding gains, now in public beta",
+    "date": "2026-07-31",
+    "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MemTensor Metis Models",
+    "summary": "MemTensor releases Metis models that write memory inside the backbone",
+    "date": "2026-07-31",
+    "url": "https://runtimewire.com/article/memtensor-metis-native-memory-models",
+    "category": "Model Release"
+  },
+  {
+    "topic": "mDenseOn and mLateOn Models",
+    "summary": "LightOn AI releases mDenseOn and mLateOn, open multilingual retrieval models",
+    "date": "2026-07-30",
+    "url": "https://huggingface.co/blog/lightonai/mdenseon-mlateon",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Robotics ER 2",
+    "summary": "Google DeepMind launches Gemini Robotics ER 2, an embodied reasoning model for robots",
+    "date": "2026-07-30",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "PlacePulse Embeddings",
+    "summary": "CARTO releases PlacePulse Embeddings, a geospatial foundation model",
+    "date": "2026-07-28",
+    "url": "https://carto.com/blog/placepulse-embeddings-fingerprint-every-place-us/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kimi K3",
+    "summary": "Moonshot AI releases Kimi K3, a 2.8T parameter Mixture-of-Experts model",
+    "date": "2026-07-27",
+    "url": "https://arxiv.org/abs/2607.24653v1",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Molt",
+    "summary": "NVIDIA releases Molt, a PyTorch-native agentic reinforcement learning framework",
+    "date": "2026-07-27",
+    "url": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "NVIDIA PhysicsNeMo",
+    "summary": "NVIDIA integrates PhysicsNeMo and CUDA-X into Agent Toolkit for automated engineering workflows",
+    "date": "2026-07-27",
+    "url": "https://techiexpert.com/nvidia-integrates-physicsnemo-and-cuda-x-into-agent-toolkit-to-automate-engineering-workflows/",
+    "category": "Product"
+  },
+  {
+    "topic": "Adept AI Guardian",
+    "summary": "Adept AI Labs releases Guardian, an open-source framework for continuous automated red teaming of large language models",
+    "date": "2026-07-24",
+    "url": "https://www.aibreakingwire.com/news/security-news-adept-ai-labs-releases-guardian-an-open-source-framework-for-real-",
+    "category": "Open Source"
+  },
+  {
+    "topic": "VectorSec Red-Team-GPT",
+    "summary": "VectorSec releases Red-Team-GPT, an open-source framework for automated LLM security audits",
+    "date": "2026-07-23",
+    "url": "https://www.aibreakingwire.com/news/security-news-vectorsec-releases-red-team-gpt-an-open-source-framework-for-autom",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Gemini A.I. Models",
+    "summary": "Google releases three new Gemini A.I. models, including Gemini 3.6 Flash",
+    "date": "2026-07-21",
+    "url": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Nemotron-3-Embed-1B-BF16 Model",
+    "summary": "NVIDIA releases Nemotron-3-Embed-1B-BF16, a 1.14B multilingual embedding model",
+    "date": "2026-07-20",
+    "url": "https://tpsreport.news/news/nvidia-nemotron-3-embed-1b-bf16-multilingual-embedding",
+    "category": "Model Release"
+  }
+]
