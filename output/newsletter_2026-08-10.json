@@ -1,0 +1,268 @@
+[
+  {
+    "topic": "NVIDIA NemotronLabs VoiceChat 11B Released",
+    "summary": "NVIDIA releases NemotronLabs VoiceChat 11B, a full-duplex speech-to-speech model",
+    "date": "2026-08-09",
+    "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Vakra and Granite Embedding Multilingual R2 Models Released",
+    "summary": "IBM Research releases Vakra and Granite Embedding Multilingual R2 models for agent reasoning and multilingual embeddings",
+    "date": "2026-08-09",
+    "url": "https://pulseaugur.com/cluster/189853-ibm-research-unveils-vakra-and-granite-embedding-multilingual-r2-models",
+    "category": "Model Release"
+  },
+  {
+    "topic": "LFM2.5-2.6B Model Released",
+    "summary": "Liquid AI releases LFM2.5-2.6B, an on-device agentic model with 128K context and tool calling capabilities",
+    "date": "2026-08-07",
+    "url": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Lattice Embedding Model Released",
+    "summary": "Hugging Face releases Lattice, a static retriever that embeds Wikipedia in 7 minutes",
+    "date": "2026-08-07",
+    "url": "https://huggingface.co/blog/erikkaum/lattice-blog",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA NOOA Framework",
+    "summary": "NVIDIA releases NOOA, an object-oriented Python framework for building AI agents.",
+    "date": "2026-08-07",
+    "url": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Ling-3.0-flash Model",
+    "summary": "Ant Group's inclusionAI releases Ling-3.0-flash, a 124B MoE model with 5.1B active parameters, claiming to match or beat its 1T flagship on most benchmarks",
+    "date": "2026-08-07",
+    "url": "https://topaiproduct.com/2026/08/07/can-5-1b-active-parameters-match-a-1t-flagship-ling-3-0-flash-ant-group-inclusionai-says-yes/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Kitesurf Browser",
+    "summary": "Cloudflare launches Kitesurf, a cloud-hosted browser designed for AI agents, enabling them to navigate websites and complete tasks",
+    "date": "2026-08-07",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "category": "Product"
+  },
+  {
+    "topic": "Dogwood Runtime Verification",
+    "summary": "AWS releases Dogwood, an open-source governance language for runtime verification of AI agents.",
+    "date": "2026-08-06",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Work IQ Developer Tools",
+    "summary": "Microsoft releases the Work IQ Developer Tools, a platform for building and deploying AI agents.",
+    "date": "2026-08-06",
+    "url": "https://devblogs.microsoft.com/microsoft365dev/announcing-the-preview-of-the-work-iq-developer-tools/",
+    "category": "Product"
+  },
+  {
+    "topic": "SerpApi Search Tools",
+    "summary": "SerpApi releases SerpApi Search Tools, a library for integrating web search with AI agents.",
+    "date": "2026-08-06",
+    "url": "https://serpapi.com/blog/introducing-serpapi-search-tools-real-time-web-search-for-python-ai-agents/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Pinecone Nexus Available",
+    "summary": "Pinecone announces general availability of Pinecone Nexus, a knowledge engine for agentic AI",
+    "date": "2026-08-06",
+    "url": "https://www.pinecone.io/newsroom/general-availability-of-pinecone-nexus-proves-knowledge-drives-real-outcomes-for-agentic-ai/",
+    "category": "Product"
+  },
+  {
+    "topic": "Kimi K3 Available in GitHub Copilot",
+    "summary": "Kimi K3, an open-weight model, is now available in GitHub Copilot with cost-effective pricing",
+    "date": "2026-08-06",
+    "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot/",
+    "category": "Product"
+  },
+  {
+    "topic": "Tencent Hy3 Now Available",
+    "summary": "Tencent announces global availability of Hy3, a practical AI model for various products and workflows",
+    "date": "2026-08-05",
+    "url": "https://www.tencent.com/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services/",
+    "category": "Product"
+  },
+  {
+    "topic": "Amazon DynamoDB Vector Search",
+    "summary": "Amazon DynamoDB now supports real-time vector search, allowing for similarity searches on vector embeddings.",
+    "date": "2026-08-05",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+    "category": "Product"
+  },
+  {
+    "topic": "Prime Agent",
+    "summary": "Prime Intellect releases Prime Agent, a self-improving RLM agent.",
+    "date": "2026-08-05",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Hark Handoff Released",
+    "summary": "Hark unveils Handoff, a fast computer use agent that navigates the open web autonomously",
+    "date": "2026-08-05",
+    "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+    "category": "Product"
+  },
+  {
+    "topic": "KIBO AI Released",
+    "summary": "KIBO Commerce launches KIBO AI, a unified Agentic Layer for commerce and order management",
+    "date": "2026-08-05",
+    "url": "https://kibocommerce.com/press-events/kibo-ai-unified-agentic-commerce-oms/",
+    "category": "Product"
+  },
+  {
+    "topic": "Shieldstral Model Released",
+    "summary": "Mistral introduces Shieldstral, a 3-billion-parameter model that matches larger safety models at a fraction of the size",
+    "date": "2026-08-05",
+    "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Muse Code Launch",
+    "summary": "Meta debuts Muse Code, a coding agent to compete with Anthropic and OpenAI, offering a pay-as-you-go option with similar API pricing",
+    "date": "2026-08-05",
+    "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Hark Handoff Agent",
+    "summary": "Hark previews its browser use agent, Hark Handoff, which can navigate websites to complete tasks, including ordering food or booking travel tickets",
+    "date": "2026-08-05",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "category": "Product"
+  },
+  {
+    "topic": "LFM2.5-2.6B Released",
+    "summary": "Liquid AI releases LFM2.5-2.6B, a small and efficient AI model for local devices",
+    "date": "2026-08-04",
+    "url": "https://www.liquid.ai/blog/lfm2-5-2-6b",
+    "category": "Model Release"
+  },
+  {
+    "topic": "NVIDIA Alpamayo 2 Super Released",
+    "summary": "NVIDIA releases Alpamayo 2 Super, an open reasoning model for autonomous vehicles",
+    "date": "2026-08-04",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "UEmbed Multimodal Embedding Model Released",
+    "summary": "Alibaba NLP releases UEmbed, a unified multimodal embedding model for dense and sparse retrieval",
+    "date": "2026-08-04",
+    "url": "https://www.linkedin.com/posts/modelscope_uembed-multimodalembedding-informationretrieval-activity-7490466793069821952-LxjA",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Geo-Embed Model",
+    "summary": "Researchers introduce Geo-Embed, a unified model for instruction-conditioned matching of heterogeneous geospatial inputs.",
+    "date": "2026-08-04",
+    "url": "https://www.alphaxiv.org/overview/2608.03826",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Channels SDK",
+    "summary": "CopilotKit releases the Channels SDK, a library for integrating AI agents with chat platforms.",
+    "date": "2026-08-04",
+    "url": "https://www.copilotkit.ai/blog/channels-sdk",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Agentflow",
+    "summary": "Agentflow is now publicly available, a scheduler for AI agents.",
+    "date": "2026-08-04",
+    "url": "https://veducate.co.uk/agentflow-public-release/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Agentforce Coworker Launched",
+    "summary": "Salesforce introduces Agentforce Coworker, an autonomous AI teammate for sales and customer service",
+    "date": "2026-08-04",
+    "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
+    "category": "Product"
+  },
+  {
+    "topic": "Atlas AI Coworker Released",
+    "summary": "WorkOS launches Atlas, an AI coworker that assists with tasks and answers questions in Slack",
+    "date": "2026-08-04",
+    "url": "https://workos.com/blog/atlas",
+    "category": "Product"
+  },
+  {
+    "topic": "Unity AI Gateway Available",
+    "summary": "Databricks announces the general availability of Unity AI Gateway for AI governance and cost control",
+    "date": "2026-08-04",
+    "url": "https://www.databricks.com/blog/unity-ai-gateway-generally-available",
+    "category": "Product"
+  },
+  {
+    "topic": "Warp Agent CLI Released",
+    "summary": "Warp launches the Warp Agent CLI, a standalone coding agent with model-routing capabilities",
+    "date": "2026-08-04",
+    "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+    "category": "Product"
+  },
+  {
+    "topic": "openPangu-2.0-Pro Open-Sourced",
+    "summary": "Huawei open-sources openPangu-2.0-Pro, a 505B open-weight language model with native stereo audio generation",
+    "date": "2026-08-04",
+    "url": "https://www.opensourceforu.com/2026/08/huawei-open-sources-505b-openpangu-ai-drops-weights-and-code/",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Cisco Antares Released",
+    "summary": "Cisco introduces Antares, a family of open-weight small-language models for secure AI and vulnerability detection",
+    "date": "2026-08-04",
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-antares-helping-to-make-ai-secure-for-all.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Alibaba Unveils Qwen3.8-Max",
+    "summary": "Alibaba unveils Qwen3.8-Max, its largest AI model yet, with 2.4 trillion parameters",
+    "date": "2026-08-03",
+    "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MiniMax H3 Open-Sourced",
+    "summary": "MiniMax open-sources MiniMax H3, a general-purpose video model with unified understanding of multimodal contexts",
+    "date": "2026-08-03",
+    "url": "https://www.minimax.io/news/minimax-h3-open-source",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Embedding API in Chrome",
+    "summary": "The Embedding API is now available in Chrome Canary 153, allowing for semantic embedding of text on-device.",
+    "date": "2026-08-02",
+    "url": "https://www.linkedin.com/posts/resoneo_github-explainers-by-googlerssemantic-embedder-api-activity-7489751073176453120-rh-M",
+    "category": "Product"
+  },
+  {
+    "topic": "mDenseOn and mLateOn Models",
+    "summary": "Lightonai releases mDenseOn and mLateOn, open multilingual retrieval models trained on a 2.8B-pair corpus.",
+    "date": "2026-07-30",
+    "url": "https://huggingface.co/blog/lightonai/mdenseon-mlateon",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Inkling-Small Model Released",
+    "summary": "Thinking Machines Lab introduces Inkling-Small, an efficient open-weights model with comparable performance to Inkling",
+    "date": "2026-07-30",
+    "url": "https://thinkingmachines.ai/news/inkling-small/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini Robotics 2",
+    "summary": "Google DeepMind introduces Gemini Robotics 2, an intelligence layer for robots, enabling whole-body control, dexterity, and multi-robot collaboration",
+    "date": "2026-07-30",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "category": "Model Release"
+  }
+]
