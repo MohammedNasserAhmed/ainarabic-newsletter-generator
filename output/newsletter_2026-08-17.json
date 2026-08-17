@@ -1,0 +1,254 @@
+[
+  {
+    "topic": "OpenAI Multi-Agent v2",
+    "summary": "OpenAI releases Multi-Agent v2 update, adding support for Luna model and enabling task delegation",
+    "date": "2026-08-16",
+    "url": "https://cryptobriefing.com/openai-multi-agent-v2-luna-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Alibaba Qwen3.8-27B",
+    "summary": "Alibaba releases open-source AI model Qwen3.8-27B, optimized for local use on high-end MacBook Pro or Mac Studio systems",
+    "date": "2026-08-16",
+    "url": "https://www.digitaltoday.co.kr/en/view/93683/alibaba-releases-open-source-qwen3-8-27b-local-multimodal-ai-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Xiaohongshu dots3-note",
+    "summary": "Xiaohongshu AI team open-sources dots3-note, a 280 billion parameter MoE architecture with 16 billion active parameters",
+    "date": "2026-08-15",
+    "url": "https://www.panews.io/articles/01a005c3-9fe0-75b8-a3cf-416d83e6dcbe",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GLM-5.3",
+    "summary": "Z.ai releases GLM-5.3, a new AI model with advanced cyber capabilities and improved performance on coding benchmarks.",
+    "date": "2026-08-14",
+    "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MongoDB AI Retrieval Tools",
+    "summary": "MongoDB adds AI retrieval tools for live Atlas data, including automated embeddings and vector search",
+    "date": "2026-08-14",
+    "url": "https://itbrief.news/story/mongodb-adds-ai-retrieval-tools-for-live-atlas-data",
+    "category": "Product"
+  },
+  {
+    "topic": "AINE-DEV Enterprise Agentic AI Toolkit",
+    "summary": "AWS introduces AINE-DEV, an enterprise agentic AI toolkit for building and deploying AI-powered applications",
+    "date": "2026-08-14",
+    "url": "https://builder.aws/content/3HtxrRIZVr4G8r6OkDC8yWSlCYL/aine-dev-the-enterprise-agentic-ai-toolkit-on-aws",
+    "category": "Product"
+  },
+  {
+    "topic": "WRITER Palmyra X6",
+    "summary": "WRITER releases Palmyra X6, a new flagship model for enterprise AI workflows, with improved performance and cost efficiency",
+    "date": "2026-08-14",
+    "url": "https://writer.com/blog/palmyra-x6-major-harness-release/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Z.AI GLM-5.3",
+    "summary": "China's Z.AI releases GLM-5.3, a top open-weight coding model",
+    "date": "2026-08-14",
+    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Danish University DFM Mimir v1",
+    "summary": "Danish University releases DFM Mimir v1, a 1B-parameter AI model that matches 4B-parameter rivals on legal data",
+    "date": "2026-08-14",
+    "url": "https://www.techtimes.com/articles/324509/20260814/danish-university-releases-dfm-mimir-v1-1b-parameter-ai-matches-4b-parameter-rivals-legal-data.htm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Gemini 3.7 Flash",
+    "summary": "Google releases Gemini 3.7 Flash, its most intelligent workhorse model for coding and agents, with improved performance and lower cost.",
+    "date": "2026-08-13",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "GPT-5.6 Sol",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with improved safety features and competitive performance.",
+    "date": "2026-08-13",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Voyage-Code-4",
+    "summary": "Voyage AI releases Voyage-Code-4, a new code embedding model that outperforms existing models on code retrieval tasks.",
+    "date": "2026-08-13",
+    "url": "https://blog.voyageai.com/2026/08/13/voyage-code-4/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "OlmoEarth Studio Embedding Export",
+    "summary": "OlmoEarth Studio adds custom embedding export for Earth observation, allowing users to compute and export embedding vectors",
+    "date": "2026-08-13",
+    "url": "https://glonce.com/olmoearth-studio-adds-custom-embedding-export-for-earth/",
+    "category": "Product"
+  },
+  {
+    "topic": "DeepSeek Harness",
+    "summary": "DeepSeek launches an open-source agent harness, allowing developers to build and customize their own agent environments",
+    "date": "2026-08-13",
+    "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+    "category": "Open Source"
+  },
+  {
+    "topic": "Motif 3 Final Release",
+    "summary": "Motif Technologies releases final weights of Motif 3 language model under MIT License, allowing commercial use",
+    "date": "2026-08-13",
+    "url": "https://www.techtimes.com/articles/324260/20260813/motif-3-final-release-mit-license-opens-koreas-sovereign-ai-builders.htm",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Grok 4.6",
+    "summary": "SpaceXAI releases Grok 4.6, an updated model with improved performance for long-running agents and interactive workflows.",
+    "date": "2026-08-12",
+    "url": "https://x.ai/news/grok-4-6",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Grok Bot AI Agent",
+    "summary": "SpaceXAI introduces Grok Bot, an AI agent service that can work independently and complete multi-step workplace tasks",
+    "date": "2026-08-12",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "category": "Product"
+  },
+  {
+    "topic": "Facebook Creator Studio App",
+    "summary": "Facebook rolls out a standalone Creator Studio app with AI tools for creators, including personalized recommendations and engagement tools",
+    "date": "2026-08-12",
+    "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+    "category": "Product"
+  },
+  {
+    "topic": "Eightfold 360 Interview",
+    "summary": "Eightfold launches 360 Interview, an AI-powered interview platform that collapses multiple rounds into one conversation",
+    "date": "2026-08-12",
+    "url": "https://eightfold.ai/blog/meet-360-interview-ai-agent/",
+    "category": "Product"
+  },
+  {
+    "topic": "Ahrefs Letaido",
+    "summary": "Ahrefs launches Letaido, a new agent-powered workspace for marketing teams and agencies to improve collaboration on AI-generated work",
+    "date": "2026-08-12",
+    "url": "https://www.prweb.com/releases/ahrefs-launches-new-agent-powered-workspace-to-help-marketing-teams-and-agencies-improve-collaboration-on-ai-generated-work-across-the-entire-marketing-stack-302849305.html",
+    "category": "Product"
+  },
+  {
+    "topic": "Atlassian Code Context",
+    "summary": "Atlassian introduces Code Context, an AI context engine for entire codebases, enhancing agent capabilities",
+    "date": "2026-08-12",
+    "url": "https://www.atlassian.com/blog/development/code-context",
+    "category": "Product"
+  },
+  {
+    "topic": "NVIDIA Nemotron 3.5 Lightning",
+    "summary": "NVIDIA releases Nemotron 3.5 Lightning, a 30B parameter model optimized for long-running agentic AI workloads.",
+    "date": "2026-08-11",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "SpaceXAI Grok Bot",
+    "summary": "SpaceXAI launches Grok Bot, a new agent that operates apps for $120-per-month, enabling persistent digital coworkers",
+    "date": "2026-08-11",
+    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+    "category": "Product"
+  },
+  {
+    "topic": "Symphony by Wix",
+    "summary": "Wix introduces Symphony, a new AI agent platform for businesses, combining AI with business understanding",
+    "date": "2026-08-11",
+    "url": "https://www.wix.com/blog/ronny-elkayam-symphony-by-wix",
+    "category": "Product"
+  },
+  {
+    "topic": "OpenAI Daybreak",
+    "summary": "OpenAI launches Daybreak, a new cyber defense service with access to frontier cyber models",
+    "date": "2026-08-11",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "category": "Product"
+  },
+  {
+    "topic": "Muse Glimmer",
+    "summary": "Meta AI releases Muse Glimmer, an open-source agentic model that can run on local devices with a single GPU.",
+    "date": "2026-08-10",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "category": "Model Release"
+  },
+  {
+    "topic": "MAI-Image-2.6 Launch",
+    "summary": "Microsoft launches MAI-Image-2.6, ranking second on the Arena text-to-image leaderboard",
+    "date": "2026-08-10",
+    "url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "EmbeddingGemma",
+    "summary": "ShareAI releases EmbeddingGemma, a compact open embedding model with 300M parameters, suitable for on-device deployment.",
+    "date": "2026-08-09",
+    "url": "https://shareai.now/blog/news/embeddinggemma-shareai-300m-embedding-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Managed Deep Agents",
+    "summary": "LangSmith introduces Managed Deep Agents, a public beta for building and deploying deep agents without managing underlying infrastructure",
+    "date": "2026-08-07",
+    "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+    "category": "Product"
+  },
+  {
+    "topic": "Liquid AI LFM2.5-2.6B",
+    "summary": "Liquid AI releases LFM2.5-2.6B, an on-device agentic model with 128K context and open weights",
+    "date": "2026-08-07",
+    "url": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Ovis-Omni-Embedding",
+    "summary": "Alibaba's ATH-MaaS team releases Ovis-Omni-Embedding, an omni-modal embedding model for text, image, video, and audio.",
+    "date": "2026-08-05",
+    "url": "https://p.rst.im/q/GitHub.Com/ATH-MaaS/Ovis-Omni-Embedding",
+    "category": "Model Release"
+  },
+  {
+    "topic": "UEmbed",
+    "summary": "Researchers release UEmbed, a multimodal embedding model that fuses sparse and dense retrieval in one pass.",
+    "date": "2026-08-04",
+    "url": "https://aiweekly.co/alerts/uembed-fuses-sparse-and-dense-multimodal-retrieval-in-one-pass",
+    "category": "Model Release"
+  },
+  {
+    "topic": "UEmbed Multimodal Embeddings",
+    "summary": "Alibaba-NLP introduces UEmbed, a unified decoder-only multimodal embedding model",
+    "date": "2026-08-04",
+    "url": "https://cctest.ai/en/articles/uembed-unifies-sparse-and-dense-multimodal-embeddings-in-one-decoder",
+    "category": "Model Release"
+  },
+  {
+    "topic": "Channels SDK",
+    "summary": "CopilotKit introduces the Channels SDK, an open-source library for bringing AG-UI agents to channels like Slack and Microsoft Teams",
+    "date": "2026-08-04",
+    "url": "https://www.copilotkit.ai/blog/channels-sdk",
+    "category": "Open Source"
+  },
+  {
+    "topic": "GitHub Copilot Harness and Agent Framework",
+    "summary": "Microsoft announces the integration of GitHub Copilot with the Microsoft Agent Framework, enabling developers to build production-ready agents",
+    "date": "2026-08-04",
+    "url": "https://devblogs.microsoft.com/agent-framework/build-production-ready-agents-with-the-github-copilot-harness-and-agent-framework/",
+    "category": "Product"
+  },
+  {
+    "topic": "Orchard Agentic AI Framework",
+    "summary": "Microsoft introduces Orchard, an open framework for scalable agentic AI research and development",
+    "date": "2026-08-03",
+    "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "category": "Open Source"
+  }
+]
